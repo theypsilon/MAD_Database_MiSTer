@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>jumpshot</setname>
+   <name>Jump Shot</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Sports</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

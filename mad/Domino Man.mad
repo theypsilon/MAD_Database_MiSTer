@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>domino</setname>
+   <name>Domino Man</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Action</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

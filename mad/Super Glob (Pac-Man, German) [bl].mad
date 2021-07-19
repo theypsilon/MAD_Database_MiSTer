@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sprglbpg</setname>
+   <name>Super Glob</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <year>1984</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Bootleg</manufacturer>
+</misterarcadedescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>arkanoidj</setname>
+   <name>Arkanoid</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1986</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Taito</manufacturer>
+</misterarcadedescription>

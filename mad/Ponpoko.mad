@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ponpoko</setname>
+   <name>Ponpoko</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Sigma</manufacturer>
+</misterarcadedescription>

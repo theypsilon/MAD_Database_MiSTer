@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gberet</setname>
+   <name>Green Beret</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Run 'n' Gun - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
+</misterarcadedescription>

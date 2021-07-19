@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>warofbug</setname>
+   <name>War of the Bugs</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Armenia</manufacturer>
+</misterarcadedescription>

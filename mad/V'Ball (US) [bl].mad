@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vballb</setname>
+   <name>U.S. Championship V'ball</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <year>1988</year>
+   <category>Sports</category>
+   <manufacturer>Technos Japan</manufacturer>
+</misterarcadedescription>

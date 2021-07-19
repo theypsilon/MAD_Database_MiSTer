@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mario</setname>
+   <name>Mario Bros.</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1983</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
+</misterarcadedescription>

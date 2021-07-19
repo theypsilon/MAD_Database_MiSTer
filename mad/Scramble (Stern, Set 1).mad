@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>scramble</setname>
+   <name>Scramble</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
+</misterarcadedescription>

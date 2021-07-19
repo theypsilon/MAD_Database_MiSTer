@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>powerdrv</setname>
+   <name>Power Drive</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1986</year>
+   <category>Racing</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

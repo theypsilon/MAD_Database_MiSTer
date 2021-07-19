@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>blockgal</setname>
+   <name>Block Gal</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1987</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ldrun</setname>
+   <name>Lode Runner</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Irem</manufacturer>
+</misterarcadedescription>

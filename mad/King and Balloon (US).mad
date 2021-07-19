@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kingball</setname>
+   <name>King and Balloon</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1980</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
+</misterarcadedescription>

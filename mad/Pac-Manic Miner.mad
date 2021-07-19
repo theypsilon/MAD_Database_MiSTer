@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pac-Manic Miner</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>2013</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Jim Bagley</manufacturer>
+</misterarcadedescription>

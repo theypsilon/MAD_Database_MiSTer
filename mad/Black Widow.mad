@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bwidow</setname>
+   <name>Black Widow</name>
+   <resolution>31kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Shooter - Tube</category>
+   <manufacturer>Atari</manufacturer>
+</misterarcadedescription>

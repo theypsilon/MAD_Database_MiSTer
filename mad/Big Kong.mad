@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bigkong</setname>
+   <name>Big Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Falcon</manufacturer>
+</misterarcadedescription>

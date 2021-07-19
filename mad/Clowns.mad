@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>clowns</setname>
+   <name>Clowns</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1978</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Midway</manufacturer>
+</misterarcadedescription>

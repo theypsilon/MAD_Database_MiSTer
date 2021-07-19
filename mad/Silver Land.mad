@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>silvland</setname>
+   <name>Silver Land</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Sports</category>
+   <manufacturer>Falcon</manufacturer>
+</misterarcadedescription>

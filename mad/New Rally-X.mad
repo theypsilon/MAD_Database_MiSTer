@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>nrallyx</setname>
+   <name>New Rally-X</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Racing</category>
+   <manufacturer>Namco</manufacturer>
+</misterarcadedescription>

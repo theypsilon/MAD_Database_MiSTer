@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>lrescue</setname>
+   <name>Lunar Rescue</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1979</year>
+   <category>Lander</category>
+   <manufacturer>Taito</manufacturer>
+</misterarcadedescription>

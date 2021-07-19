@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>armorcar</setname>
+   <name>Armored Car</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1981</year>
+   <category>Maze</category>
+   <manufacturer>Stern</manufacturer>
+</misterarcadedescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vortex</setname>
+   <name>Vortex</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1980</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Zilec Electronics</manufacturer>
+</misterarcadedescription>

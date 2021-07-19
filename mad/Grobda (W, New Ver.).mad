@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>grobda</setname>
+   <name>Grobda</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>World</region>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Namco</manufacturer>
+</misterarcadedescription>

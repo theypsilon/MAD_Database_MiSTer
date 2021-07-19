@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>demoderm</setname>
+   <name>Demolition Derby</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Racing</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

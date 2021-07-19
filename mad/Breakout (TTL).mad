@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>breakout</setname>
+   <name>Breakout</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1976</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Atari</manufacturer>
+</misterarcadedescription>
