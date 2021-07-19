@@ -3,8 +3,6 @@
    <setname>ebases</setname>
    <name>Extra Bases</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1980</year>
    <category>Sports</category>
    <manufacturer>Dave Nutting Associates</manufacturer>

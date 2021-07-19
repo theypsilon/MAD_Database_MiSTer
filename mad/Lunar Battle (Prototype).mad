@@ -3,8 +3,6 @@
    <setname>lunarbat</setname>
    <name>Lunar Battle</name>
    <resolution>31kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1982</year>
    <category>Lander</category>
    <manufacturer>Atari</manufacturer>

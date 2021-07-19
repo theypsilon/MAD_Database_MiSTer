@@ -3,8 +3,6 @@
    <setname>spelunkr</setname>
    <name>Spelunker</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1985</year>
    <category>Platform - Climb</category>
    <manufacturer>Irem</manufacturer>

@@ -4,8 +4,6 @@
    <name>Shuttle Invader</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1979</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Omori Electric Co., Ltd.</manufacturer>

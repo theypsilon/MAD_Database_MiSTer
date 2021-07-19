@@ -3,8 +3,6 @@
    <setname>cavenger</setname>
    <name>Cosmic Avenger</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1981</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Universal</manufacturer>

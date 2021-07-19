@@ -3,8 +3,6 @@
    <setname>rallyx</setname>
    <name>Rally-X</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1980</year>
    <category>Maze</category>
    <manufacturer>Namco</manufacturer>

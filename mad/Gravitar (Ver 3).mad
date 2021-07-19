@@ -3,8 +3,6 @@
    <setname>gravitar</setname>
    <name>Gravitar</name>
    <resolution>31kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1982</year>
    <category>Lander</category>
    <manufacturer>Atari</manufacturer>

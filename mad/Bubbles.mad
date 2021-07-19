@@ -3,8 +3,6 @@
    <setname>bubbles</setname>
    <name>Bubbles</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1982</year>
    <category>Arena</category>
    <manufacturer>Williams</manufacturer>

@@ -3,8 +3,6 @@
    <setname>wow</setname>
    <name>Wizard of Wor</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1980</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Dave Nutting Associate</manufacturer>

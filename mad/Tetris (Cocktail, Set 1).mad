@@ -4,8 +4,6 @@
    <name>Tetris</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1989</year>
    <category>Puzzle</category>
    <manufacturer>Atari</manufacturer>

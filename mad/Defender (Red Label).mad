@@ -3,8 +3,6 @@
    <setname>defender</setname>
    <name>Defender</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1980</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Williams</manufacturer>

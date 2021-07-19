@@ -4,8 +4,6 @@
    <name>Galaga 3</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1984</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Namco</manufacturer>

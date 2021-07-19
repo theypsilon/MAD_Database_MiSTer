@@ -2,8 +2,6 @@
 <misterarcadedescription>
    <name>Computer Space</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1971</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Syzygy Engineering</manufacturer>

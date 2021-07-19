@@ -3,8 +3,6 @@
    <setname>sarge</setname>
    <name>Sarge</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1985</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Bally</manufacturer>

@@ -5,8 +5,6 @@
    <flip>yes</flip>
    <resolution>15kHz</resolution>
    <region>World</region>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1986</year>
    <category>Ball and Paddle</category>
    <manufacturer>Taito</manufacturer>

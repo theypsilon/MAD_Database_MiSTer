@@ -3,8 +3,6 @@
    <name>Mr. Do Nightmare</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>2004</year>
    <category>Maze</category>
    <manufacturer>Crazy Ivan</manufacturer>

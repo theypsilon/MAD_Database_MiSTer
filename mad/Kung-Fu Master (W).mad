@@ -4,8 +4,6 @@
    <name>Kung-Fu Master</name>
    <resolution>15kHz</resolution>
    <region>World</region>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1984</year>
    <category>Beat 'em Up</category>
    <manufacturer>Irem</manufacturer>

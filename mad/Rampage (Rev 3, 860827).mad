@@ -3,8 +3,6 @@
    <setname>rampage</setname>
    <name>Rampage</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1986</year>
    <category>Platform - Climb</category>
    <manufacturer>Bally</manufacturer>

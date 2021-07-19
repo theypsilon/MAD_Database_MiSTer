@@ -3,8 +3,6 @@
    <setname>sprint1</setname>
    <name>Sprint 1</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1978</year>
    <category>Racing</category>
    <manufacturer>Atari</manufacturer>

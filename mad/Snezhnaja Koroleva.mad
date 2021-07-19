@@ -3,8 +3,6 @@
    <setname>koroleva</setname>
    <name>Snezhnaja Koroleva</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1988</year>
    <category>Maze</category>
    <manufacturer>Terminal</manufacturer>

@@ -3,8 +3,6 @@
    <setname>mayday</setname>
    <name>Mayday</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1980</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Hoei</manufacturer>

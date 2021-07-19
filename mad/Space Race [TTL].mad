@@ -3,8 +3,6 @@
    <setname>spacerace</setname>
    <name>Space Race [TTL]</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1973</year>
    <category>Racing</category>
    <manufacturer>Atari</manufacturer>

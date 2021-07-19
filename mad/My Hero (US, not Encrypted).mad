@@ -4,8 +4,6 @@
    <name>My Hero</name>
    <resolution>15kHz</resolution>
    <region>USA</region>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1985</year>
    <category>Platform</category>
    <manufacturer>Sega</manufacturer>

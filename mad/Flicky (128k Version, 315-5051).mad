@@ -3,8 +3,6 @@
    <setname>flicky</setname>
    <name>Flicky</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1984</year>
    <category>Platform</category>
    <manufacturer>Sega</manufacturer>

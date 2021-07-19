@@ -3,8 +3,6 @@
    <setname>mpatrol</setname>
    <name>Moon Patrol</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1982</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Irem</manufacturer>

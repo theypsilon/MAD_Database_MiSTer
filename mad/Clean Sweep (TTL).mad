@@ -3,8 +3,6 @@
    <name>Clean Sweep</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1974</year>
    <category>Maze</category>
    <manufacturer>Ramtek</manufacturer>

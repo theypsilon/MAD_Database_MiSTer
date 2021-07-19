@@ -4,8 +4,6 @@
    <name>Gemini Wing</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1987</year>
    <category>Shooter - Vertical</category>
    <manufacturer>Tecmo</manufacturer>

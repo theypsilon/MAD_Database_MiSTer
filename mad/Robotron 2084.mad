@@ -3,8 +3,6 @@
    <setname>robotron</setname>
    <name>Robotron 2084</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1982</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Williams</manufacturer>

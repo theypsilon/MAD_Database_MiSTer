@@ -3,8 +3,6 @@
    <setname>bilyard</setname>
    <name>Billiard</name>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1988</year>
    <category>Sports</category>
    <manufacturer>Terminal</manufacturer>

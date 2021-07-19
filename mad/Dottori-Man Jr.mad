@@ -4,8 +4,6 @@
    <name>Dottori-Man Jr</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>
-   <homebrew>yes</homebrew>
-   <bootleg>no</bootleg>
    <year>2016</year>
    <category>Maze</category>
    <manufacturer>Chris Covell</manufacturer>

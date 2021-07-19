@@ -4,8 +4,6 @@
    <name>Mars</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
    <year>1981</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Artic</manufacturer>
