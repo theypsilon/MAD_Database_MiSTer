@@ -44,7 +44,7 @@ def main():
             if rot is not None:
                 rotations[parts[0]] = rot
 
-    mad_finder = MadFinder('.')
+    mad_finder = MadFinder('mad')
     mad_reader = MadReader()
 
     for mad in mad_finder.find_all_mads():
@@ -52,7 +52,6 @@ def main():
         mad_reader.read_mad(mad)
     
     data = mad_reader.data()
-    print(data)
 
     for setname in rotations:
         if setname not in data:
@@ -65,7 +64,6 @@ def main():
     json_filename = 'mad_db.json'
     zip_filename = json_filename + '.zip'
     save_data_to_compressed_json(data, json_filename, zip_filename)
-    print(data)
 
     md5_filename = zip_filename + '.md5'
     with open(md5_filename, 'w') as md5_file:
