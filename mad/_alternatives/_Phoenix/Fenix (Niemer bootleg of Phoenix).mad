@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>fenixn</setname>
-   <name>Fenix (Niemer bootleg of Phoenix)</name>
+   <name>Fenix</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg (Niemer)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Niemer</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nwpuc2b</setname>
-   <name>New Puc2 (Set 2) - HBMame</name>
-   <year>1981</year>
-   <category>Maze / Pac-Man</category>
+   <name>New Puck 2</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
    <manufacturer>Linear Elect</manufacturer>
 </misterarcadedescription>

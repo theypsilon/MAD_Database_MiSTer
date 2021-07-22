@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dizzy</setname>
-   <name>Dizzy Ghost - A Reversal of Roles - HBMame</name>
+   <name>Dizzy Ghost- A Reversal of Roles</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Tim Appleton</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

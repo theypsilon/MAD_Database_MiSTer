@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scramblebf</setname>
-   <name>Scramble (Karateco, French bootleg)</name>
+   <name>Scramble</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>France</region>
    <year>1981</year>
-   <category>Space / Defender</category>
-   <manufacturer>bootleg (Karateco)</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

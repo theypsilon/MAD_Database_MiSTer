@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>astrians</setname>
-   <name>Astrians (clone of Swarm)</name>
+   <name>Astrians</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (BGV Ltd.)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>BGV Ltd.</manufacturer>
 </misterarcadedescription>

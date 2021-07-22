@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>puckmano</setname>
-   <name>Puckman Opposite - HBMame</name>
-   <year>2007</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Hebus</manufacturer>
+   <name>Puck Man Opposite</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

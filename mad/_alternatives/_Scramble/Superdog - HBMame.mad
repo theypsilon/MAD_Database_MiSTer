@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>superdog</setname>
-   <name>Superdog - HBMame</name>
+   <name>Superdog</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Space / Defender</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>Jerky</manufacturer>
 </misterarcadedescription>

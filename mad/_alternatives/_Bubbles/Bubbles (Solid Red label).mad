@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bubblesr</setname>
-   <name>Bubbles (Solid Red label)</name>
+   <name>Bubbles</name>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze</category>
+   <category>Arena</category>
    <manufacturer>Williams</manufacturer>
 </misterarcadedescription>

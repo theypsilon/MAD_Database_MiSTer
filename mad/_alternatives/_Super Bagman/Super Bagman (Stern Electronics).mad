@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sbagmans</setname>
-   <name>Super Bagman (Stern Electronics)</name>
+   <name>Super Bagman</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Platform / Extra</category>
-   <manufacturer>Valadon Automation (Stern Electronics license)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

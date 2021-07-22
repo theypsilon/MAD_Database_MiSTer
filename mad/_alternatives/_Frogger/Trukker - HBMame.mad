@@ -1,7 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>trukker</setname>
-   <name>Trukker - HBMame</name>
+   <name>Trukker</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1999</year>
    <category>Maze</category>
    <manufacturer>Grimlick</manufacturer>

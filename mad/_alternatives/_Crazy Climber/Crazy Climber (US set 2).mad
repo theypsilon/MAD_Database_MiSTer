@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cclimbera</setname>
-   <name>Crazy Climber (US set 2)</name>
+   <name>Crazy Climber</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
    <year>1980</year>
-   <category>Platform / Climbing</category>
+   <category>Platform - Climb</category>
    <manufacturer>Nichibutsu</manufacturer>
 </misterarcadedescription>

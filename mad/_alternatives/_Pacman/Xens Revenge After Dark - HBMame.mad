@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xensad</setname>
-   <name>Xens Revenge After Dark - HBMame</name>
+   <name>Xens Revenge After Dark</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Maze / Pac-Man</category>
+   <category>Maze</category>
    <manufacturer>Jeff Morris</manufacturer>
 </misterarcadedescription>

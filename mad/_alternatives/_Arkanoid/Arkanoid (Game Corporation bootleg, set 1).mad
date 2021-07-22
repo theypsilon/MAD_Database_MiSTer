@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>arkangc</setname>
-   <name>Arkanoid (Game Corporation bootleg, set 1)</name>
+   <name>Arkanoid</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1986</year>
-   <category>Platform / Breakout</category>
-   <manufacturer>bootleg (Game Corporation)</manufacturer>
+   <category>Ball and Paddle</category>
+   <manufacturer>Taito</manufacturer>
 </misterarcadedescription>

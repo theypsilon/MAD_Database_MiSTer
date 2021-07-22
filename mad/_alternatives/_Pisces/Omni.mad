@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>omni</setname>
    <name>Omni</name>
-   <year>19??</year>
-   <category>Space / Shooter</category>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Shooter - Gallery</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaxiani</setname>
-   <name>Galaxian (Irem)</name>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg? (Irem)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

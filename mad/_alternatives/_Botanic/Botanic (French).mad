@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>botanicf</setname>
-   <name>Botanic (French)</name>
+   <name>Botanic</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>France</region>
    <year>1984</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>Itisa (Valadon Automation license)</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Itisa</manufacturer>
 </misterarcadedescription>

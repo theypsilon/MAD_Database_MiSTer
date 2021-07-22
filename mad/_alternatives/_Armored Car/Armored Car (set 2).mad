@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>armorcar2</setname>
-   <name>Armored Car (set 2)</name>
+   <name>Armored Car</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Racing</category>
-   <manufacturer>Stern Electronics</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Stern</manufacturer>
 </misterarcadedescription>

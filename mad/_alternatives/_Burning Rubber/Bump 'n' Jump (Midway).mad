@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bnjm</setname>
-   <name>Bump 'n' Jump (Midway)</name>
+   <name>Bump 'n' Jump</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Racing / Cars</category>
-   <manufacturer>Data East USA (Bally Midway license)</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Data East</manufacturer>
 </misterarcadedescription>

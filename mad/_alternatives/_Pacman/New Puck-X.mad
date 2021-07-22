@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>newpuckx</setname>
-   <name>New Puck-X</name>
+   <name>New Puck X</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Maze / Pac-Man</category>
+   <category>Maze</category>
    <manufacturer>hack</manufacturer>
 </misterarcadedescription>

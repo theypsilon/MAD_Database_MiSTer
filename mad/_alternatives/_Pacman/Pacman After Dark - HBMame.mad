@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pmad</setname>
-   <name>Pacman After Dark - HBMame</name>
+   <name>Pac-Man After Dark</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Sir Scotty</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

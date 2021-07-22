@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mototour</setname>
-   <name>MotoTour - Zippy Race (Tecfri license)</name>
+   <name>MotoTour- Zippy Race (Tecfri license)</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1983</year>
-   <category>Racing / Motorbike</category>
-   <manufacturer>Irem (Tecfri license)</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

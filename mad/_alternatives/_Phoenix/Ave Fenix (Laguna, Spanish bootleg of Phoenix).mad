@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>avefenixl</setname>
-   <name>Ave Fenix (Laguna, Spanish bootleg of Phoenix)</name>
+   <name>Ave Fenix</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg (Laguna)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Laguna</manufacturer>
 </misterarcadedescription>

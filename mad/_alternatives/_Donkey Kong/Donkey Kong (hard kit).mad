@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkonghrd</setname>
-   <name>Donkey Kong (hard kit)</name>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Nintendo of America</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

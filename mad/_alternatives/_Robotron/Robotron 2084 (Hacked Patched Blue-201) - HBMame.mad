@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>robotron201</setname>
-   <name>Robotron 2084 (Hacked Patched Blue-201) - HBMame</name>
-   <year>2012</year>
-   <category>Adventure / Apocalyptic</category>
-   <manufacturer>Sean Riddle</manufacturer>
+   <name>Robotron 2084</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Arena</category>
+   <manufacturer>Williams</manufacturer>
 </misterarcadedescription>

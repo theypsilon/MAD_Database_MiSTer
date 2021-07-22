@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galapx</setname>
-   <name>Galaxian Part X (moonaln hack)</name>
+   <name>Galaxian Part X</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>hack</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

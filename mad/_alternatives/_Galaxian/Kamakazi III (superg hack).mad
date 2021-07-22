@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kamakazi3</setname>
-   <name>Kamakazi III (superg hack)</name>
+   <name>Kamakazi III</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>hack</manufacturer>
 </misterarcadedescription>

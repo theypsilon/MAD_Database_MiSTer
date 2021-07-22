@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vgalagam</setname>
-   <name>Vector Galaga Midway - HBMame</name>
-   <year>2000</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Hack</manufacturer>
+   <name>Vector Galaga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagturbo</setname>
-   <name>Bagman Turbo (Stern set 1) [c] - HBMame</name>
+   <name>Bagman Turbo</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1991</year>
-   <category>Platform / Extra</category>
-   <manufacturer>Tim Arcadecollecting</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

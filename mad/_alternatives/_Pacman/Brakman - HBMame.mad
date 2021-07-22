@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>brakman</setname>
-   <name>Brakman - HBMame</name>
+   <name>Brakman</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Maze / Pac-Man</category>
+   <category>Maze</category>
    <manufacturer>Scott Lawrence</manufacturer>
 </misterarcadedescription>

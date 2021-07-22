@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mspacmancr</setname>
-   <name>Ms. Pac-Man (bootleg on Crush Roller Hardware)</name>
+   <name>Ms. Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Midway</manufacturer>
 </misterarcadedescription>

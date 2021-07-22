@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaxrf</setname>
-   <name>Galaxian (Recreativos Franco S.A. Spanish bootleg)</name>
-   <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Recreativos Franco S.A.)</manufacturer>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spatrol</setname>
-   <name>Sponge Patrol - HBMame</name>
+   <name>Sponge Patrol</name>
+   <resolution>15kHz</resolution>
    <year>2008</year>
-   <category>Space / Moon</category>
-   <manufacturer>Gatinho</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

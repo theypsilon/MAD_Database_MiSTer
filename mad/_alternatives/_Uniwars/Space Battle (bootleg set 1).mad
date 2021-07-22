@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spacbatt</setname>
-   <name>Space Battle (bootleg set 1)</name>
+   <name>Space Battle</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

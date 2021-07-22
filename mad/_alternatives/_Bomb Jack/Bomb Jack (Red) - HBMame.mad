@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bombjred</setname>
-   <name>Bomb Jack (Red) - HBMame</name>
+   <name>Bomb Jack</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2008</year>
-   <category>Platform</category>
-   <manufacturer>hack</manufacturer>
+   <category>Puzzle - Platform</category>
+   <manufacturer>Tehkan</manufacturer>
 </misterarcadedescription>

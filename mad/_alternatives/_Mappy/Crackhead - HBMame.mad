@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>crackhea</setname>
-   <name>Crackhead - HBMame</name>
+   <name>Crackhead</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Cat &amp; Mouse</category>
-   <manufacturer>Cary Barnhard</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagnardi</setname>
-   <name>Le Bagnard (Itisa, Spain)</name>
+   <name>Le Bagnard</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Spain</region>
    <year>1982</year>
-   <category>Platform / Extra</category>
-   <manufacturer>Valadon Automation (Itisa license)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

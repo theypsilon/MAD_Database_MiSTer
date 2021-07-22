@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>phoenixj</setname>
-   <name>Phoenix (Taito Japan)</name>
+   <name>Phoenix</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
    <year>1980</year>
-   <category>Space / Shooter</category>
-   <manufacturer>Amstar (Taito Japan license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Amstar</manufacturer>
 </misterarcadedescription>

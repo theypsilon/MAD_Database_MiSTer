@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ldruna</setname>
+   <name>Lode Runner</name>
+   <resolution>15kHz</resolution>
+   <year>1984</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Irem</manufacturer>
+</misterarcadedescription>

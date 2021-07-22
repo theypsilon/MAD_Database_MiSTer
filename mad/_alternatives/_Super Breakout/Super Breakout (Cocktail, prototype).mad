@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sbrkoutct</setname>
-   <name>Super Breakout (Cocktail, prototype)</name>
+   <name>Super Breakout</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1978</year>
-   <category>Platform / Breakout</category>
+   <category>Ball and Paddle</category>
    <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

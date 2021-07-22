@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaxianbl2</setname>
-   <name>Galaxian (bootleg, set 4)</name>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

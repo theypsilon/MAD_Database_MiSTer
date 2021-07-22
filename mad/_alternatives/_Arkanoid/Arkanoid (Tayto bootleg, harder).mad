@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>arktayt2</setname>
-   <name>Arkanoid (Tayto bootleg, harder)</name>
+   <name>Arkanoid</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1986</year>
-   <category>Platform / Breakout</category>
-   <manufacturer>bootleg (Tayto)</manufacturer>
+   <category>Ball and Paddle</category>
+   <manufacturer>Taito</manufacturer>
 </misterarcadedescription>

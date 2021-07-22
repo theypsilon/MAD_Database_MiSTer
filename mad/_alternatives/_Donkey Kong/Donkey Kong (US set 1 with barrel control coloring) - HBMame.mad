@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongbcc</setname>
-   <name>Donkey Kong (US set 1 with barrel control coloring) - HBMame</name>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Jeff Kulczycki</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

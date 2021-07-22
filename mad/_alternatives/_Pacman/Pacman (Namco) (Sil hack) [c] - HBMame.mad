@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>namcosil</setname>
-   <name>Pacman (Namco) (Sil hack) [c] - HBMame</name>
-   <year>1998</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Marcel Silvius</manufacturer>
+   <name>Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

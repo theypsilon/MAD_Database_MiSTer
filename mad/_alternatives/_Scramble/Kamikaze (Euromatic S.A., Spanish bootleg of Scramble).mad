@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kamikazesp</setname>
-   <name>Kamikaze (Euromatic S.A., Spanish bootleg of Scramble)</name>
+   <name>Kamikaze</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Defender</category>
-   <manufacturer>bootleg (Euromatic S.A.)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

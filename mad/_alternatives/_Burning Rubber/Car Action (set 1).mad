@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>caractn</setname>
-   <name>Car Action (set 1)</name>
+   <name>Car Action</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Racing / Cars</category>
+   <category>Racing</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

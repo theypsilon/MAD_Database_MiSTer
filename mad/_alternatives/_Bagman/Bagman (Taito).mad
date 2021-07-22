@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagmanj</setname>
-   <name>Bagman (Taito)</name>
+   <name>Bagman</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Platform / Extra</category>
-   <manufacturer>Valadon Automation (Taito license)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

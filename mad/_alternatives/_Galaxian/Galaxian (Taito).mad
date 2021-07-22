@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaxiant</setname>
-   <name>Galaxian (Taito)</name>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Namco (Taito license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

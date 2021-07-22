@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>zigzagb2</setname>
-   <name>Zig Zag (Dig Dug conversion on Galaxian hardware, bootleg set 2)</name>
+   <name>Zig Zag</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze / Digging</category>
-   <manufacturer>bootleg (LAX)</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Bootleg</manufacturer>
 </misterarcadedescription>

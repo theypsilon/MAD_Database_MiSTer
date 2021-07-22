@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mandinga</setname>
-   <name>Mandinga (Artemi bootleg of Amidar)</name>
+   <name>Mandinga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
    <category>Maze</category>
-   <manufacturer>bootleg (Artemi)</manufacturer>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

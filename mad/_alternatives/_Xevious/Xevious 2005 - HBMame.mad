@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xevious5</setname>
-   <name>Xevious 2005 - HBMame</name>
-   <year>2004</year>
-   <category>Space / Force</category>
+   <name>Xevious 2005</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Shooter - Vertical</category>
    <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nextfase</setname>
-   <name>Next Fase (bootleg of Phoenix)</name>
+   <name>Next Fase</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg (Petaco S.A.)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Petaco S.A.</manufacturer>
 </misterarcadedescription>

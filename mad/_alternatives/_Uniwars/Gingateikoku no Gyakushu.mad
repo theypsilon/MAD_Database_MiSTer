@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>gteikoku</setname>
    <name>Gingateikoku no Gyakushu</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

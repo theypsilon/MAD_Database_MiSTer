@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spcrocks</setname>
-   <name>Space Rocks (Spanish clone of Asteroids)</name>
+   <name>Space Rocks</name>
+   <resolution>31kHz</resolution>
    <year>1981</year>
-   <category>Space / Asteroids</category>
-   <manufacturer>Atari (J.Estevez license)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

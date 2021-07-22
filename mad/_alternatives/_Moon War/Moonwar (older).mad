@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>moonwara</setname>
-   <name>Moonwar (older)</name>
+   <name>Moon War</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Fighter</category>
-   <manufacturer>Stern Electronics</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Stern</manufacturer>
 </misterarcadedescription>

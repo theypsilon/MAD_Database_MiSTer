@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>candory</setname>
-   <name>Candory (Ponpoko bootleg with Mario)</name>
+   <name>Candory</name>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Platform</category>
+   <category>Platform - Climb</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

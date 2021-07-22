@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaped</setname>
-   <name>Galapede (Fast Shoot) - HBMame</name>
+   <name>Galapede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Cary Barnhard</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagnard</setname>
-   <name>Le Bagnard (set 1)</name>
+   <name>Le Bagnard</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Platform / Extra</category>
+   <category>Platform - Climb</category>
    <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

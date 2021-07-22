@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mranger</setname>
-   <name>Moon Ranger (bootleg of Moon Patrol)</name>
+   <name>Moon Ranger</name>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Space / Moon</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

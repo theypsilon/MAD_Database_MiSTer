@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkong2m</setname>
-   <name>Donkey Kong (2 marios) - HBMame</name>
-   <year>2013</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>hack</manufacturer>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

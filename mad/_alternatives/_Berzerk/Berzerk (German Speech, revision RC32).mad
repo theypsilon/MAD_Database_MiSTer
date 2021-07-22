@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>berzerkg</setname>
-   <name>Berzerk (German Speech, revision RC32)</name>
+   <name>Berzerk</name>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Maze</category>
-   <manufacturer>Stern Electronics</manufacturer>
+   <category>Arena</category>
+   <manufacturer>Stern</manufacturer>
 </misterarcadedescription>

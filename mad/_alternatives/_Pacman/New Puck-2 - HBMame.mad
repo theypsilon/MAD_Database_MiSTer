@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>newpuck2</setname>
-   <name>New Puck-2 - HBMame</name>
-   <year>1998</year>
-   <category>Maze / Pac-Man</category>
+   <name>New Puck 2</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
    <manufacturer>Sir Scotty</manufacturer>
 </misterarcadedescription>

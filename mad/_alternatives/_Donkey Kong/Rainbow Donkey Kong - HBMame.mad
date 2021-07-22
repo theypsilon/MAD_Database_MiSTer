@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkrainbow</setname>
-   <name>Rainbow Donkey Kong - HBMame</name>
-   <year>2015</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Sock Master</manufacturer>
+   <name>Rainbow Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

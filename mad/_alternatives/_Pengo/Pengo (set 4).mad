@@ -1,7 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pengo4</setname>
-   <name>Pengo (set 4)</name>
+   <name>Pengo</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
    <category>Maze</category>
    <manufacturer>Sega</manufacturer>

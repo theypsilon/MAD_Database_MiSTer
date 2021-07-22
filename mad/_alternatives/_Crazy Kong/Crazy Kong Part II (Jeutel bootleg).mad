@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ckongpt2jeu</setname>
-   <name>Crazy Kong Part II (Jeutel bootleg)</name>
+   <name>Crazy Kong Part II</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>bootleg (Jeutel)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Falcon</manufacturer>
 </misterarcadedescription>

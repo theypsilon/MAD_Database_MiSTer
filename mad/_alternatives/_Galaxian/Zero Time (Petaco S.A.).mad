@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>zerotime</setname>
-   <name>Zero Time (Petaco S.A.)</name>
+   <name>Zero Time</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg? (Petaco S.A.)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Petaco S.A.</manufacturer>
 </misterarcadedescription>

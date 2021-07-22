@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>meteorite</setname>
-   <name>Meteorite (Proel bootleg of Asteroids)</name>
+   <name>Meteor</name>
+   <resolution>31kHz</resolution>
    <year>1979</year>
-   <category>Space / Asteroids</category>
-   <manufacturer>bootleg (Proel)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

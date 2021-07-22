@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pickinpi</setname>
-   <name>Pickin' (Color Hack) - HBMame</name>
+   <name>Pickin'</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1983</year>
-   <category>Maze</category>
+   <category>Platform - Climb</category>
    <manufacturer>Pi</manufacturer>
 </misterarcadedescription>

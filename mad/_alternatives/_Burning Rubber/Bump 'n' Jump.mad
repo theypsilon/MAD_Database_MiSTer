@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>bnj</setname>
    <name>Bump 'n' Jump</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Racing / Cars</category>
-   <manufacturer>Data East USA</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Data East</manufacturer>
 </misterarcadedescription>

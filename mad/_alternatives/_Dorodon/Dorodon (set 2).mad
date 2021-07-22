@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dorodon2</setname>
-   <name>Dorodon (set 2)</name>
+   <name>Dorodon</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
    <category>Maze</category>
-   <manufacturer>UPL (Falcon license?)</manufacturer>
+   <manufacturer>UPL</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>battles2</setname>
-   <name>Battles (set 2)</name>
+   <name>Battles</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Space / Force</category>
+   <category>Shooter - Vertical</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

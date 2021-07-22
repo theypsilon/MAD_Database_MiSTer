@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>housepty</setname>
-   <name>House Party - HBMame</name>
+   <name>House Party</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Cat &amp; Mouse</category>
+   <category>Maze</category>
    <manufacturer>Jerky</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>europac</setname>
-   <name>Euro Pac - HBMame</name>
-   <year>2000</year>
-   <category>Maze / Pac-Man</category>
+   <name>Euro Pac</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
    <manufacturer>Stefano Priore</manufacturer>
 </misterarcadedescription>

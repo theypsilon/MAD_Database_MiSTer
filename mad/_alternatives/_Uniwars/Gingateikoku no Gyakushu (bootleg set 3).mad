@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gteikokub3</setname>
-   <name>Gingateikoku no Gyakushu (bootleg set 3)</name>
+   <name>Gingateikoku no Gyakushu</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Honly)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Honly</manufacturer>
 </misterarcadedescription>

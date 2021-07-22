@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galagost</setname>
-   <name>Galaga Ghost (Set 1) - HBMame</name>
-   <year>2002</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Twisty</manufacturer>
+   <name>Galaga Ghost</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

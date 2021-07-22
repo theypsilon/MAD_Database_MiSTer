@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacmanp</setname>
-   <name>Pacman (Patched) - HBMame</name>
-   <year>2007</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Don Hodges</manufacturer>
+   <name>Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

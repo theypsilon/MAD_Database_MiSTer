@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pleiadce</setname>
-   <name>Pleiads (Centuri)</name>
+   <name>Pleiades</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <manufacturer>Tehkan (Centuri license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Tehkan</manufacturer>
 </misterarcadedescription>

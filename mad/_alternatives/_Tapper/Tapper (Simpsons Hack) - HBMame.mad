@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>stapper</setname>
-   <name>Tapper (Simpsons Hack) - HBMame</name>
-   <year>2002</year>
-   <category>Maze / Food</category>
-   <manufacturer>DC</manufacturer>
+   <name>Tapper</name>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Action</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

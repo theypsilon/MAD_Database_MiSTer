@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>eyeszac</setname>
-   <name>Eyes (Italy)</name>
+   <name>Eyes</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Italy</region>
    <year>1982</year>
    <category>Maze</category>
-   <manufacturer>Techstar (Zaccaria license)</manufacturer>
+   <manufacturer>Tehstar</manufacturer>
 </misterarcadedescription>

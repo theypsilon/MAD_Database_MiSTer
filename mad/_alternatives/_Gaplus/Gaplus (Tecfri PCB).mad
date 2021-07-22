@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gaplust</setname>
-   <name>Gaplus (Tecfri PCB)</name>
+   <name>Gaplus</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1992</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Tecfri)</manufacturer>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

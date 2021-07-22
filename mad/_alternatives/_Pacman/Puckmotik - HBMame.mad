@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>puckmoti</setname>
-   <name>Puckmotik - HBMame</name>
-   <year>2007</year>
-   <category>Maze / Pac-Man</category>
+   <name>Puckmotik</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
    <manufacturer>Hebus</manufacturer>
 </misterarcadedescription>

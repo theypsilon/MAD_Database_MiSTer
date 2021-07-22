@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mappyj</setname>
-   <name>Mappy (Japan)</name>
+   <name>Mappy</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
    <year>1983</year>
-   <category>Maze / Cat &amp; Mouse</category>
+   <category>Platform - Climb</category>
    <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

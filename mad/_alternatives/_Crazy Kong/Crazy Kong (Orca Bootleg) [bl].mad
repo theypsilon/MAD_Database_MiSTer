@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ckongo</setname>
+   <name>Crazy Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Falcon</manufacturer>
+</misterarcadedescription>

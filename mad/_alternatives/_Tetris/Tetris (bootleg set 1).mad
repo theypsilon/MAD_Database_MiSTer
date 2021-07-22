@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>atetrisb</setname>
-   <name>Tetris (bootleg set 1)</name>
+   <name>Tetris</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1988</year>
-   <category>Puzzle / Tetris</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Puzzle</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

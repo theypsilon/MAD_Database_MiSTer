@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>killiped</setname>
-   <name>Killipede - HBMame</name>
+   <name>Killipede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>The Dog</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

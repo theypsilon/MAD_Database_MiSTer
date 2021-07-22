@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>moonaln</setname>
    <name>Moon Alien</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Namco / Nichibutsu (Karateco license?)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

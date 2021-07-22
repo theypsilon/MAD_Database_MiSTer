@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>llander1</setname>
-   <name>Lunar Lander (rev 1)</name>
+   <name>Lunar Lander</name>
+   <resolution>31kHz</resolution>
    <year>1979</year>
-   <category>Space / Moon</category>
+   <category>Lander</category>
    <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

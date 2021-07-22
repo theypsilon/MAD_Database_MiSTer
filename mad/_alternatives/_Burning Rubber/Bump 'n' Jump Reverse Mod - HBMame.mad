@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bnjr</setname>
-   <name>Bump 'n' Jump Reverse Mod - HBMame</name>
+   <name>Bump 'n' Jump</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2002</year>
-   <category>Racing / Cars</category>
-   <manufacturer>DaveC</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Data East</manufacturer>
 </misterarcadedescription>

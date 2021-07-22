@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaga3m</setname>
-   <name>Galaga 3 (set 5)</name>
+   <name>Galaga 3</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

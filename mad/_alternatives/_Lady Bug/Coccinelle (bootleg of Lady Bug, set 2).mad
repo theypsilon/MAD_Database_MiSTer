@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ladybugb2</setname>
-   <name>Coccinelle (bootleg of Lady Bug, set 2)</name>
+   <name>Coccinelle</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
    <category>Maze</category>
-   <manufacturer>bootleg (Model Racing)</manufacturer>
+   <manufacturer>Universal</manufacturer>
 </misterarcadedescription>

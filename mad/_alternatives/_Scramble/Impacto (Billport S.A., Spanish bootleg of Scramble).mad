@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scrambp</setname>
-   <name>Impacto (Billport S.A., Spanish bootleg of Scramble)</name>
+   <name>Impacto</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Defender</category>
-   <manufacturer>bootleg (Billport S.A.)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

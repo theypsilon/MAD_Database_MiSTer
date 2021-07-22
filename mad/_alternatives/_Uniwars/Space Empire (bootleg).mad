@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spacempr</setname>
-   <name>Space Empire (bootleg)</name>
+   <name>Space Empire</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

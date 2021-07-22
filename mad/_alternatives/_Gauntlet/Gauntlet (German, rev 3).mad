@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gauntletgr3</setname>
-   <name>Gauntlet (German, rev 3)</name>
+   <name>Gauntlet</name>
+   <resolution>15kHz</resolution>
+   <region>German</region>
    <year>1985</year>
-   <category>Adventure / Fantasy</category>
-   <manufacturer>Atari Games</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

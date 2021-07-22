@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scobrag</setname>
-   <name>Super Cobra (bootleg, set 2)</name>
+   <name>Super Cobra</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Army / Helicopter</category>
-   <manufacturer>bootleg (A.V.G. by Zaccaria)</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

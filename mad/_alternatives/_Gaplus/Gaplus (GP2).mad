@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gaplusa</setname>
-   <name>Gaplus (GP2)</name>
+   <name>Gaplus</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Vertical</category>
    <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

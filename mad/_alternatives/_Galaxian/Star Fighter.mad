@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>starfght</setname>
    <name>Star Fighter</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Jeutel)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Jeutel</manufacturer>
 </misterarcadedescription>

@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pleiadsi</setname>
-   <name>Pleiads (Irecsa)</name>
+   <name>Pleiades</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <manufacturer>bootleg? (Irecsa)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Tehkan</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ponpokov</setname>
-   <name>Ponpoko (Venture Line)</name>
+   <name>Ponpoko</name>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Platform</category>
-   <manufacturer>Sigma Enterprises Inc. (Venture Line license)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Sigma Enterprises Inc.</manufacturer>
 </misterarcadedescription>

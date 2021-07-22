@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>skyraidr</setname>
-   <name>Sky Raider (Uniwars bootleg)</name>
+   <name>Sky Raider</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

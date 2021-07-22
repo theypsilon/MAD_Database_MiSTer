@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rushatck</setname>
-   <name>Rush'n Attack (US)</name>
+   <name>Rush'n Attack</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
    <year>1985</year>
-   <category>Army / Fighter</category>
+   <category>Run 'n' Gun - Horizontal</category>
    <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

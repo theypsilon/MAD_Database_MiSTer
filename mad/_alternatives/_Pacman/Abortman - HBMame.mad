@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>abortman</setname>
-   <name>Abortman - HBMame</name>
+   <name>Abortman</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2001</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Paul Copeland</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

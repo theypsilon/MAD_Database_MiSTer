@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rallyxm</setname>
-   <name>Rally X (Midway)</name>
+   <name>Rally-X</name>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Racing</category>
-   <manufacturer>Namco (Midway license)</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

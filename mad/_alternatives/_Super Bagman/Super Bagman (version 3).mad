@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sbagman2</setname>
-   <name>Super Bagman (version 3)</name>
+   <name>Super Bagman</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Platform / Extra</category>
+   <category>Platform - Climb</category>
    <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

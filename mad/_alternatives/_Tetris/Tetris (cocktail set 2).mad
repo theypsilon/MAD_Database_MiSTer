@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>atetrisc2</setname>
-   <name>Tetris (cocktail set 2)</name>
+   <name>Tetris</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1989</year>
-   <category>Puzzle / Tetris</category>
-   <manufacturer>Atari Games</manufacturer>
+   <category>Puzzle</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galagamf</setname>
-   <name>Galaga (Midway set 1 with fast shoot hack)</name>
+   <name>Galaga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>Namco (Midway license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>centiped2</setname>
-   <name>Centipede (revision 2)</name>
+   <name>Centipede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Maze / Bugs</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

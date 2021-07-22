@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>robotronp</setname>
-   <name>Robotron 2084 (Patched) - HBMame</name>
-   <year>2014</year>
-   <category>Adventure / Apocalyptic</category>
-   <manufacturer>Christian Gingras / Sean Riddle</manufacturer>
+   <name>Robotron 2084</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Arena</category>
+   <manufacturer>Williams</manufacturer>
 </misterarcadedescription>

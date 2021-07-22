@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>phoenixr</setname>
-   <name>PhoenixR (GDR hack) - HBMame</name>
+   <name>PhoenixR</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Space / Shooter</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>CYBERYOGI =CO= Windler</manufacturer>
 </misterarcadedescription>

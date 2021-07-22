@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>stratgys</setname>
-   <name>Strategy X (Stern Electronics)</name>
+   <name>Strategy X</name>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Army / Tank</category>
-   <manufacturer>Konami (Stern Electronics license)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>starslayer</setname>
-   <name>Starslayer (hack of Asteroids (rev 2)) - HBMame</name>
+   <name>Starslayer</name>
+   <resolution>31kHz</resolution>
    <year>1979</year>
-   <category>Space / Asteroids</category>
-   <manufacturer>Nufekop</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

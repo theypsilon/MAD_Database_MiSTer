@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacman3d</setname>
-   <name>Pacman 3D - HBMame</name>
+   <name>Pac-Man 3D</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Marcel Silvius</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>phoenixc4</setname>
-   <name>Phoenix (Irecsa - G.G.I Corp, set 4)</name>
+   <name>Phoenix</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg? (Irecsa / G.G.I Corp)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Amstar</manufacturer>
 </misterarcadedescription>

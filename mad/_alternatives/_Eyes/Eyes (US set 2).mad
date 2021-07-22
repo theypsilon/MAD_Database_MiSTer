@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>eyes2</setname>
-   <name>Eyes (US set 2)</name>
+   <name>Eyes</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
    <year>1982</year>
    <category>Maze</category>
-   <manufacturer>Techstar (Rock-Ola license)</manufacturer>
+   <manufacturer>Tehstar</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>asideral</setname>
-   <name>Ataque Sideral (Spanish bootleg of UniWar S)</name>
+   <name>Ataque Sideral</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Electrogame S.A.)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Electrogame S.A.</manufacturer>
 </misterarcadedescription>

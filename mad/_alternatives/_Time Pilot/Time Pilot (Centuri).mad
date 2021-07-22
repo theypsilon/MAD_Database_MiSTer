@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>timepltc</setname>
-   <name>Time Pilot (Centuri)</name>
+   <name>Time Pilot</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Army / Dog-Fight</category>
-   <manufacturer>Konami (Centuri license)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

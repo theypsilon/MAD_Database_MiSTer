@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gyrussb</setname>
+   <name>Gyruss</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Shooter - Tube</category>
+   <manufacturer>Konami</manufacturer>
+</misterarcadedescription>

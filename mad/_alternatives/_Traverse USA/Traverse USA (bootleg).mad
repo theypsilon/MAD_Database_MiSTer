@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>travrusab</setname>
-   <name>Traverse USA (bootleg)</name>
+   <name>Traverse</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
    <year>1983</year>
-   <category>Racing / Motorbike</category>
-   <manufacturer>bootleg (I.P.)</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

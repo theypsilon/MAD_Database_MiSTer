@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>uniwarsa</setname>
-   <name>UniWar S (bootleg)</name>
+   <name>UniWar S</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Karateco)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Irem</manufacturer>
 </misterarcadedescription>

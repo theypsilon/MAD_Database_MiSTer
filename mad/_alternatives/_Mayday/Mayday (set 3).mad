@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>maydayb</setname>
-   <name>Mayday (set 3)</name>
+   <name>Mayday</name>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Defender</category>
+   <category>Shooter - Horizontal</category>
    <manufacturer>Hoei</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>tapperb</setname>
-   <name>Tapper (Budweiser, Date Unknown)</name>
+   <name>Tapper</name>
+   <resolution>15kHz</resolution>
    <year>1983</year>
-   <category>Maze / Food</category>
-   <manufacturer>Bally Midway</manufacturer>
+   <category>Action</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

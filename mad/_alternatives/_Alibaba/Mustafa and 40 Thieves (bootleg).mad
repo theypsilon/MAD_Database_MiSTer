@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>alibabab</setname>
-   <name>Mustafa and 40 Thieves (bootleg)</name>
+   <name>Mustafa and 40 Thieves</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Adventure / Arabian</category>
+   <category>Maze</category>
    <manufacturer>bootleg</manufacturer>
 </misterarcadedescription>

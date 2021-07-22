@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>todruagao</setname>
-   <name>The Tower of Druaga (Old Ver.)</name>
+   <name>The Tower of Druaga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Adventure / Knights</category>
+   <category>Maze</category>
    <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

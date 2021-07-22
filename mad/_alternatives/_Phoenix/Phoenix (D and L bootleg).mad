@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>phoenixdal</setname>
-   <name>Phoenix (D and L bootleg)</name>
+   <name>Phoenix</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg (D&amp;L)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Amstar</manufacturer>
 </misterarcadedescription>

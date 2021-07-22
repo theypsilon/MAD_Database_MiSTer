@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ultra2</setname>
-   <name>Ultra Pacman - HBMame</name>
-   <year>2000</year>
-   <category>Maze / Pac-Man</category>
+   <name>Ultra Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
    <manufacturer>TwoBit Score</manufacturer>
 </misterarcadedescription>

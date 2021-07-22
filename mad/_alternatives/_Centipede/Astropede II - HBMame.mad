@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>astropd2</setname>
-   <name>Astropede II - HBMame</name>
+   <name>Astropede II</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2002</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>Twisty</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

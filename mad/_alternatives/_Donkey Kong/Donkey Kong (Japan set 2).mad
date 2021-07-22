@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongjo</setname>
-   <name>Donkey Kong (Japan set 2)</name>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
    <year>1981</year>
-   <category>Maze / Monkeys</category>
+   <category>Platform - Climb</category>
    <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

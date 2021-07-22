@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sprint2a</setname>
-   <name>Sprint 2 (set 2)</name>
+   <name>Sprint 2</name>
+   <resolution>15kHz</resolution>
    <year>1976</year>
-   <category>Racing / Cars</category>
-   <manufacturer>Atari (Kee Games)</manufacturer>
+   <category>Racing</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>todruagas</setname>
-   <name>The Tower of Druaga (Sidam)</name>
+   <name>The Tower of Druaga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Adventure / Knights</category>
-   <manufacturer>bootleg? (Sidam)</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

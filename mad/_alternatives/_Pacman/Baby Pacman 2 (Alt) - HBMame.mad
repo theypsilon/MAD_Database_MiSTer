@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>baby2</setname>
-   <name>Baby Pacman 2 (Alt) - HBMame</name>
-   <year>2000</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>T-Bone</manufacturer>
+   <name>Baby Pac-Man 2</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

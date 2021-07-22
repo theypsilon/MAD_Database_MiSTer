@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>chtpman2</setname>
-   <name>New Puck2 [c] - HBMame</name>
-   <year>2000</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>[Namco]</manufacturer>
+   <name>New Puck 2</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

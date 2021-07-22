@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongp</setname>
-   <name>Donkey Kong (patched) - HBMame</name>
-   <year>2007</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Don Hodges</manufacturer>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

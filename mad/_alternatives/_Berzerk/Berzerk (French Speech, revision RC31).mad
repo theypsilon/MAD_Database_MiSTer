@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>berzerkf</setname>
-   <name>Berzerk (French Speech, revision RC31)</name>
+   <name>Berzerk</name>
+   <resolution>15kHz</resolution>
+   <region>France</region>
    <year>1980</year>
-   <category>Maze</category>
-   <manufacturer>Stern Electronics</manufacturer>
+   <category>Arena</category>
+   <manufacturer>Stern</manufacturer>
 </misterarcadedescription>

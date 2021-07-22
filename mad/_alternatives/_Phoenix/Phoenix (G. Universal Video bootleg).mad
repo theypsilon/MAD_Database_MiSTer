@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>phoenixgu</setname>
-   <name>Phoenix (G. Universal Video bootleg)</name>
+   <name>Phoenix</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Shooter</category>
-   <manufacturer>bootleg? (G. Universal Video)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Amstar</manufacturer>
 </misterarcadedescription>

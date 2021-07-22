@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dkong3b</setname>
+   <name>Donkey Kong 3</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1984</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Bootleg</manufacturer>
+</misterarcadedescription>

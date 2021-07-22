@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galaxiabh</setname>
-   <name>Galaxian (Edition Hack) - HBMame</name>
-   <year>1981</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg</manufacturer>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>asteroid1</setname>
-   <name>Asteroids (rev 1)</name>
+   <name>Asteroids</name>
+   <resolution>31kHz</resolution>
    <year>1979</year>
-   <category>Space / Asteroids</category>
+   <category>Shooter - Multidirectional</category>
    <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

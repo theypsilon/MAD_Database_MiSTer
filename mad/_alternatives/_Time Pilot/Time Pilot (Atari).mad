@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>timeplta</setname>
-   <name>Time Pilot (Atari)</name>
+   <name>Time Pilot</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Army / Dog-Fight</category>
-   <manufacturer>Konami (Atari license)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

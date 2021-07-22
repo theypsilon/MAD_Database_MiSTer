@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scobraggi</setname>
-   <name>Super Cobra (bootleg, set 3)</name>
+   <name>Super Cobra</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Army / Helicopter</category>
-   <manufacturer>bootleg (Cocamatic)</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

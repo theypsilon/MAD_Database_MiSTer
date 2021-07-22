@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacipede</setname>
-   <name>Pacipede - HBMame</name>
+   <name>Pacipede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2000</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>Jeff Coleburn</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

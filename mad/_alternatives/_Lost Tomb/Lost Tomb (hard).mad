@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>losttombh</setname>
-   <name>Lost Tomb (hard)</name>
+   <name>Lost Tomb</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Adventure / Arabian</category>
-   <manufacturer>Stern Electronics</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Stern</manufacturer>
 </misterarcadedescription>

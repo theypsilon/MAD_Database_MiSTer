@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>mspacmat</setname>
    <name>Ms. Pac Attack</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>hack</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Midway</manufacturer>
 </misterarcadedescription>

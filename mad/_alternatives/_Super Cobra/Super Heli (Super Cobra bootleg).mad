@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>suprheli</setname>
    <name>Super Heli (Super Cobra bootleg)</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Army / Helicopter</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

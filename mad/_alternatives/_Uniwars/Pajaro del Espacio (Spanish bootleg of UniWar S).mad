@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pajaroes</setname>
-   <name>Pajaro del Espacio (Spanish bootleg of UniWar S)</name>
+   <name>Pajaro del Espacio</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (PSV S.A.)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>PSV S.A.</manufacturer>
 </misterarcadedescription>

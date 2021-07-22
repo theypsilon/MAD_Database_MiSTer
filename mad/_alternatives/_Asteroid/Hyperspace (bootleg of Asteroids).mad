@@ -2,7 +2,8 @@
 <misterarcadedescription>
    <setname>hyperspc</setname>
    <name>Hyperspace (bootleg of Asteroids)</name>
+   <resolution>31kHz</resolution>
    <year>1979</year>
-   <category>Space / Asteroids</category>
-   <manufacturer>bootleg (Rumiano)</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

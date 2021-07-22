@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vectrped</setname>
-   <name>Vectorpede - HBMame</name>
+   <name>Vectorpede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>T-Bone</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

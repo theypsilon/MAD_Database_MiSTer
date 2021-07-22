@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>zerotimemc</setname>
-   <name>Zero Time (Marti Colls)</name>
+   <name>Zero Time</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1979</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>bootleg (Marti Colls)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Marti Colls</manufacturer>
 </misterarcadedescription>

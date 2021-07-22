@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>offender</setname>
-   <name>Offender - HBMame</name>
+   <name>Offender</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Space / Defender</category>
-   <manufacturer>Chris Henry (Battlpriest)</manufacturer>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

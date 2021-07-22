@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spyhuntp</setname>
-   <name>Spy Hunter (Playtronic license)</name>
+   <name>Spy Hunter</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1983</year>
-   <category>Adventure / Action</category>
-   <manufacturer>Bally Midway (Playtronic license)</manufacturer>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

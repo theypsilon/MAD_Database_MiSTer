@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ckongfix</setname>
-   <name>Crazy Kong Part II (Graphic Fix) - HBMame</name>
+   <name>Crazy Kong Part II</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Pinny</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Falcon</manufacturer>
 </misterarcadedescription>

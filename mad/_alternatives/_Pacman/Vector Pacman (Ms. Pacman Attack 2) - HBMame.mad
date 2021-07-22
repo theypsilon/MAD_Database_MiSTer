@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vpacmsa2</setname>
-   <name>Vector Pacman (Ms. Pacman Attack 2) - HBMame</name>
-   <year>2000</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>[Midway]</manufacturer>
+   <name>Vector Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

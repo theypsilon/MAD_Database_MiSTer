@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pooyandiag</setname>
-   <name>Pooyan Tester - HBMame</name>
+   <name>Pooyan</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2017</year>
-   <category>Maze / Balloons</category>
-   <manufacturer>Shoestring</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

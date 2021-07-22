@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>tron4</setname>
-   <name>Tron (6-15)</name>
+   <name>Tron</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze</category>
-   <manufacturer>Bally Midway</manufacturer>
+   <category>Arena</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

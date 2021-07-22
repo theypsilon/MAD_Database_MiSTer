@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>warofbugu</setname>
-   <name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US)</name>
+   <name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
    <year>1981</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>Armenia / Super Video Games</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Armenia</manufacturer>
 </misterarcadedescription>

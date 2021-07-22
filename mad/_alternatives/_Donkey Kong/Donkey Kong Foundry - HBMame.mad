@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongex</setname>
-   <name>Donkey Kong Foundry - HBMame</name>
-   <year>2005</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Jeff Kulczycki</manufacturer>
+   <name>Donkey Kong Foundry</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

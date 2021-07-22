@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>centipdd</setname>
-   <name>Centipede Dux (hack)</name>
+   <name>Centipede Dux</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1989</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>hack (Two-Bit Score)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

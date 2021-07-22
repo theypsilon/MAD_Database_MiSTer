@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkrdemo</setname>
-   <name>Donkey Kong Remix demo 1.8 - HBMame</name>
-   <year>2015</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Sock Master</manufacturer>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

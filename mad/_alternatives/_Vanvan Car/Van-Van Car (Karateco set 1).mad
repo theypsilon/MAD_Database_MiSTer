@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vanvank</setname>
-   <name>Van-Van Car (Karateco set 1)</name>
+   <name>Van-Van Car</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1983</year>
    <category>Maze</category>
-   <manufacturer>Sanritsu (Karateco license?)</manufacturer>
+   <manufacturer>Sanritsu</manufacturer>
 </misterarcadedescription>

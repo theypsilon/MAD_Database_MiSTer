@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkpace</setname>
-   <name>Donkey Kong Pace - HBMame</name>
-   <year>2016</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Sock Master</manufacturer>
+   <name>Donkey Kong Pace</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

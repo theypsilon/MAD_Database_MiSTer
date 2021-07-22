@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>colony7a</setname>
-   <name>Colony 7 (set 2)</name>
+   <name>Colony 7</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Shooter</category>
+   <category>Shooter - Gallery</category>
    <manufacturer>Taito</manufacturer>
 </misterarcadedescription>

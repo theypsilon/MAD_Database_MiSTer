@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>shtron</setname>
-   <name>Satan's Hollow (Tron Hardware) - HBMame</name>
+   <name>Satan's Hollow</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>2004</year>
-   <category>Space / Shooter</category>
-   <manufacturer>Scott Lawrence</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

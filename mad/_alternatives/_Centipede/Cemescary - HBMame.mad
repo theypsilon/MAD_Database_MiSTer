@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cemescry</setname>
-   <name>Cemescary - HBMame</name>
+   <name>Cemescary</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1998</year>
-   <category>Maze / Bugs</category>
-   <manufacturer>NoSync</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

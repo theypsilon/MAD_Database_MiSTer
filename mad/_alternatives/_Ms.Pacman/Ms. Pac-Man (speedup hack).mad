@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mspacmnf</setname>
-   <name>Ms. Pac-Man (speedup hack)</name>
+   <name>Ms. Pac-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>hack</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Midway</manufacturer>
 </misterarcadedescription>

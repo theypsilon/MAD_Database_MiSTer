@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>digsid</setname>
-   <name>Dig Dug (manufactured by Sidam)</name>
+   <name>Dig Dug</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze / Digging</category>
-   <manufacturer>Namco (Sidam license)</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

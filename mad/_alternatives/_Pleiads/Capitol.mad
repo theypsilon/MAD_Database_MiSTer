@@ -2,6 +2,9 @@
 <misterarcadedescription>
    <setname>capitol</setname>
    <name>Capitol</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <manufacturer>bootleg? (Universal Video Spiel)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Universal Video Spiel</manufacturer>
 </misterarcadedescription>

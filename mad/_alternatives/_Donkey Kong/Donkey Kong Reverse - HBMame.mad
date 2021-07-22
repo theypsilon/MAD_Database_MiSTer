@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongrev</setname>
-   <name>Donkey Kong Reverse - HBMame</name>
-   <year>2019</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>PaulGoes</manufacturer>
+   <name>Donkey Kong Reverse</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

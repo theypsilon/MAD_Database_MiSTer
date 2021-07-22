@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kong2600</setname>
-   <name>Donkey Kong (2600 graphics) - HBMame</name>
-   <year>1999</year>
-   <category>Maze / Monkeys</category>
-   <manufacturer>Vic Twenty George</manufacturer>
+   <name>Donkey Kong</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
 </misterarcadedescription>

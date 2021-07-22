@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ladybugb</setname>
-   <name>Lady Bug (bootleg set 1)</name>
+   <name>Lady Bug</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
    <category>Maze</category>
-   <manufacturer>bootleg</manufacturer>
+   <manufacturer>Universal</manufacturer>
 </misterarcadedescription>

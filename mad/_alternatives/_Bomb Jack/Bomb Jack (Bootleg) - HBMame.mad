@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bombjckb</setname>
-   <name>Bomb Jack (Bootleg) - HBMame</name>
+   <name>Bomb Jack</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Platform</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Puzzle - Platform</category>
+   <manufacturer>Tehkan</manufacturer>
 </misterarcadedescription>

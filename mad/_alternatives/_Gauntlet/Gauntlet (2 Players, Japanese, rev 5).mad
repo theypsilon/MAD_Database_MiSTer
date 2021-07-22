@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gauntlet2pj</setname>
-   <name>Gauntlet (2 Players, Japanese, rev 5)</name>
+   <name>Gauntlet</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
    <year>1985</year>
-   <category>Adventure / Fantasy</category>
-   <manufacturer>Atari Games</manufacturer>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Atari</manufacturer>
 </misterarcadedescription>

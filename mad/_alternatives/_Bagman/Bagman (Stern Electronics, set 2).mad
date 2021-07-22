@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagmans2</setname>
-   <name>Bagman (Stern Electronics, set 2)</name>
+   <name>Bagman</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Platform / Extra</category>
-   <manufacturer>Valadon Automation (Stern Electronics license)</manufacturer>
+   <category>Platform - Climb</category>
+   <manufacturer>Valadon Automation</manufacturer>
 </misterarcadedescription>

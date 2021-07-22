@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>theends</setname>
-   <name>The End (Stern Electronics)</name>
+   <name>The End</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1980</year>
-   <category>Space / Shooter</category>
-   <manufacturer>Konami (Stern Electronics license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

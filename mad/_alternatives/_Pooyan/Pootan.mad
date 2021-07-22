@@ -2,7 +2,9 @@
 <misterarcadedescription>
    <setname>pootan</setname>
    <name>Pootan</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze / Balloons</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

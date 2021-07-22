@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bmbjckgr</setname>
-   <name>Bomb Jack (Greek) - HBMame</name>
+   <name>Bomb Jack</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1984</year>
-   <category>Platform</category>
-   <manufacturer>hack</manufacturer>
+   <category>Puzzle - Platform</category>
+   <manufacturer>Tehkan</manufacturer>
 </misterarcadedescription>

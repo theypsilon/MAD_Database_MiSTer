@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>buglaxn</setname>
-   <name>Galaxian (Bug sprites) - HBMame</name>
-   <year>1998</year>
-   <category>Space / Galaxian</category>
-   <manufacturer>The Dog</manufacturer>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
 </misterarcadedescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sinistar2</setname>
-   <name>Sinistar (revision 2)</name>
+   <name>Sinistar</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Space / Asteroids</category>
+   <category>Shooter - Multidirectional</category>
    <manufacturer>Williams</manufacturer>
 </misterarcadedescription>

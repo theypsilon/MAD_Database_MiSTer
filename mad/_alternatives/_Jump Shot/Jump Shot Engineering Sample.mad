@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>jumpshotp</setname>
-   <name>Jump Shot Engineering Sample</name>
+   <name>Jump Shot</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1985</year>
-   <category>Sports / Basketball</category>
-   <manufacturer>Bally Midway</manufacturer>
+   <category>Sports</category>
+   <manufacturer>Bally</manufacturer>
 </misterarcadedescription>

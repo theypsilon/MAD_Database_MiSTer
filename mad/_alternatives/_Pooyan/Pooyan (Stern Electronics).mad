@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pooyans</setname>
-   <name>Pooyan (Stern Electronics)</name>
+   <name>Pooyan</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1982</year>
-   <category>Maze / Balloons</category>
-   <manufacturer>Konami (Stern Electronics license)</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Konami</manufacturer>
 </misterarcadedescription>

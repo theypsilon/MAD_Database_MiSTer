@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>roboman</setname>
-   <name>Robo Man - HBMame</name>
+   <name>Robo Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1999</year>
-   <category>Maze / Pac-Man</category>
+   <category>Maze</category>
    <manufacturer>Runge Editing</manufacturer>
 </misterarcadedescription>

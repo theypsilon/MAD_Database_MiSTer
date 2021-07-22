@@ -1,8 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>hangly</setname>
-   <name>Hangly-Man (set 1)</name>
+   <name>Hangly-Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>hack</manufacturer>
+   <category>Maze</category>
+   <manufacturer>Nittoh</manufacturer>
 </misterarcadedescription>
