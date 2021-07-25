@@ -165,7 +165,6 @@ class MadReader:
         ])
 
         data = dict()
-        set_if_not_empty(data, fields, 'setname')
         set_if_not_empty(data, fields, 'name')
         set_if_not_empty(data, fields, 'alternative')
         set_if_not_empty(data, fields, 'flip')
