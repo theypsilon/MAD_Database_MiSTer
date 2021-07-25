@@ -6,4 +6,6 @@
    <year>1987</year>
    <category>Army / Airforce</category>
    <manufacturer>bootleg</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>yes</bootleg>
 </misterarcadedescription>
