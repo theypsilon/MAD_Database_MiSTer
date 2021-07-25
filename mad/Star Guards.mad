@@ -11,6 +11,6 @@
    <bootleg>no</bootleg>
    <platform>Midway MCR3</platform>
    <num_buttons>4</num_buttons>
-   <move_inputs>8-way</move_inputs>
+   <move_inputs>joystick 8-way</move_inputs>
    <special_controls>twin stick</special_controls>
 </misterarcadedescription>

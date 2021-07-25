@@ -9,5 +9,5 @@
    <manufacturer>Star</manufacturer>
    <bootleg>yes</bootleg>
    <platform>Sega S16A</platform>
-   <move_inputs>8</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

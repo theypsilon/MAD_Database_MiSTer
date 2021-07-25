@@ -11,5 +11,5 @@
    <homebrew>yes</homebrew>
    <bootleg>no</bootleg>
    <num_buttons>0</num_buttons>
-   <move_inputs>4-way</move_inputs>
+   <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>

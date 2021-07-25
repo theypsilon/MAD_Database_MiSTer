@@ -12,5 +12,5 @@
    <bootleg>no</bootleg>
    <series>Gauntlet</series>
    <num_buttons>2</num_buttons>
-   <move_inputs>8-way</move_inputs>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

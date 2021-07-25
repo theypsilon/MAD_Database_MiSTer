@@ -12,6 +12,6 @@
    <bootleg>no</bootleg>
    <platform>Sega System 1</platform>
    <num_buttons>1</num_buttons>
-   <move_inputs>8-way</move_inputs>
+   <move_inputs>joystick 8-way</move_inputs>
    <special_controls>twin stick</special_controls>
 </misterarcadedescription>

@@ -8,5 +8,5 @@
    <category>Shoot'em up</category>
    <manufacturer>Eighting / Raizing</manufacturer>
    <platform>CPS-2</platform>
-   <move_inputs>8-way</move_inputs>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

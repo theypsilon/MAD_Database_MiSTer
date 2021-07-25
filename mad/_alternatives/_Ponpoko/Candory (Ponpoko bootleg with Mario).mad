@@ -11,5 +11,5 @@
    <bootleg>yes</bootleg>
    <series>Mario</series>
    <num_buttons>1</num_buttons>
-   <move_inputs>2-way horizontal</move_inputs>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
 </misterarcadedescription>
