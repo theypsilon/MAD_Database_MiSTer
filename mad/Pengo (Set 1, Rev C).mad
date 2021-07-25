@@ -7,4 +7,7 @@
    <year>1982</year>
    <category>Maze</category>
    <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

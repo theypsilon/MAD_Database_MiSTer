@@ -7,4 +7,7 @@
    <year>1979</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Subelectro</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

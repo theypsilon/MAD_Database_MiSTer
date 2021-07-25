@@ -7,4 +7,8 @@
    <year>1980</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Taito do Brasil</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <series>Galaxian</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

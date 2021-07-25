@@ -6,4 +6,7 @@
    <year>1981</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Universal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

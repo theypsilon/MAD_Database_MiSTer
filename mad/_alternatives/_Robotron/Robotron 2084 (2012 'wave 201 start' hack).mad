@@ -6,4 +6,8 @@
    <year>1982</year>
    <category>Arena</category>
    <manufacturer>Williams</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>4</num_buttons>
+   <special_controls>twin stick</special_controls>
 </misterarcadedescription>

@@ -8,4 +8,9 @@
    <year>1982</year>
    <category>Arena</category>
    <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR</platform>
+   <series>Tron</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

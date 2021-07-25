@@ -7,4 +7,9 @@
    <year>1985</year>
    <category>Arena</category>
    <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR3</platform>
+   <num_buttons>4</num_buttons>
+   <special_controls>trackball</special_controls>
 </misterarcadedescription>

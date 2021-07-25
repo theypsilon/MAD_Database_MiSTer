@@ -7,4 +7,7 @@
    <year>2001</year>
    <category>Maze</category>
    <manufacturer>Nittoh</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
 </misterarcadedescription>

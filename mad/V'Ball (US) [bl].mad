@@ -7,4 +7,7 @@
    <year>1988</year>
    <category>Sports</category>
    <manufacturer>Technos Japan</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

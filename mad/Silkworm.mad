@@ -6,4 +6,8 @@
    <year>1988</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Tecmo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Tecmo</platform>
+   <num_buttons>3</num_buttons>
 </misterarcadedescription>

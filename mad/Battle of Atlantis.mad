@@ -7,4 +7,7 @@
    <year>1981</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Comsoft</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

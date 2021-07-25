@@ -7,4 +7,7 @@
    <year>1981</year>
    <category>Platform - Climb</category>
    <manufacturer>Amenip</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

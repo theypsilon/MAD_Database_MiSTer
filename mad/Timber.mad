@@ -6,4 +6,8 @@
    <year>1983</year>
    <category>Action</category>
    <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR3</platform>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -6,4 +6,8 @@
    <year>1981</year>
    <category>Racing</category>
    <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <series>Rally-X</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -7,4 +7,9 @@
    <year>1982</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR2</platform>
+   <series>Tron</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -8,4 +8,9 @@
    <year>1997</year>
    <category>Shooter - Vertical</category>
    <manufacturer>Cave</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>CAVE 68000</platform>
+   <series>DonPachi</series>
+   <num_buttons>3</num_buttons>
 </misterarcadedescription>

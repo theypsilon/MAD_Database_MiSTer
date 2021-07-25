@@ -7,4 +7,8 @@
    <year>1998</year>
    <category>Maze</category>
    <manufacturer>Bobby Tribble</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR</platform>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

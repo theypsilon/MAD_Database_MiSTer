@@ -6,4 +6,7 @@
    <year>1977</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

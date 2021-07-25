@@ -7,4 +7,8 @@
    <year>1982</year>
    <category>Maze</category>
    <manufacturer>Bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Dig Dug</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

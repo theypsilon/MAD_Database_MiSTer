@@ -6,4 +6,8 @@
    <year>2013</year>
    <category>Platform - Climb</category>
    <manufacturer>Jim Bagley</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Pac-Man</series>
+   <num_buttons>0</num_buttons>
 </misterarcadedescription>

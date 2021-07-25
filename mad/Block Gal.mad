@@ -7,4 +7,9 @@
    <year>1987</year>
    <category>Ball and Paddle</category>
    <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System 1</platform>
+   <num_buttons>0</num_buttons>
+   <special_controls>dial</special_controls>
 </misterarcadedescription>

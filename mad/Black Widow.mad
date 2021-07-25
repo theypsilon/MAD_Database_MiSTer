@@ -6,4 +6,8 @@
    <year>1982</year>
    <category>Shooter - Tube</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>4</num_buttons>
+   <special_controls>twin stick</special_controls>
 </misterarcadedescription>

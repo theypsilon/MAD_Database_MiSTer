@@ -6,4 +6,8 @@
    <year>1978</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Midway</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <special_controls>positional</special_controls>
 </misterarcadedescription>

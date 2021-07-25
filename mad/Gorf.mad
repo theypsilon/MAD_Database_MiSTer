@@ -7,4 +7,7 @@
    <year>1981</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

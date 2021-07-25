@@ -7,4 +7,8 @@
    <year>1985</year>
    <category>Maze</category>
    <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System 1</platform>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -7,4 +7,7 @@
    <year>1984</year>
    <category>Platform - Climb</category>
    <manufacturer>Bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

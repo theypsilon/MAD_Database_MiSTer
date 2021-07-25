@@ -6,4 +6,8 @@
    <year>1982</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Irem</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <platform>Irem M52</platform>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -8,4 +8,8 @@
    <year>1983</year>
    <category>Platform - Climb</category>
    <manufacturer>Nintendo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Donkey Kong</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

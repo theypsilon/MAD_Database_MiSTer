@@ -6,4 +6,8 @@
    <year>1984</year>
    <category>Beat 'em Up</category>
    <manufacturer>Irem</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <platform>Irem M62</platform>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

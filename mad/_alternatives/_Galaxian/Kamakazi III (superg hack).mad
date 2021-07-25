@@ -7,4 +7,7 @@
    <year>1979</year>
    <category>Shooter - Gallery</category>
    <manufacturer>hack</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -7,4 +7,7 @@
    <year>1980</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Zilec Electronics</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

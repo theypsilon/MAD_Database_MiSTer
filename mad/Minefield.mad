@@ -7,4 +7,8 @@
    <year>1983</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Stern</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>4</num_buttons>
+   <special_controls>twin stick</special_controls>
 </misterarcadedescription>

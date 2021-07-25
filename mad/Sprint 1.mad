@@ -6,4 +6,8 @@
    <year>1978</year>
    <category>Racing</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Sprint</series>
+   <num_buttons>3</num_buttons>
 </misterarcadedescription>

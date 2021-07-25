@@ -7,4 +7,8 @@
    <year>1982</year>
    <category>Maze</category>
    <manufacturer>Universal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Mr. Do</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -7,4 +7,7 @@
    <year>1998</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Konami</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

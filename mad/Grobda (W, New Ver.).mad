@@ -8,4 +8,7 @@
    <year>1984</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

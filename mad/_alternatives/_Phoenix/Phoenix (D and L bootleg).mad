@@ -7,4 +7,7 @@
    <year>1980</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Amstar</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

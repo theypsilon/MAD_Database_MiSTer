@@ -7,4 +7,8 @@
    <year>1985</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Gauntlet</series>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

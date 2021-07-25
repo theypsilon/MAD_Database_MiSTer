@@ -5,4 +5,7 @@
    <year>1971</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Syzygy Engineering</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

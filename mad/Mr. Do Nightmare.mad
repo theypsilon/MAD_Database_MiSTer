@@ -6,4 +6,8 @@
    <year>2004</year>
    <category>Maze</category>
    <manufacturer>Crazy Ivan</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Mr. Do</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

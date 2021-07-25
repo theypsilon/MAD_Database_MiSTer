@@ -7,4 +7,9 @@
    <year>1976</year>
    <category>Ball and Paddle</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Breakout</series>
+   <num_buttons>0</num_buttons>
+   <special_controls>rotary</special_controls>
 </misterarcadedescription>

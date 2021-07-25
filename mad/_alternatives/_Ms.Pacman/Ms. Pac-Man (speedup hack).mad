@@ -7,4 +7,8 @@
    <year>1981</year>
    <category>Maze</category>
    <manufacturer>Midway</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <series>Pac-Man</series>
+   <num_buttons>0</num_buttons>
 </misterarcadedescription>

@@ -6,4 +6,7 @@
    <year>1983</year>
    <category>Puzzle - Platform</category>
    <manufacturer>Bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

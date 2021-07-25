@@ -7,4 +7,7 @@
    <year>1981</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

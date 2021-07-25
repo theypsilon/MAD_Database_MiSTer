@@ -7,4 +7,9 @@
    <year>1989</year>
    <category>Shooter - Gallery</category>
    <manufacturer>Atari</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <series>*pede</series>
+   <num_buttons>1</num_buttons>
+   <special_controls>trackball</special_controls>
 </misterarcadedescription>

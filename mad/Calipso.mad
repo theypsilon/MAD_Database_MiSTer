@@ -7,4 +7,7 @@
    <year>1982</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>Tago Electronics</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -7,4 +7,7 @@
    <year>1981</year>
    <category>Maze</category>
    <manufacturer>Universal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>0</num_buttons>
 </misterarcadedescription>

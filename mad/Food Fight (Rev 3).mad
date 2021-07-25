@@ -6,4 +6,7 @@
    <year>1982</year>
    <category>Shooter - Multidirectional</category>
    <manufacturer>General Computer Corporation</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

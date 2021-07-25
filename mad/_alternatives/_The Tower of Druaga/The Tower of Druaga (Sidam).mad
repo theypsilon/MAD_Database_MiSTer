@@ -7,4 +7,7 @@
    <year>1984</year>
    <category>Maze</category>
    <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

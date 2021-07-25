@@ -8,4 +8,8 @@
    <year>1989</year>
    <category>Maze</category>
    <manufacturer>Miky SRL</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Pac-Man</series>
+   <num_buttons>0</num_buttons>
 </misterarcadedescription>

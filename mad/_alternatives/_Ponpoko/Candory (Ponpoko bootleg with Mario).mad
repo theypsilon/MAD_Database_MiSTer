@@ -6,4 +6,8 @@
    <year>1982</year>
    <category>Platform - Climb</category>
    <manufacturer>bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <series>Mario</series>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

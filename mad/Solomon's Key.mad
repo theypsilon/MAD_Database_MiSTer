@@ -6,4 +6,7 @@
    <year>1986</year>
    <category>Platform - Climb</category>
    <manufacturer>Tecmo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -6,4 +6,8 @@
    <year>2008</year>
    <category>Shooter - Horizontal</category>
    <manufacturer>Irem</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Irem M52</platform>
+   <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -6,4 +6,7 @@
    <year>1981</year>
    <category>Sports</category>
    <manufacturer>Falcon</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>

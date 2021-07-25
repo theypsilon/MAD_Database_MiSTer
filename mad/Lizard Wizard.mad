@@ -7,4 +7,7 @@
    <year>1985</year>
    <category>Arena</category>
    <manufacturer>Techstar</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
 </misterarcadedescription>
