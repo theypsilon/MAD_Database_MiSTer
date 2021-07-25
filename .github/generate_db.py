@@ -193,6 +193,11 @@ class MadReader:
             if rot is not None:
                 data['rotation'] = rot
 
+        if fields['setname'] in self._data:
+            print(mad)
+            print(self._data[fields['setname']])
+            print(data)
+            raise Exception('Game %s already included' % fields['setname'])
         self._data[fields['setname']] = data
 
     def data(self):
