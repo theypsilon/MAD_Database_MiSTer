@@ -138,8 +138,9 @@ class MadReader:
 
     def read_mad(self, mad):
         fields = read_mad_fields(mad, [
-            'name',
             'setname',
+            'name',
+            'alternative',
             'rotation',
             'flip',
             'resolution',
@@ -166,6 +167,7 @@ class MadReader:
         data = dict()
         set_if_not_empty(data, fields, 'setname')
         set_if_not_empty(data, fields, 'name')
+        set_if_not_empty(data, fields, 'alternative')
         set_if_not_empty(data, fields, 'flip')
         set_if_not_empty(data, fields, 'resolution')
         set_if_not_empty(data, fields, 'cocktail')
