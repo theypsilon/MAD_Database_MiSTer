@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gauntletgr6</setname>
+   <alternative>yes</alternative>
    <name>Gauntlet</name>
    <resolution>15kHz</resolution>
    <region>German</region>

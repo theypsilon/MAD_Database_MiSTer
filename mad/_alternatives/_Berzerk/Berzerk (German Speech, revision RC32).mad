@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>berzerkg</setname>
+   <alternative>yes</alternative>
    <name>Berzerk</name>
    <resolution>15kHz</resolution>
    <year>1980</year>

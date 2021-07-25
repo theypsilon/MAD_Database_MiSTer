@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>turbotag</setname>
+   <alternative>no</alternative>
    <name>Turbo Tag</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

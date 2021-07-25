@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>daimakai</setname>
+   <alternative>no</alternative>
    <name>Daimakaimura (Japan)</name>
    <year>1988</year>
    <category>Platform</category>

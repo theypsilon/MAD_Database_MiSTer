@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rallyx</setname>
+   <alternative>no</alternative>
    <name>Rally-X</name>
    <resolution>15kHz</resolution>
    <year>1980</year>

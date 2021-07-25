@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>avsp</setname>
+   <alternative>no</alternative>
    <name>Alien vs. Predator (Euro 940520)</name>
    <region>Europe</region>
    <year>1994</year>

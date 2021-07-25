@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ldrun3j</setname>
+   <alternative>yes</alternative>
    <name>Lode Runner III- Majin no Fukkatsu</name>
    <resolution>15kHz</resolution>
    <region>Japan</region>

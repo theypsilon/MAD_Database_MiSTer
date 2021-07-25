@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sprglbpg</setname>
+   <alternative>no</alternative>
    <name>Super Glob</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

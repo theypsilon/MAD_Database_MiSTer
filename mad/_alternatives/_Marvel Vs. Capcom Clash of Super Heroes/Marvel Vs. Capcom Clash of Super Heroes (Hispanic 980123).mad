@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mvsch</setname>
+   <alternative>yes</alternative>
    <name>Marvel Vs. Capcom: Clash of Super Heroes (Hispanic 980123)</name>
    <region>Hispanic</region>
    <year>1998</year>

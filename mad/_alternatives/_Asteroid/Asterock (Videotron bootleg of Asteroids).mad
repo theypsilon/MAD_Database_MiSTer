@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>asterockv</setname>
+   <alternative>yes</alternative>
    <name>Asterock</name>
    <resolution>31kHz</resolution>
    <year>1979</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kidniki</setname>
+   <alternative>no</alternative>
    <name>Kid Niki- Radical Ninja</name>
    <resolution>15kHz</resolution>
    <region>World</region>

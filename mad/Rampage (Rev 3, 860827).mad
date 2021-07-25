@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rampage</setname>
+   <alternative>no</alternative>
    <name>Rampage</name>
    <resolution>15kHz</resolution>
    <year>1986</year>

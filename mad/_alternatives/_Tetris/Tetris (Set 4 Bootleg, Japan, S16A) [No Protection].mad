@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>tetrisd</setname>
+   <alternative>yes</alternative>
    <name>Tetris (Set 4 Bootleg, Japan, S16A) [No Protection]</name>
    <region>Japan</region>
    <year>1988</year>

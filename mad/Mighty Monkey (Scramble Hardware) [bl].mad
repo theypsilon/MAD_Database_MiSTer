@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mimonscr</setname>
+   <alternative>no</alternative>
    <name>Mighty Monkey</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>contrab</setname>
+   <alternative>yes</alternative>
    <name>Contra (bootleg)</name>
    <year>1987</year>
    <category>Run n Gun</category>

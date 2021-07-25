@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>shinobls</setname>
+   <alternative>yes</alternative>
    <name>Shinobi (Star Bootleg, World, S16A) [No Protection]</name>
    <region>World</region>
    <year>1987</year>

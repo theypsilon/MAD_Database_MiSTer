@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>invad2ct</setname>
+   <alternative>yes</alternative>
    <name>Space Invaders Part II</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

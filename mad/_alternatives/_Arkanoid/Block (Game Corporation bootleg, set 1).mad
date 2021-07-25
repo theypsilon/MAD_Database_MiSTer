@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>arkblock</setname>
+   <alternative>yes</alternative>
    <name>Block</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

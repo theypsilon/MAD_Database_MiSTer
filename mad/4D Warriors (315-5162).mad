@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>4dwarrio</setname>
+   <alternative>no</alternative>
    <name>4D Warriors</name>
    <resolution>15kHz</resolution>
    <year>1985</year>

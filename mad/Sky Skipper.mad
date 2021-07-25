@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>skyskipr</setname>
+   <alternative>no</alternative>
    <name>Sky Skipper</name>
    <resolution>15kHz</resolution>
    <year>1981</year>

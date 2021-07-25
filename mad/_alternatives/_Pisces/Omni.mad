@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>omni</setname>
+   <alternative>yes</alternative>
    <name>Omni</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>konek</setname>
+   <alternative>no</alternative>
    <name>Konek Gorbunok</name>
    <resolution>15kHz</resolution>
    <year>1988</year>

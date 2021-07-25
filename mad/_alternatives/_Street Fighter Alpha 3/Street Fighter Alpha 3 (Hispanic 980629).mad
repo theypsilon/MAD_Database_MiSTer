@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfa3hr1</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter Alpha 3 (Hispanic 980629)</name>
    <region>Hispanic</region>
    <year>1998</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>hmbluep</setname>
+   <alternative>yes</alternative>
    <name>Hangly Man Blue Plus</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

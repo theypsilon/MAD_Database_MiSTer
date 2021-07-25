@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>19xx</setname>
+   <alternative>no</alternative>
    <name>19XX: The War Against Destiny (Euro 960104)</name>
    <region>Europe</region>
    <year>1996</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>piscesb</setname>
+   <alternative>yes</alternative>
    <name>Pisces</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

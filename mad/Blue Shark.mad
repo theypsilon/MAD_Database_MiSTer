@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>blueshrk</setname>
+   <alternative>no</alternative>
    <name>Blue Shark</name>
    <resolution>15kHz</resolution>
    <year>1978</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfp</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter (prototype)</name>
    <region>World</region>
    <year>1987</year>

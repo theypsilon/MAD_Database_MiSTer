@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacnchmp</setname>
+   <alternative>no</alternative>
    <name>Pac-Man &amp; Chomp Chomp</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

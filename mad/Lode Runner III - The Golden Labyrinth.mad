@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ldrun3</setname>
+   <alternative>no</alternative>
    <name>Lode Runner III- The Golden Labyrinth</name>
    <resolution>15kHz</resolution>
    <year>1985</year>

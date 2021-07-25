@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nwarrh</setname>
+   <alternative>yes</alternative>
    <name>Night Warriors: Darkstalkers' Revenge (Hispanic 950403)</name>
    <region>Hispanic</region>
    <year>1995</year>

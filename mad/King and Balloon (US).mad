@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kingball</setname>
+   <alternative>no</alternative>
    <name>King and Balloon</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>batcirj</setname>
+   <alternative>yes</alternative>
    <name>Battle Circuit (Japan 970319)</name>
    <region>Japan</region>
    <year>1997</year>

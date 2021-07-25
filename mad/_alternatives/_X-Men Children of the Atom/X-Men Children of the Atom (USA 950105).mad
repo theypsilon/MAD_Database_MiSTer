@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xmcotau</setname>
+   <alternative>yes</alternative>
    <name>X-Men: Children of the Atom (USA 950105)</name>
    <region>USA</region>
    <year>1994</year>

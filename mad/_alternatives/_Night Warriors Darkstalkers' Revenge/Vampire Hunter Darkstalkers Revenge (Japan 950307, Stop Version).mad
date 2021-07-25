@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vhuntjr1s</setname>
+   <alternative>yes</alternative>
    <name>Vampire Hunter: Darkstalkers' Revenge (Japan 950307, Stop Version)</name>
    <region>Japan</region>
    <year>1995</year>

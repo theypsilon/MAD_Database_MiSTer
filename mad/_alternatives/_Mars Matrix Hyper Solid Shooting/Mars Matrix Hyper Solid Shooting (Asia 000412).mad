@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mmatrixa</setname>
+   <alternative>yes</alternative>
    <name>Mars Matrix: Hyper Solid Shooting (Asia 000412)</name>
    <region>Asia</region>
    <year>2000</year>

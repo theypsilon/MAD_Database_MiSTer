@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>anteater</setname>
+   <alternative>no</alternative>
    <name>Anteater</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>silvland</setname>
+   <alternative>no</alternative>
    <name>Silver Land</name>
    <resolution>15kHz</resolution>
    <year>1981</year>

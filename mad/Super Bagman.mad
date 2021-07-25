@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sbagman</setname>
+   <alternative>no</alternative>
    <name>Super Bagman</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

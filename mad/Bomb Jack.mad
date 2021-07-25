@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bombjack</setname>
+   <alternative>no</alternative>
    <name>Bomb Jack </name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

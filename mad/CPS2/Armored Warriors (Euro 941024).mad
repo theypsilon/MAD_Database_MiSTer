@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>armwar</setname>
+   <alternative>no</alternative>
    <name>Armored Warriors (Euro 941024)</name>
    <region>Europe</region>
    <year>1994</year>

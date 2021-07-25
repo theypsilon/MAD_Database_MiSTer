@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galap4</setname>
+   <alternative>yes</alternative>
    <name>Galaxian Part 4</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

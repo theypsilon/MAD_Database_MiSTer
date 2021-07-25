@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
+   <alternative>no</alternative>
    <name>Computer Space</name>
    <resolution>15kHz</resolution>
    <year>1971</year>

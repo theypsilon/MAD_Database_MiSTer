@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddtodar1</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Tower of Doom (Asia 940113)</name>
    <region>Asia</region>
    <year>1993</year>

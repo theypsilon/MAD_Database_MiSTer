@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>1944j</setname>
+   <alternative>yes</alternative>
    <name>1944: The Loop Master (Japan 000620)</name>
    <region>Japan</region>
    <year>2000</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkpace</setname>
+   <alternative>yes</alternative>
    <name>Donkey Kong Pace</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>meteorho</setname>
+   <alternative>yes</alternative>
    <name>Meteor</name>
    <resolution>31kHz</resolution>
    <year>1979</year>

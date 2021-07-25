@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gigawinga</setname>
+   <alternative>yes</alternative>
    <name>Giga Wing (Asia 990222)</name>
    <region>Asia</region>
    <year>1999</year>

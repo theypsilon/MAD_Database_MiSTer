@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>atetrisa</setname>
+   <alternative>yes</alternative>
    <name>Tetris</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

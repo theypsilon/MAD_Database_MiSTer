@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>clubpacm</setname>
+   <alternative>no</alternative>
    <name>Pac-Man Club- Club Lambada</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

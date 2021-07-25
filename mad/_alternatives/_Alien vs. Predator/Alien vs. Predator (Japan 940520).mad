@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>avspj</setname>
+   <alternative>yes</alternative>
    <name>Alien vs. Predator (Japan 940520)</name>
    <region>Japan</region>
    <year>1994</year>

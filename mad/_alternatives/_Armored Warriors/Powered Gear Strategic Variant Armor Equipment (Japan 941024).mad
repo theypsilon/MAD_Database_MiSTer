@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pgear</setname>
+   <alternative>yes</alternative>
    <name>Powered Gear: Strategic Variant Armor Equipment (Japan 941024)</name>
    <region>Japan</region>
    <year>1994</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cscluba</setname>
+   <alternative>yes</alternative>
    <name>Capcom Sports Club (Asia 970722)</name>
    <region>Asia</region>
    <year>1997</year>

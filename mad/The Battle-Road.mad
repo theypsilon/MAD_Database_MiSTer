@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>battroad</setname>
+   <alternative>no</alternative>
    <name>The Battle-Road</name>
    <flip>broken</flip>
    <resolution>15kHz</resolution>

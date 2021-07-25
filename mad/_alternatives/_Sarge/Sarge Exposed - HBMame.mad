@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sargex</setname>
+   <alternative>yes</alternative>
    <name>Sarge Exposed</name>
    <resolution>15kHz</resolution>
    <year>2009</year>

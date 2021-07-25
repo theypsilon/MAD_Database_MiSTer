@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfan</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter (World, pneumatic buttons)</name>
    <region>World</region>
    <year>1987</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ffight</setname>
+   <alternative>yes</alternative>
    <name>Final Fight (World, set 1)</name>
    <year>1989</year>
    <category>Beat em up</category>

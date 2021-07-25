@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kong2600</setname>
+   <alternative>yes</alternative>
    <name>Donkey Kong</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

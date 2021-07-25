@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pfghtj</setname>
+   <alternative>yes</alternative>
    <name>Pocket Fighter (Japan 970904)</name>
    <region>Japan</region>
    <year>1997</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gemini</setname>
+   <alternative>no</alternative>
    <name>Gemini Wing</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

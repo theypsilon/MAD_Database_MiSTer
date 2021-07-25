@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>avspu</setname>
+   <alternative>yes</alternative>
    <name>Alien vs. Predator (USA 940520)</name>
    <region>USA</region>
    <year>1994</year>

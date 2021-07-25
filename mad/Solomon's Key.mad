@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>solomon</setname>
+   <alternative>no</alternative>
    <name>Solomon's Key </name>
    <resolution>15kHz</resolution>
    <year>1986</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ldruna</setname>
+   <alternative>yes</alternative>
    <name>Lode Runner</name>
    <resolution>15kHz</resolution>
    <year>1984</year>

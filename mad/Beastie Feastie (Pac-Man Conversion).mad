@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>beastfp</setname>
+   <alternative>no</alternative>
    <name>Beastie Feastie</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

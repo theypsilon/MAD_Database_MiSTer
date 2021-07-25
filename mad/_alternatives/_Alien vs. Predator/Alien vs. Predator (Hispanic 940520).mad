@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>avsph</setname>
+   <alternative>yes</alternative>
    <name>Alien vs. Predator (Hispanic 940520)</name>
    <region>Hispanic</region>
    <year>1994</year>

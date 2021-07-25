@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddsomjr1</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Shadow over Mystara (Japan 960206)</name>
    <region>Japan</region>
    <year>1996</year>

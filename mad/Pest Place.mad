@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pestplce</setname>
+   <alternative>no</alternative>
    <name>Pest Place</name>
    <resolution>15kHz</resolution>
    <year>1983</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>fastpuck</setname>
+   <alternative>yes</alternative>
    <name>New Puck X</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

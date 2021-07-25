@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>boothill</setname>
+   <alternative>no</alternative>
    <name>Boot Hill</name>
    <resolution>15kHz</resolution>
    <year>1977</year>

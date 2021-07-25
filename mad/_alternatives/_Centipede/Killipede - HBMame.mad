@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>killiped</setname>
+   <alternative>yes</alternative>
    <name>Killipede</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

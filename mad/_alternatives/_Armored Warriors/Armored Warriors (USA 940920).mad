@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>armwaru1</setname>
+   <alternative>yes</alternative>
    <name>Armored Warriors (USA 940920)</name>
    <region>USA</region>
    <year>1994</year>

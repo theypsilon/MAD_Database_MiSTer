@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>armorcar2</setname>
+   <alternative>yes</alternative>
    <name>Armored Car</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacmar</setname>
+   <alternative>yes</alternative>
    <name>Mario Pac-Man</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

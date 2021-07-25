@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>losttomb</setname>
+   <alternative>no</alternative>
    <name>Lost Tomb</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

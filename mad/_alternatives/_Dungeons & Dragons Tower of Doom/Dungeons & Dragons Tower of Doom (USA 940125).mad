@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddtodu</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Tower of Doom (USA 940125)</name>
    <region>USA</region>
    <year>1993</year>

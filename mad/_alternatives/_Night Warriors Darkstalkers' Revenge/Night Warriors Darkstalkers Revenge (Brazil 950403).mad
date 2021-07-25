@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nwarrb</setname>
+   <alternative>yes</alternative>
    <name>Night Warriors: Darkstalkers' Revenge (Brazil 950403)</name>
    <region>World</region>
    <year>1995</year>

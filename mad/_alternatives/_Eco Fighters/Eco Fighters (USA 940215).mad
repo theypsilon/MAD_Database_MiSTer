@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ecofghtru</setname>
+   <alternative>yes</alternative>
    <name>Eco Fighters (USA 940215)</name>
    <region>USA</region>
    <year>1993</year>

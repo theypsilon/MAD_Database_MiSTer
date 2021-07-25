@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spcenctr</setname>
+   <alternative>no</alternative>
    <name>Space Encounters</name>
    <resolution>15kHz</resolution>
    <year>1980</year>

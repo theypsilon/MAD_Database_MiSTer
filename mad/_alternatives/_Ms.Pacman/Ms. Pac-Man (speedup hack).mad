@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mspacmnf</setname>
+   <alternative>yes</alternative>
    <name>Ms. Pac-Man</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

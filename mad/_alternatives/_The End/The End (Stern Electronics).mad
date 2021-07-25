@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>theends</setname>
+   <alternative>yes</alternative>
    <name>The End</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

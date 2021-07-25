@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>stratgys</setname>
+   <alternative>yes</alternative>
    <name>Strategy X</name>
    <resolution>15kHz</resolution>
    <year>1981</year>

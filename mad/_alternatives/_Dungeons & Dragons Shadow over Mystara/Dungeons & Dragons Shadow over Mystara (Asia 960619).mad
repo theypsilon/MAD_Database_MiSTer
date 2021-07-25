@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddsoma</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Shadow over Mystara (Asia 960619)</name>
    <region>Asia</region>
    <year>1996</year>

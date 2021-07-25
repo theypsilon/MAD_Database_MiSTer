@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacplus</setname>
+   <alternative>yes</alternative>
    <name>Pacman Plus - HBMame</name>
    <year>1982</year>
    <category>Maze / Pac-Man</category>

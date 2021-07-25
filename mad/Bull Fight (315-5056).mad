@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bullfgt</setname>
+   <alternative>no</alternative>
    <name>Bull Fight</name>
    <resolution>15kHz</resolution>
    <year>1984</year>

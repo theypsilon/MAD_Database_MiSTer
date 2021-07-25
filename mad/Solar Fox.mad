@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>solarfox</setname>
+   <alternative>no</alternative>
    <name>Solar Fox</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

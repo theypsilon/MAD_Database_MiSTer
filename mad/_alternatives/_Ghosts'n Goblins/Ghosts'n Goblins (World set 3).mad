@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gngc</setname>
+   <alternative>yes</alternative>
    <name>Ghosts'n Goblins (World set 3)</name>
    <year>1985</year>
    <category>Adventure / Knights</category>

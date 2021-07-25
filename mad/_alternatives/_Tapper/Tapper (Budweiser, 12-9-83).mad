@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>tappera</setname>
+   <alternative>yes</alternative>
    <name>Tapper</name>
    <resolution>15kHz</resolution>
    <year>1983</year>

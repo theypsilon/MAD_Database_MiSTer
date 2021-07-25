@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>commandob2</setname>
+   <alternative>yes</alternative>
    <name>Commando (Bootleg Set 2)</name>
    <region>World</region>
    <year>1985</year>

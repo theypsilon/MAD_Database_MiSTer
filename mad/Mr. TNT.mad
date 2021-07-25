@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mrtnt</setname>
+   <alternative>no</alternative>
    <name>Mr. TNT</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

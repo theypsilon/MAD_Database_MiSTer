@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>commandou2</setname>
+   <alternative>yes</alternative>
    <name>Commando (US Set 2)</name>
    <region>USA</region>
    <year>1985</year>

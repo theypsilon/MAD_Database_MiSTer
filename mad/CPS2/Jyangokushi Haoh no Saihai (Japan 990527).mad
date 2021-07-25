@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>jyangoku</setname>
+   <alternative>no</alternative>
    <name>Jyangokushi: Haoh no Saihai (Japan 990527)</name>
    <region>Japan</region>
    <year>1999</year>

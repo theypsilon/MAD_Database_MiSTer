@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vindctr2r1</setname>
+   <alternative>yes</alternative>
    <name>Vindicators Part II</name>
    <resolution>15kHz</resolution>
    <year>1985</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sumelton</setname>
+   <alternative>yes</alternative>
    <name>Summertime Elton</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

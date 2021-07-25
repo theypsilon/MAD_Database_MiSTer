@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rygar</setname>
+   <alternative>no</alternative>
    <name>Rygar</name>
    <resolution>15kHz</resolution>
    <year>1986</year>

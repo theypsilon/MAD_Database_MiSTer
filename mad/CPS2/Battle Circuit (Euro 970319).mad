@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>batcir</setname>
+   <alternative>no</alternative>
    <name>Battle Circuit (Euro 970319)</name>
    <region>Europe</region>
    <year>1997</year>

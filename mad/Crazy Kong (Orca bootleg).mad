@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ckongo</setname>
+   <alternative>no</alternative>
    <name>Crazy Kong (Orca bootleg)</name>
    <year>1981</year>
    <category>Maze / Monkeys</category>

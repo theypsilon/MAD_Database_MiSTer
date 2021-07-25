@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkongrev</setname>
+   <alternative>yes</alternative>
    <name>Donkey Kong Reverse</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

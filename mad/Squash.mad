@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>squaitsa</setname>
+   <alternative>no</alternative>
    <name>Squash</name>
    <resolution>15kHz</resolution>
    <year>1984</year>

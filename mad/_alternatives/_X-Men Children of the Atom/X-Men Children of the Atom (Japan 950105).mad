@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xmcotaj</setname>
+   <alternative>yes</alternative>
    <name>X-Men: Children of the Atom (Japan 950105)</name>
    <region>Japan</region>
    <year>1994</year>

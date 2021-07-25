@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>aerolitos</setname>
+   <alternative>yes</alternative>
    <name>Aerolitos</name>
    <resolution>31kHz</resolution>
    <year>1980</year>

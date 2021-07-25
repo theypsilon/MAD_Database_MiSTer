@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>jumpshot</setname>
+   <alternative>no</alternative>
    <name>Jump Shot</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

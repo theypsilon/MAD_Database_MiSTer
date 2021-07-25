@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>robotrontd</setname>
+   <alternative>yes</alternative>
    <name>Robotron 2084</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

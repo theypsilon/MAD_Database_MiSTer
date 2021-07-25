@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>rescue</setname>
+   <alternative>no</alternative>
    <name>Rescue</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

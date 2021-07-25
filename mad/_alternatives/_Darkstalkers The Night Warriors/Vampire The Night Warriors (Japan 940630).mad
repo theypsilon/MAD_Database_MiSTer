@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vampjr1</setname>
+   <alternative>yes</alternative>
    <name>Vampire: The Night Warriors (Japan 940630)</name>
    <region>Japan</region>
    <year>1994</year>

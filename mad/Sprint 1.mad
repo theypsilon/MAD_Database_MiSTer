@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sprint1</setname>
+   <alternative>no</alternative>
    <name>Sprint 1</name>
    <resolution>15kHz</resolution>
    <year>1978</year>

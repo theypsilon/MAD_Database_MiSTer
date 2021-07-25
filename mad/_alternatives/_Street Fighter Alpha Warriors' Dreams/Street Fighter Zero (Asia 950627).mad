@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfza</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter Zero (Asia 950627)</name>
    <region>Asia</region>
    <year>1995</year>

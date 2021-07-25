@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sf</setname>
+   <alternative>no</alternative>
    <name>Street Fighter (US, set 1)</name>
    <region>World</region>
    <year>1987</year>

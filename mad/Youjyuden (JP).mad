@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>youjyudn</setname>
+   <alternative>no</alternative>
    <name>Youjyuden</name>
    <flip>broken</flip>
    <resolution>15kHz</resolution>

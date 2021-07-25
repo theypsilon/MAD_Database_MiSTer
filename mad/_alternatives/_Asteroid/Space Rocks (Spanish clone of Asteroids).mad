@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spcrocks</setname>
+   <alternative>yes</alternative>
    <name>Space Rocks</name>
    <resolution>31kHz</resolution>
    <year>1981</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>housepty</setname>
+   <alternative>yes</alternative>
    <name>House Party</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

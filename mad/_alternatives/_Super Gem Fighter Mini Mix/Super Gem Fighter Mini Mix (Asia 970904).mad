@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sgemfa</setname>
+   <alternative>yes</alternative>
    <name>Super Gem Fighter: Mini Mix (Asia 970904)</name>
    <region>Asia</region>
    <year>1997</year>

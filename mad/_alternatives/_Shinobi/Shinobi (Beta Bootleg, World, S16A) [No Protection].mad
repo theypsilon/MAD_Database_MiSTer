@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>shinoblb</setname>
+   <alternative>yes</alternative>
    <name>Shinobi (Beta Bootleg, World, S16A) [No Protection]</name>
    <region>World</region>
    <year>1987</year>

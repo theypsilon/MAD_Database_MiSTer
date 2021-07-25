@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spdcoin</setname>
+   <alternative>no</alternative>
    <name>Speed Coin</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scobrase</setname>
+   <alternative>yes</alternative>
    <name>Super Cobra</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

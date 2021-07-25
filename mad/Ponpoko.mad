@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ponpoko</setname>
+   <alternative>no</alternative>
    <name>Ponpoko</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

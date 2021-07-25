@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pmad00</setname>
+   <alternative>yes</alternative>
    <name>Pac-Man After Dark 2000</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

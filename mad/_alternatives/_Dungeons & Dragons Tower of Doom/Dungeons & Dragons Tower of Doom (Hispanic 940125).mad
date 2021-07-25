@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddtodhr1</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940125)</name>
    <region>Hispanic</region>
    <year>1993</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>scramble</setname>
+   <alternative>no</alternative>
    <name>Scramble</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

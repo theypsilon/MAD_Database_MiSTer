@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>starfgh2</setname>
+   <alternative>yes</alternative>
    <name>Starfighter II</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

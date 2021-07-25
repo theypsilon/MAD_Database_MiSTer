@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>swat</setname>
+   <alternative>no</alternative>
    <name>Swat</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

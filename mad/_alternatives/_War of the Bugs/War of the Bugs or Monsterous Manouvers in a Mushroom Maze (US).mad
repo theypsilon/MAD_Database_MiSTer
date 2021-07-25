@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>warofbugu</setname>
+   <alternative>yes</alternative>
    <name>War of the Bugs or Monsterous Manouvers in a Mushroom Maze</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

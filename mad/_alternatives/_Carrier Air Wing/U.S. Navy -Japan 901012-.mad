@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cawingj</setname>
+   <alternative>yes</alternative>
    <name>U.S. Navy (Japan 901012)</name>
    <year>1990</year>
    <category>Shoot em up</category>

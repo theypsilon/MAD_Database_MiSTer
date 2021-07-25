@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ecofghtr</setname>
+   <alternative>no</alternative>
    <name>Eco Fighters (World 931203)</name>
    <region>World</region>
    <year>1993</year>

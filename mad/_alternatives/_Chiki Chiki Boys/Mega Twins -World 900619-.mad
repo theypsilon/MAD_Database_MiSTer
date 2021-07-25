@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mtwins</setname>
+   <alternative>yes</alternative>
    <name>Mega Twins (World 900619)</name>
    <year>1990</year>
    <category>Platform</category>

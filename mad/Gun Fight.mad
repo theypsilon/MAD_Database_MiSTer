@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>gunfight</setname>
+   <alternative>no</alternative>
    <name>Gun Fight</name>
    <resolution>15kHz</resolution>
    <year>1975</year>

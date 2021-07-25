@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mooncrgx</setname>
+   <alternative>no</alternative>
    <name>Moon Cresta</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

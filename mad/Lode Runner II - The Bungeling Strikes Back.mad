@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ldrun2</setname>
+   <alternative>no</alternative>
    <name>Lode Runner II- The Bungeling Strikes Back</name>
    <resolution>15kHz</resolution>
    <year>1984</year>

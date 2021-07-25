@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>darkplnt</setname>
+   <alternative>no</alternative>
    <name>Dark Planet</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

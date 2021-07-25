@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>myhero</setname>
+   <alternative>no</alternative>
    <name>My Hero</name>
    <resolution>15kHz</resolution>
    <region>USA</region>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>contra1</setname>
+   <alternative>yes</alternative>
    <name>contra1</name>
    <year>1987</year>
    <category>Run n Gun</category>

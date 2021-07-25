@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacplus</setname>
+   <alternative>no</alternative>
    <name>Pac-Man Plus</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

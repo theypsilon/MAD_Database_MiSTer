@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfzh</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter Zero (Hispanic 950718)</name>
    <region>Hispanic</region>
    <year>1995</year>

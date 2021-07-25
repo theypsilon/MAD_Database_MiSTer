@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cybotsj</setname>
+   <alternative>yes</alternative>
    <name>Cyberbots: Fullmetal Madness (Japan 950420)</name>
    <region>Japan</region>
    <year>1995</year>

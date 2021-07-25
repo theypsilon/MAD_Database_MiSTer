@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bubbles</setname>
+   <alternative>no</alternative>
    <name>Bubbles</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>demoderm</setname>
+   <alternative>no</alternative>
    <name>Demolition Derby</name>
    <resolution>15kHz</resolution>
    <year>1984</year>

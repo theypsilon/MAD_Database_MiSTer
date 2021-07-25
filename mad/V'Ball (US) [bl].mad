@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vballb</setname>
+   <alternative>no</alternative>
    <name>U.S. Championship V'ball</name>
    <resolution>15kHz</resolution>
    <region>USA</region>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pengo</setname>
+   <alternative>no</alternative>
    <name>Pengo</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

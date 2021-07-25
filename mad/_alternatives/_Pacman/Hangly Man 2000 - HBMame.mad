@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>hm2000</setname>
+   <alternative>yes</alternative>
    <name>Hangly Man 2000</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

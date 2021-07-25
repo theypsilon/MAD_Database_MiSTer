@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pacmini</setname>
+   <alternative>yes</alternative>
    <name>Mini Pac-Man</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

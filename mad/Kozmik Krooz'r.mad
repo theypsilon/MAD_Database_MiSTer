@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>kroozr</setname>
+   <alternative>no</alternative>
    <name>Kozmik Krooz'r</name>
    <resolution>15kHz</resolution>
    <year>1983</year>

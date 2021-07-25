@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>lizwiz</setname>
+   <alternative>no</alternative>
    <name>Lizard Wizard</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

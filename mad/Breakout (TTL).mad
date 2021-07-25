@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>breakout</setname>
+   <alternative>no</alternative>
    <name>Breakout</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

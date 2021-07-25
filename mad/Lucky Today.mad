@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>luctoday</setname>
+   <alternative>no</alternative>
    <name>Lucky Today</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

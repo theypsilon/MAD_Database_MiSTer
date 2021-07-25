@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>victorycb</setname>
+   <alternative>no</alternative>
    <name>Victory</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

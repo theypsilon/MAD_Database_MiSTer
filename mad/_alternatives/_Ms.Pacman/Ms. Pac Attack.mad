@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mspacmat</setname>
+   <alternative>yes</alternative>
    <name>Ms. Pac Attack</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>theglobp</setname>
+   <alternative>no</alternative>
    <name>The Glob</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

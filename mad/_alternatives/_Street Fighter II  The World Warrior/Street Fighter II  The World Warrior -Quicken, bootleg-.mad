@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sf2qp2</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter II: The World Warrior (Quicken, bootleg)</name>
    <year>1991</year>
    <category>Fighting</category>

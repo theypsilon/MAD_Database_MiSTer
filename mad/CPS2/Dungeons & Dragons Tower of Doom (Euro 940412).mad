@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddtod</setname>
+   <alternative>no</alternative>
    <name>Dungeons &amp; Dragons: Tower of Doom (Euro 940412)</name>
    <region>Europe</region>
    <year>1993</year>

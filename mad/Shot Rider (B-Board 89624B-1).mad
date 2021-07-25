@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>shtrider</setname>
+   <alternative>no</alternative>
    <name>Shot Rider</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

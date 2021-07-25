@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>jacman</setname>
+   <alternative>yes</alternative>
    <name>Jacman</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

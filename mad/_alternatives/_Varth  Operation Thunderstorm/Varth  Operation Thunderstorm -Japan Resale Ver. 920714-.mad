@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>varthjr</setname>
+   <alternative>yes</alternative>
    <name>Varth: Operation Thunderstorm (Japan Resale Ver. 920714)</name>
    <year>1992</year>
    <category>Shoot em up</category>

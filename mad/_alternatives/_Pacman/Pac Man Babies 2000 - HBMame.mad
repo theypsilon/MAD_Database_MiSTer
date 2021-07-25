@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pmba2000</setname>
+   <alternative>yes</alternative>
    <name>Pac-Man Babies 2000</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

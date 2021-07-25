@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>foodf</setname>
+   <alternative>no</alternative>
    <name>Food Fight</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

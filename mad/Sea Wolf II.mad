@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>seawolf2</setname>
+   <alternative>no</alternative>
    <name>Sea Wolf II</name>
    <resolution>15kHz</resolution>
    <year>1978</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bwidow</setname>
+   <alternative>no</alternative>
    <name>Black Widow</name>
    <resolution>31kHz</resolution>
    <year>1982</year>

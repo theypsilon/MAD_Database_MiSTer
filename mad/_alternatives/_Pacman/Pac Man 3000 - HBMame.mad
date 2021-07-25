@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pm3000</setname>
+   <alternative>yes</alternative>
    <name>Pac-Man 3000</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

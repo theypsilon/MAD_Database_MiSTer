@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>invaders</setname>
+   <alternative>no</alternative>
    <name>Space Invaders</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

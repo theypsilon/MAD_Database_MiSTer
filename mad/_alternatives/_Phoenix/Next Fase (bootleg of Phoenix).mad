@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nextfase</setname>
+   <alternative>yes</alternative>
    <name>Next Fase</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

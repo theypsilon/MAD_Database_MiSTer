@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>baby3</setname>
+   <alternative>yes</alternative>
    <name>Baby Pac-Man 3</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

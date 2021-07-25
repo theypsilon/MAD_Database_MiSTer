@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dstlka</setname>
+   <alternative>yes</alternative>
    <name>Darkstalkers: The Night Warriors (Asia 940705)</name>
    <region>Asia</region>
    <year>1994</year>

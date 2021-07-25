@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nwarr</setname>
+   <alternative>no</alternative>
    <name>Night Warriors: Darkstalkers' Revenge (Euro 950316)</name>
    <region>Europe</region>
    <year>1995</year>

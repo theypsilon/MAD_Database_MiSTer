@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>progeara</setname>
+   <alternative>yes</alternative>
    <name>Progear (Asia 010117)</name>
    <region>Asia</region>
    <year>2001</year>

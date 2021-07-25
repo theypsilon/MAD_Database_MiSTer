@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>blkhole</setname>
+   <alternative>no</alternative>
    <name>Black Hole</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>cosmo</setname>
+   <alternative>no</alternative>
    <name>Cosmo</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

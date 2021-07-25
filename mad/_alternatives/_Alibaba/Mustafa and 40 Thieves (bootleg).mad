@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>alibabab</setname>
+   <alternative>yes</alternative>
    <name>Mustafa and 40 Thieves</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

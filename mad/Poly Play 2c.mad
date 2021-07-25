@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>polyplay2</setname>
+   <alternative>no</alternative>
    <name>Poly Play 2c</name>
    <resolution>15kHz</resolution>
    <year>1985</year>

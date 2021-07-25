@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>csclubjy</setname>
+   <alternative>yes</alternative>
    <name>Capcom Sports Club (Japan 970722, Rental Version)</name>
    <region>Japan</region>
    <year>1997</year>

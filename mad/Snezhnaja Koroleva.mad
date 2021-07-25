@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>koroleva</setname>
+   <alternative>no</alternative>
    <name>Snezhnaja Koroleva</name>
    <resolution>15kHz</resolution>
    <year>1988</year>

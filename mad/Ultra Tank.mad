@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ultratnk</setname>
+   <alternative>no</alternative>
    <name>Ultra Tank</name>
    <resolution>15kHz</resolution>
    <year>1978</year>

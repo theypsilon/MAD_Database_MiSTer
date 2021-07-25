@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mario</setname>
+   <alternative>no</alternative>
    <name>Mario Bros.</name>
    <resolution>15kHz</resolution>
    <region>USA</region>

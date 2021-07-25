@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>asideral</setname>
+   <alternative>yes</alternative>
    <name>Ataque Sideral</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sinistar1</setname>
+   <alternative>yes</alternative>
    <name>Sinistar</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spf2th</setname>
+   <alternative>yes</alternative>
    <name>Super Puzzle Fighter II Turbo (Hispanic 960531)</name>
    <region>Hispanic</region>
    <year>1996</year>

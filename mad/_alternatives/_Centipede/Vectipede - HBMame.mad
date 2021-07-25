@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vectiped</setname>
+   <alternative>yes</alternative>
    <name>Vectipede</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

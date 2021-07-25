@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfzj</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter Zero (Japan 950727)</name>
    <region>Japan</region>
    <year>1995</year>

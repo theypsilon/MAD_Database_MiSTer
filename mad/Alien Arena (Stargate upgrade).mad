@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>alienaru</setname>
+   <alternative>no</alternative>
    <name>Alien Arena</name>
    <resolution>15kHz</resolution>
    <year>1985</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>travrusa</setname>
+   <alternative>no</alternative>
    <name>Traverse USA- Zippy Race</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

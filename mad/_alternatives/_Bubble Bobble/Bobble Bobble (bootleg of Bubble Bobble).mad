@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>boblbobl</setname>
+   <alternative>yes</alternative>
    <name>Bobble Bobble (bootleg of Bubble Bobble)</name>
    <year>1986</year>
    <category>Platform</category>

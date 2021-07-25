@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xmvsfur2</setname>
+   <alternative>yes</alternative>
    <name>X-Men Vs. Street Fighter (USA 960910)</name>
    <region>USA</region>
    <year>1996</year>

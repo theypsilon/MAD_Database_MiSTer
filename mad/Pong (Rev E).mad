@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>pong</setname>
+   <alternative>no</alternative>
    <name>Pong</name>
    <resolution>15kHz</resolution>
    <year>1972</year>

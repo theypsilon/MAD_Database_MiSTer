@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>contraj</setname>
+   <alternative>yes</alternative>
    <name>Contra (Japan, set 1)</name>
    <year>1987</year>
    <category>Run n Gun</category>

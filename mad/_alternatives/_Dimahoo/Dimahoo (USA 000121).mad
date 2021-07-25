@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dimahoou</setname>
+   <alternative>yes</alternative>
    <name>Dimahoo (USA 000121)</name>
    <region>USA</region>
    <year>2000</year>

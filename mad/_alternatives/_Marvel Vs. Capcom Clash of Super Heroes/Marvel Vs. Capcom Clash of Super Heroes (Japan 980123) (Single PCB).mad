@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mvscjsing</setname>
+   <alternative>yes</alternative>
    <name>Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123) (Single PCB)</name>
    <region>Japan</region>
    <year>1998</year>

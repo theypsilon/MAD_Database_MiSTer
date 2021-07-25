@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>digdug2o</setname>
+   <alternative>yes</alternative>
    <name>Dig Dug II</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

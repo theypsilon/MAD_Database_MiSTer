@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>snapjack</setname>
+   <alternative>no</alternative>
    <name>Snap Jack</name>
    <resolution>15kHz</resolution>
    <year>1982</year>

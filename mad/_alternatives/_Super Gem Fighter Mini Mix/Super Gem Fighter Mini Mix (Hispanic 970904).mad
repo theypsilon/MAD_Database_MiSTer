@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sgemfh</setname>
+   <alternative>yes</alternative>
    <name>Super Gem Fighter: Mini Mix (Hispanic 970904)</name>
    <region>Hispanic</region>
    <year>1997</year>

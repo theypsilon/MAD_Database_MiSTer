@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>spelunkrj</setname>
+   <alternative>yes</alternative>
    <name>Spelunker</name>
    <resolution>15kHz</resolution>
    <region>Japan</region>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>armwara</setname>
+   <alternative>yes</alternative>
    <name>Armored Warriors (Asia 941024)</name>
    <region>Asia</region>
    <year>1994</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>timber</setname>
+   <alternative>no</alternative>
    <name>Timber</name>
    <resolution>15kHz</resolution>
    <year>1983</year>

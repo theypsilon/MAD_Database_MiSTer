@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xmvsfj</setname>
+   <alternative>yes</alternative>
    <name>X-Men Vs. Street Fighter (Japan 961023)</name>
    <region>Japan</region>
    <year>1996</year>

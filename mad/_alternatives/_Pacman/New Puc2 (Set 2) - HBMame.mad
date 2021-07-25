@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>nwpuc2b</setname>
+   <alternative>yes</alternative>
    <name>New Puck 2</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

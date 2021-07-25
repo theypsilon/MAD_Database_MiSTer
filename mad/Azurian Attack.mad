@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>azurian</setname>
+   <alternative>no</alternative>
    <name>Azurian Attack</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

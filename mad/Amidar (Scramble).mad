@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>amidars</setname>
+   <alternative>no</alternative>
    <name>Amidar</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>maze</setname>
+   <alternative>no</alternative>
    <name>Amazing Maze</name>
    <resolution>15kHz</resolution>
    <year>1976</year>

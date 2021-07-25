@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>qndream</setname>
+   <alternative>no</alternative>
    <name>Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 96086)</name>
    <region>Japan</region>
    <year>1996</year>

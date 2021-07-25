@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>mrdofix</setname>
+   <alternative>no</alternative>
    <name>Mr. Do! Fixed</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

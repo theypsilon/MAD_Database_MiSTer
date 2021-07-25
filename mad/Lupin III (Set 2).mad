@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>lupin3a</setname>
+   <alternative>no</alternative>
    <name>Lupin III</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

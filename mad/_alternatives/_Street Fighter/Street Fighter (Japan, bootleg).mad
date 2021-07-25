@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfjbl</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter (Japan, bootleg)</name>
    <region>Japan</region>
    <year>1987</year>

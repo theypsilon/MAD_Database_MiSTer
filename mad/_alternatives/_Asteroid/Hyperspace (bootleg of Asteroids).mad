@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>hyperspc</setname>
+   <alternative>yes</alternative>
    <name>Hyperspace (bootleg of Asteroids)</name>
    <resolution>31kHz</resolution>
    <year>1979</year>

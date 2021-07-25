@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>wmatch</setname>
+   <alternative>no</alternative>
    <name>Water Match</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

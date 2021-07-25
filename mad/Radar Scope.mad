@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>radarscp</setname>
+   <alternative>no</alternative>
    <name>Radar Scope</name>
    <flip>broken</flip>
    <resolution>15kHz</resolution>

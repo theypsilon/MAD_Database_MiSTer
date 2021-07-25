@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ringdesth</setname>
+   <alternative>yes</alternative>
    <name>Ring of Destruction: Slam Masters II (Hispanic 940902)</name>
    <region>Hispanic</region>
    <year>1994</year>

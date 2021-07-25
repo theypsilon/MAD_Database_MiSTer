@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>tp84</setname>
+   <alternative>no</alternative>
    <name>Time Pilot '84</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

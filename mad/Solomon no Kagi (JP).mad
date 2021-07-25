@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>solomonj</setname>
+   <alternative>no</alternative>
    <name>Solomon no Kagi</name>
    <resolution>15kHz</resolution>
    <region>Japan</region>

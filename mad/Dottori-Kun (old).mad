@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dotrikun</setname>
+   <alternative>no</alternative>
    <name>Dottori-Kun</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

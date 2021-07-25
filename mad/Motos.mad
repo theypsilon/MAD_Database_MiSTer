@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>motos</setname>
+   <alternative>no</alternative>
    <name>Motos</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagnardi</setname>
+   <alternative>yes</alternative>
    <name>Le Bagnard</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

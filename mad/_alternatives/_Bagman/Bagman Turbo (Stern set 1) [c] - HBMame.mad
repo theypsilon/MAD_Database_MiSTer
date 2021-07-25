@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>bagturbo</setname>
+   <alternative>yes</alternative>
    <name>Bagman Turbo</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

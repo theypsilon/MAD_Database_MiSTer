@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>skyraidr</setname>
+   <alternative>yes</alternative>
    <name>Sky Raider</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>

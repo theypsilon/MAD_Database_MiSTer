@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>xmcotah</setname>
+   <alternative>yes</alternative>
    <name>X-Men: Children of the Atom (Hispanic 950331)</name>
    <region>Hispanic</region>
    <year>1994</year>

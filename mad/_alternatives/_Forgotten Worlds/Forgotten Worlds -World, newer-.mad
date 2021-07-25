@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>forgottn</setname>
+   <alternative>yes</alternative>
    <name>Forgotten Worlds (World, newer)</name>
    <year>1988</year>
    <category>Horizontal scrolling shooter</category>

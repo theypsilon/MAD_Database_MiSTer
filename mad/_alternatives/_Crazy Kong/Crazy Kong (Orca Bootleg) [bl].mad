@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ckongo</setname>
+   <alternative>yes</alternative>
    <name>Crazy Kong</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

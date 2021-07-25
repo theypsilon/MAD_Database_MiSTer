@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sfj</setname>
+   <alternative>yes</alternative>
    <name>Street Fighter (Japan) (protected)</name>
    <region>Japan</region>
    <year>1987</year>

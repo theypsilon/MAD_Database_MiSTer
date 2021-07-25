@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>venus</setname>
+   <alternative>yes</alternative>
    <name>Venus</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

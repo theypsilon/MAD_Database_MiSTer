@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>dkrainbow</setname>
+   <alternative>yes</alternative>
    <name>Rainbow Donkey Kong</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>uecology</setname>
+   <alternative>yes</alternative>
    <name>Ultimate Ecology (Japan 931203)</name>
    <region>Japan</region>
    <year>1993</year>

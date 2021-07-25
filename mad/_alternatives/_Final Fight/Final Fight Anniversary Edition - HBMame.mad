@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ffightae</setname>
+   <alternative>yes</alternative>
    <name>Final Fight 30th Anniversary Edition</name>
    <year>1989</year>
    <category>Beat em up</category>

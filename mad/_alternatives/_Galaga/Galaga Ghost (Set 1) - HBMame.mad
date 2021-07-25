@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>galagost</setname>
+   <alternative>yes</alternative>
    <name>Galaga Ghost</name>
    <flip>no</flip>
    <resolution>15kHz</resolution>

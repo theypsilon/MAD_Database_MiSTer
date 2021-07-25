@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>hsf2a</setname>
+   <alternative>yes</alternative>
    <name>Hyper Street Fighter II: The Anniversary Edition (Asia 040202)</name>
    <region>Asia</region>
    <year>2004</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>sidearms</setname>
+   <alternative>no</alternative>
    <name>Side Arms - Hyper Dyne (World, 861129)</name>
    <year>1986</year>
    <category>Shoot 'em up</category>

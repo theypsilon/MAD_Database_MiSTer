@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>ddsomr3</setname>
+   <alternative>yes</alternative>
    <name>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960208)</name>
    <region>Europe</region>
    <year>1996</year>

@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <setname>vectxens</setname>
+   <alternative>yes</alternative>
    <name>Vector Xens Revenge</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
