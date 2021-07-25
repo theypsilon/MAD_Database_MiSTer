@@ -9,4 +9,5 @@
    <manufacturer>Sega</manufacturer>
    <bootleg>yes</bootleg>
    <platform>Sega S16A</platform>
+   <move_inputs>5 (half8)</move_inputs>
 </misterarcadedescription>

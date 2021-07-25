@@ -11,4 +11,5 @@
    <homebrew>no</homebrew>
    <bootleg>yes</bootleg>
    <num_buttons>2</num_buttons>
+   <move_inputs>2-way horizontal</move_inputs>
 </misterarcadedescription>

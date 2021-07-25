@@ -13,4 +13,5 @@
    <platform>Midway MCR2</platform>
    <series>Tron</series>
    <num_buttons>1</num_buttons>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

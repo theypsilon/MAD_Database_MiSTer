@@ -8,4 +8,5 @@
    <category>Puzzle</category>
    <manufacturer>Mitchell</manufacturer>
    <platform>CPS-2</platform>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

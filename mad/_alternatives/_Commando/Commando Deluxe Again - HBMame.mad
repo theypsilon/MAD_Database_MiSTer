@@ -8,4 +8,5 @@
    <category>Shooter / Walking</category>
    <manufacturer>Capcom (Hack)</manufacturer>
    <homebrew>yes</homebrew>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

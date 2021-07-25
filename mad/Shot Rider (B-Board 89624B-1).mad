@@ -10,4 +10,5 @@
    <manufacturer>Capcom</manufacturer>
    <homebrew>no</homebrew>
    <bootleg>no</bootleg>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

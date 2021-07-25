@@ -8,4 +8,5 @@
    <category>Platformer</category>
    <manufacturer>Sega</manufacturer>
    <platform>Sega S16A</platform>
+   <move_inputs>8</move_inputs>
 </misterarcadedescription>

@@ -11,5 +11,6 @@
    <bootleg>no</bootleg>
    <platform>Midway MCR2</platform>
    <num_buttons>1</num_buttons>
+   <move_inputs>8-way</move_inputs>
    <special_controls>rotary</special_controls>
 </misterarcadedescription>

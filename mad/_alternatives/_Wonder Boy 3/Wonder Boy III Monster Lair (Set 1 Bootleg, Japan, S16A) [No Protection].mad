@@ -9,4 +9,5 @@
    <manufacturer>Westone</manufacturer>
    <bootleg>yes</bootleg>
    <platform>Sega S16A</platform>
+   <move_inputs>8</move_inputs>
 </misterarcadedescription>

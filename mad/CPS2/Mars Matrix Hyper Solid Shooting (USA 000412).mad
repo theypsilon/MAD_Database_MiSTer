@@ -8,4 +8,5 @@
    <category>Shoot'em up</category>
    <manufacturer>Takumi</manufacturer>
    <platform>CPS-2</platform>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

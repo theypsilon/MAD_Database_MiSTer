@@ -8,4 +8,5 @@
    <category>Beat 'em up</category>
    <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

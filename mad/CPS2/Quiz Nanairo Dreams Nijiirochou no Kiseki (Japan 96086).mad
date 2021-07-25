@@ -8,4 +8,5 @@
    <category>Quiz</category>
    <manufacturer>Capcom</manufacturer>
    <platform>CPS-2</platform>
+   <move_inputs>4-way</move_inputs>
 </misterarcadedescription>

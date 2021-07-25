@@ -8,4 +8,5 @@
    <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
    <platform>Capcom M68000</platform>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

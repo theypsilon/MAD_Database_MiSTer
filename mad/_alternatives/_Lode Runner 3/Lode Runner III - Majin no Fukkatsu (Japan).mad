@@ -13,4 +13,5 @@
    <platform>Irem M62</platform>
    <series>Lode Runner</series>
    <num_buttons>2</num_buttons>
+   <move_inputs>8-way</move_inputs>
 </misterarcadedescription>

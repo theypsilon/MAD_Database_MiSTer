@@ -12,4 +12,5 @@
    <bootleg>no</bootleg>
    <platform>Midway MCR</platform>
    <num_buttons>0</num_buttons>
+   <move_inputs>2-way horizontal</move_inputs>
 </misterarcadedescription>
