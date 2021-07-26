@@ -52,6 +52,7 @@ def main():
         mad_reader.read_mad(mad)
     
     data = mad_reader.data()
+    repeated = mad_reader.repeated()
 
     for setname in rotations:
         if setname not in data:
@@ -70,6 +71,13 @@ def main():
         md5_file.write(hash(zip_filename))
 
     run_succesfully('git add %s' % md5_filename)
+
+    if len(repeated) > 0:
+        with open('repeated.txt', 'w') as repeated_file:
+            for repeats in repeated:
+                repeated_file.write(', '.join(repeats))
+
+        run_succesfully('git add repeated.txt')
 
     force_push_file(zip_filename, 'db')
 
@@ -135,6 +143,7 @@ def read_mad_fields(mad_path, tags):
 class MadReader:
     def __init__(self):
         self._data = dict()
+        self._repeated = dict()
 
     def read_mad(self, mad):
         fields = read_mad_fields(mad, [
@@ -193,14 +202,19 @@ class MadReader:
             if rot is not None:
                 data['rotation'] = rot
 
-        if fields['setname'] in self._data:
+        if fields['setname'] in self._repeated:
+            self._repeated[fields['setname']].append(str(mad))
             print('REPEATED! %s' % mad)
             return
 
+        self._repeated[fields['setname']] = [str(mad)]
         self._data[fields['setname']] = data
 
     def data(self):
         return self._data
+
+    def repeated(self):
+        return self._repeated
 
 def create_orphan_branch(branch):
     run_succesfully('git checkout -qf --orphan %s' % branch)
