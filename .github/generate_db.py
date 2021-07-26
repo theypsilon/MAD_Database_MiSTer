@@ -216,7 +216,7 @@ class MadReader:
         return self._data
 
     def repeated(self):
-        return self._repeated
+        return [array for array in self._repeated if len(array) > 1]
 
 def create_orphan_branch(branch):
     run_succesfully('git checkout -qf --orphan %s' % branch)
