@@ -243,6 +243,7 @@ class MadReader:
                 self.add_error('field %s could not be parsed as int' % key)
 
     def add_error(self, message):
+        print('ERROR! %s' % message)
         if self._mad not in self._errors:
             self._errors[self._mad] = []
             
