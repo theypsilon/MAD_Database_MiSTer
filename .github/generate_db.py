@@ -76,6 +76,7 @@ def main():
         with open('repeated.txt', 'w') as repeated_file:
             for repeats in repeated:
                 repeated_file.write(', '.join(repeats))
+                repeated_file.write('\n')
 
         run_succesfully('git add repeated.txt')
 
