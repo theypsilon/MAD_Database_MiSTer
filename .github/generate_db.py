@@ -74,7 +74,7 @@ def main():
 
     if len(repeated) > 0:
         with open('repeated.txt', 'w') as repeated_file:
-            for repeats_key in repeated:
+            for repeats_key in sorted(repeated):
                 repeated_file.write('%s: ' % repeats_key)
                 repeated_file.write(', '.join(repeated[repeats_key]))
                 repeated_file.write('\n')
