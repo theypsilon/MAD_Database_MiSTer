@@ -82,7 +82,7 @@ def main():
 
         run_succesfully('git add repeated.txt')
 
-    if len(repeated) > 0:
+    if len(errors) > 0:
         with open('errors.txt', 'w') as errors_file:
             for key in sorted(errors):
                 errors_file.write('%s: ' % key)
