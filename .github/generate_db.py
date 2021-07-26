@@ -252,10 +252,7 @@ class MadReader:
     def set_bool_if_not_empty(self, key):
         field = self.get_field(key)
         if field is not None:
-            try:
-                self._entry_data[key] = bool(field)
-            except:
-                self.add_error('field %s could not be parsed as bool' % key)
+            self._entry_data[key] = field.lower() == "yes" or field.lower() == "true" or field.lower() == "y" or field.lower() == "t"
 
     def set_int_if_not_empty(self, key):
         field = self.get_field(key)
