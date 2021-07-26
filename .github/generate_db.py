@@ -195,21 +195,21 @@ class MadReader:
         self.set_str_if_not_empty('cocktail')
         self.set_str_if_not_empty('region')
         self.set_int_if_not_empty('year')
-        self.set_str_if_not_empty('category')
-        self.set_str_if_not_empty('manufacturer')
+        self.set_str_list_if_not_empty('category')
+        self.set_str_list_if_not_empty('manufacturer')
         self.set_bool_if_not_empty('homebrew')
         self.set_bool_if_not_empty('bootleg')
         self.set_bool_if_not_empty('enhancements')
         self.set_bool_if_not_empty('translations')
         self.set_bool_if_not_empty('hacks')
-        self.set_str_if_not_empty('best_of')
-        self.set_str_if_not_empty('platform')
-        self.set_str_if_not_empty('series')
+        self.set_str_list_if_not_empty('best_of')
+        self.set_str_list_if_not_empty('platform')
+        self.set_str_list_if_not_empty('series')
         self.set_int_if_not_empty('num_buttons')
-        self.set_int_if_not_empty('num_controllers')
+        self.set_int_list_if_not_empty('num_controllers')
         self.set_int_if_not_empty('num_monitors')
-        self.set_str_if_not_empty('move_inputs')
-        self.set_str_if_not_empty('special_controls')
+        self.set_str_list_if_not_empty('move_inputs')
+        self.set_str_list_if_not_empty('special_controls')
 
         if self._entry_fields['rotation'] != '':
             rot = translate_mad_rotation(self._entry_fields['rotation'].strip().lower())
@@ -224,21 +224,44 @@ class MadReader:
         self._repeated[self._entry_fields['setname']] = [str(mad)]
         self._data[self._entry_fields['setname']] = self._entry_data
 
+    def get_field(self, key):
+        field = self._entry_fields[key].strip('"\' ')
+        if field != '':
+            return field
+
+        return None
+
+    def set_str_list_if_not_empty(self, key):
+        field = self.get_field(key)
+        if field is not None:
+            self._entry_data[key] = [s.strip('"\' ') for s in field.split(',')]
+
+    def set_int_list_if_not_empty(self, key):
+        field = self.get_field(key)
+        if field is not None:
+            try:
+                self._entry_data[key] = [int(s.strip('"\' ')) for s in field.split(',')]
+            except:
+                self.add_error('field %s could not be parsed as int list' % key)
+
     def set_str_if_not_empty(self, key):
-        if self._entry_fields[key] != '':
-            self._entry_data[key] = self._entry_fields[key]
+        field = self.get_field(key)
+        if field is not None:
+            self._entry_data[key] = field
 
     def set_bool_if_not_empty(self, key):
-        if self._entry_fields[key] != '':
+        field = self.get_field(key)
+        if field is not None:
             try:
-                self._entry_data[key] = bool(self._entry_fields[key])
+                self._entry_data[key] = bool(field)
             except:
                 self.add_error('field %s could not be parsed as bool' % key)
 
     def set_int_if_not_empty(self, key):
-        if self._entry_fields[key] != '':
+        field = self.get_field(key)
+        if field is not None:
             try:
-                self._entry_data[key] = int(self._entry_fields[key])
+                self._entry_data[key] = int(field)
             except:
                 self.add_error('field %s could not be parsed as int' % key)
 
