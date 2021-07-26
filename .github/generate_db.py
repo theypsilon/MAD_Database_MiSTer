@@ -156,7 +156,7 @@ class MadReader:
     def __init__(self):
         self._data = dict()
         self._repeated = dict()
-        self._error = dict()
+        self._errors = dict()
 
     def read_mad(self, mad):
         self._mad = mad
