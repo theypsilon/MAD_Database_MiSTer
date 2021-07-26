@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>jackalj</setname>
+   <alternative>no</alternative>
+   <name>Tokushu Butai Jackal</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1986</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
