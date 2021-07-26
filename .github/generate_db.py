@@ -216,7 +216,7 @@ class MadReader:
         return self._data
 
     def repeated(self):
-        return {key: value for (key, value) in self._repeated.iteritems() if len(value) > 1}
+        return {key: self._repeated[key] for key in self._repeated if len(self._repeated[key]) > 1}
 
 def create_orphan_branch(branch):
     run_succesfully('git checkout -qf --orphan %s' % branch)
