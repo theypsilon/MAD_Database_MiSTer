@@ -53,6 +53,7 @@ def main():
     
     data = mad_reader.data()
     repeated = mad_reader.repeated()
+    errors = mad_reader.errors()
 
     for setname in rotations:
         if setname not in data:
@@ -80,6 +81,15 @@ def main():
                 repeated_file.write('\n')
 
         run_succesfully('git add repeated.txt')
+
+    if len(repeated) > 0:
+        with open('errors.txt', 'w') as errors_file:
+            for key in sorted(errors):
+                errors_file.write('%s: ' % key)
+                errors_file.write(', '.join(errors[key]))
+                errors_file.write('\n')
+
+        run_succesfully('git add errors.txt')
 
     force_push_file(zip_filename, 'db')
 
@@ -146,9 +156,11 @@ class MadReader:
     def __init__(self):
         self._data = dict()
         self._repeated = dict()
+        self._error = dict()
 
     def read_mad(self, mad):
-        fields = read_mad_fields(mad, [
+        self._mad = mad
+        self._entry_fields = read_mad_fields(mad, [
             'setname',
             'name',
             'alternative',
@@ -175,48 +187,75 @@ class MadReader:
             'special_controls',
         ])
 
-        data = dict()
-        set_if_not_empty(data, fields, 'name')
-        set_if_not_empty(data, fields, 'alternative')
-        set_if_not_empty(data, fields, 'flip')
-        set_if_not_empty(data, fields, 'resolution')
-        set_if_not_empty(data, fields, 'cocktail')
-        set_if_not_empty(data, fields, 'region')
-        set_if_not_empty(data, fields, 'year')
-        set_if_not_empty(data, fields, 'category')
-        set_if_not_empty(data, fields, 'manufacturer')
-        set_if_not_empty(data, fields, 'homebrew')
-        set_if_not_empty(data, fields, 'bootleg')
-        set_if_not_empty(data, fields, 'enhancements')
-        set_if_not_empty(data, fields, 'translations')
-        set_if_not_empty(data, fields, 'hacks')
-        set_if_not_empty(data, fields, 'best_of')
-        set_if_not_empty(data, fields, 'platform')
-        set_if_not_empty(data, fields, 'series')
-        set_if_not_empty(data, fields, 'num_buttons')
-        set_if_not_empty(data, fields, 'num_controllers')
-        set_if_not_empty(data, fields, 'num_monitors')
-        set_if_not_empty(data, fields, 'move_inputs')
-        set_if_not_empty(data, fields, 'special_controls')
+        self._entry_data = dict()
+        self.set_str_if_not_empty('name')
+        self.set_bool_if_not_empty('alternative')
+        self.set_bool_if_not_empty('flip')
+        self.set_str_if_not_empty('resolution')
+        self.set_str_if_not_empty('cocktail')
+        self.set_str_if_not_empty('region')
+        self.set_int_if_not_empty('year')
+        self.set_str_if_not_empty('category')
+        self.set_str_if_not_empty('manufacturer')
+        self.set_bool_if_not_empty('homebrew')
+        self.set_bool_if_not_empty('bootleg')
+        self.set_bool_if_not_empty('enhancements')
+        self.set_bool_if_not_empty('translations')
+        self.set_bool_if_not_empty('hacks')
+        self.set_str_if_not_empty('best_of')
+        self.set_str_if_not_empty('platform')
+        self.set_str_if_not_empty('series')
+        self.set_int_if_not_empty('num_buttons')
+        self.set_int_if_not_empty('num_controllers')
+        self.set_int_if_not_empty('num_monitors')
+        self.set_str_if_not_empty('move_inputs')
+        self.set_str_if_not_empty('special_controls')
 
-        if fields['rotation'] != '':
-            rot = translate_mad_rotation(fields['rotation'].strip().lower())
+        if self._entry_fields['rotation'] != '':
+            rot = translate_mad_rotation(self._entry_fields['rotation'].strip().lower())
             if rot is not None:
-                data['rotation'] = rot
+                self._entry_data['rotation'] = rot
 
-        if fields['setname'] in self._repeated:
-            self._repeated[fields['setname']].append(str(mad))
+        if self._entry_fields['setname'] in self._repeated:
+            self._repeated[self._entry_fields['setname']].append(str(mad))
             print('REPEATED! %s' % mad)
             return
 
-        self._repeated[fields['setname']] = [str(mad)]
-        self._data[fields['setname']] = data
+        self._repeated[self._entry_fields['setname']] = [str(mad)]
+        self._data[self._entry_fields['setname']] = self._entry_data
+
+    def set_str_if_not_empty(self, key):
+        if self._entry_fields[key] != '':
+            self._entry_data[key] = self._entry_fields[key]
+
+    def set_bool_if_not_empty(self, key):
+        if self._entry_fields[key] != '':
+            try:
+                self._entry_data[key] = bool(self._entry_fields[key])
+            except:
+                self.add_error('field %s could not be parsed as bool' % key)
+
+    def set_int_if_not_empty(self, key):
+        if self._entry_fields[key] != '':
+            try:
+                self._entry_data[key] = int(self._entry_fields[key])
+            except:
+                self.add_error('field %s could not be parsed as int' % key)
+
+    def add_error(self, message):
+        if self._mad not in self._errors:
+            self._errors[self._mad] = []
+            
+        self._errors[self._mad].append(message)
 
     def data(self):
         return self._data
 
     def repeated(self):
         return {key: self._repeated[key] for key in self._repeated if len(self._repeated[key]) > 1}
+
+    def errors(self):
+        return self._errors
 
 def create_orphan_branch(branch):
     run_succesfully('git checkout -qf --orphan %s' % branch)
@@ -235,10 +274,6 @@ def force_push_file(file_name, branch):
         print("New %s ready to be used." % file_name)
     else:
         print("Nothing to be updated.")
-
-def set_if_not_empty(data, fields, key):
-    if fields[key] != '':
-        data[key] = fields[key]
 
 def save_data_to_compressed_json(db, json_name, zip_name):
 
