@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pong</setname>
+   <alternative>no</alternative>
+   <name>Pong</name>
+   <resolution>15kHz</resolution>
+   <year>1972</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <special_controls>positional</special_controls>
+</misterarcadedescription>

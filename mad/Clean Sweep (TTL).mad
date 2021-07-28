@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <alternative>no</alternative>
+   <name>Clean Sweep</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1974</year>
+   <category>Maze</category>
+   <manufacturer>Ramtek</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <special_controls>rotary</special_controls>
+</misterarcadedescription>
