@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>passsht</setname>
+   <alternative>no</alternative>
+   <name>Passing Shot (World, 2 Players) (FD1094 317-0080)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Sega</manufacturer>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

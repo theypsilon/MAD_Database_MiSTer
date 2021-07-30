@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>timescan</setname>
+   <alternative>no</alternative>
+   <name>Time Scanner (set 2, System 16B)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Sega</manufacturer>
+   <move_inputs>joystick 5 (half8)</move_inputs>
+</misterarcadedescription>
