@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
+   <setname>mrdonight</setname>
    <alternative>no</alternative>
    <name>Mr. Do Nightmare</name>
    <flip>yes</flip>
