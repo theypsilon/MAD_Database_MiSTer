@@ -1,6 +1,8 @@
 name: Generate DBs
 
 on:
+  schedule:
+    - cron:  '0 12 * * *'
   push:
     branches:
       - main
@@ -17,4 +19,6 @@ jobs:
         set -euo pipefail
         git config --global user.email "theypsilon@gmail.com"
         git config --global user.name "The CI/CD Bot"
-        ./.github/generate_db.py
+        curl --fail --location https://raw.githubusercontent.com/theypsilon/MAD_Database_MiSTer/main/.github/generate_db.py > generate_db.py
+        chmod +x  generate_db.py
+        ./generate_db.py
