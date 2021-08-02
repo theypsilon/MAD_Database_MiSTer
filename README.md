@@ -1,5 +1,7 @@
 # MAD Database for MiSTer
 
+Auto-Generated json DB file at: https://github.com/theypsilon/MAD_Database_MiSTer/tree/db
+
 ## How to generate your own MAD Database:
 
 1. Create your own public repository on GitHub
