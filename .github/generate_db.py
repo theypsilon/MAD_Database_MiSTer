@@ -187,7 +187,7 @@ class MadReader:
             'special_controls',
         ])
 
-        self._entry_data = dict()
+        self._entry_data = {'file': mad.stem + '.mra'}
         self.set_str_if_not_empty('name')
         self.set_bool_if_not_empty('alternative')
         self.set_bool_if_not_empty('flip')
