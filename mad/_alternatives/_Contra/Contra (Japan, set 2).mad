@@ -3,7 +3,10 @@
    <setname>contraj1</setname>
    <alternative>yes</alternative>
    <name>Contra (Japan, set 2)</name>
+   <region>Japan</region>
    <year>1987</year>
-   <category>Run n Gun</category>
+   <category>Run &amp; Gun</category>
    <manufacturer>Konami</manufacturer>
+   <platform>Konami 007121 (Contra Based)</platform>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

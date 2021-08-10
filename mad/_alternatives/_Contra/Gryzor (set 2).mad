@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>contrae</setname>
+   <setname>gryzor1</setname>
    <alternative>yes</alternative>
-   <name>Contra (US / Asia, set 3)</name>
-   <region>Asia</region>
+   <name>Gryzor (set 2)</name>
+   <region>Europe</region>
    <year>1987</year>
    <category>Run &amp; Gun</category>
    <manufacturer>Konami</manufacturer>
