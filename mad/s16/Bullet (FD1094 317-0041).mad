@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bullet</setname>
+   <alternative>no</alternative>
+   <name>Bullet (FD1094 317-0041)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Sega</manufacturer>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
