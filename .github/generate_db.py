@@ -181,7 +181,7 @@ class MadReader:
             'platform',
             'series',
             'num_buttons',
-            'num_controllers',
+            'players',
             'num_monitors',
             'move_inputs',
             'special_controls',
@@ -206,7 +206,7 @@ class MadReader:
         self.set_str_list_if_not_empty('platform')
         self.set_str_list_if_not_empty('series')
         self.set_int_if_not_empty('num_buttons')
-        self.set_int_list_if_not_empty('num_controllers')
+        self.set_str_if_not_empty('players')
         self.set_int_if_not_empty('num_monitors')
         self.set_str_list_if_not_empty('move_inputs')
         self.set_str_list_if_not_empty('special_controls')
