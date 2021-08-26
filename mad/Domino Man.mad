@@ -11,5 +11,6 @@
    <bootleg>no</bootleg>
    <platform>Midway MCR2</platform>
    <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>

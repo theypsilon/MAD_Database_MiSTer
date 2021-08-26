@@ -12,5 +12,6 @@
    <bootleg>no</bootleg>
    <series>Dig Dug</series>
    <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>

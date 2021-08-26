@@ -13,5 +13,6 @@
    <bootleg>no</bootleg>
    <series>Pac-Man</series>
    <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>

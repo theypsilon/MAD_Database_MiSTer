@@ -12,5 +12,6 @@
    <bootleg>no</bootleg>
    <series>Time Pilot</series>
    <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

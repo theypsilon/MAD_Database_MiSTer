@@ -7,5 +7,6 @@
    <year>1986</year>
    <category>Shooter</category>
    <manufacturer>Capcom (Tecfri license)</manufacturer>
+   <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

@@ -14,5 +14,6 @@
    <platform>CAVE 68000</platform>
    <series>DonPachi</series>
    <num_buttons>3</num_buttons>
+   <players>2 (simultaneous)</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

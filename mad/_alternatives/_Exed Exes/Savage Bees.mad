@@ -6,5 +6,6 @@
    <region>World</region>
    <year>1985</year>
    <manufacturer>Capcom (Memetron license)</manufacturer>
+   <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

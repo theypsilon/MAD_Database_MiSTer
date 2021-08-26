@@ -10,5 +10,6 @@
    <manufacturer>Capcom</manufacturer>
    <homebrew>no</homebrew>
    <bootleg>no</bootleg>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

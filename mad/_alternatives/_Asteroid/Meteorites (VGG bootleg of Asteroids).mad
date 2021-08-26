@@ -10,5 +10,6 @@
    <homebrew>no</homebrew>
    <bootleg>yes</bootleg>
    <num_buttons>3</num_buttons>
+   <players>1</players>
    <move_inputs>joystick 2-way horizontal</move_inputs>
 </misterarcadedescription>

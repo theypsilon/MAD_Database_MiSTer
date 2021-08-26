@@ -8,5 +8,6 @@
    <category>Shooter / Walking</category>
    <manufacturer>Capcom (Hack)</manufacturer>
    <homebrew>yes</homebrew>
+   <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

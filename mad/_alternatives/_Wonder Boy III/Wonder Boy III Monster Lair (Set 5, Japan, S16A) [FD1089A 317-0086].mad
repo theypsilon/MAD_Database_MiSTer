@@ -8,5 +8,6 @@
    <category>Platformer</category>
    <manufacturer>Westone</manufacturer>
    <platform>Sega S16A</platform>
+   <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

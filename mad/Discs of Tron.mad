@@ -12,5 +12,6 @@
    <platform>Midway MCR3</platform>
    <series>Tron</series>
    <num_buttons>4</num_buttons>
+   <players>1</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

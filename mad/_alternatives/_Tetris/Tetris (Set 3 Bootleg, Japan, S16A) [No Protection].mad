@@ -9,5 +9,6 @@
    <manufacturer>Sega</manufacturer>
    <bootleg>yes</bootleg>
    <platform>Sega S16A</platform>
+   <players>2</players>
    <move_inputs>joystick 5 (half8)</move_inputs>
 </misterarcadedescription>

@@ -11,5 +11,6 @@
    <bootleg>yes</bootleg>
    <platform>Irem M52</platform>
    <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 2-way horizontal</move_inputs>
 </misterarcadedescription>

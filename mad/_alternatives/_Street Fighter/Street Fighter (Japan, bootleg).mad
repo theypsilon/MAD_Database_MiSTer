@@ -8,5 +8,6 @@
    <category>Beat 'em up</category>
    <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
+   <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

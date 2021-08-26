@@ -8,5 +8,6 @@
    <category>Shoot'em up</category>
    <manufacturer>Takumi</manufacturer>
    <platform>CPS-2</platform>
+   <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

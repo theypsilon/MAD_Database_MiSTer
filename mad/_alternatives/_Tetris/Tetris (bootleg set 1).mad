@@ -12,5 +12,6 @@
    <bootleg>yes</bootleg>
    <series>Tetris</series>
    <num_buttons>1</num_buttons>
+   <players>2 (simultaneous)</players>
    <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>

@@ -12,5 +12,6 @@
    <bootleg>yes</bootleg>
    <series>Galaxian</series>
    <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
    <move_inputs>joystick 2-way horizontal</move_inputs>
 </misterarcadedescription>
