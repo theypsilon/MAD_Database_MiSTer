@@ -5,8 +5,9 @@
    <name>Street Fighter (World) (protected)</name>
    <region>World</region>
    <year>1987</year>
-   <category>Beat 'em up</category>
+   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
+   <platform>Capcom M68000</platform>
    <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>
