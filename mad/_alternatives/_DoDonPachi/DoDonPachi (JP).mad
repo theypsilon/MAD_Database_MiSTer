@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ddonpach</setname>
+   <alternative>yes</alternative>
+   <name>DoDonPachi</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1997</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Cave</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>CAVE 68000</platform>
+   <series>DonPachi</series>
+   <num_buttons>3</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
