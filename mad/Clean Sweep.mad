@@ -5,10 +5,10 @@
    <name>Clean Sweep</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <year>1974</year>
+   <year>1982</year>
    <category>Maze</category>
-   <manufacturer>Ramtek</manufacturer>
-   <homebrew>no</homebrew>
+   <manufacturer>GCE</manufacturer>
+   <homebrew>yes</homebrew>
    <bootleg>no</bootleg>
    <num_buttons>0</num_buttons>
    <players>1</players>
