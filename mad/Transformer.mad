@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>transfrm</setname>
+   <alternative>no</alternative>
+   <name>Transformer</name>
+   <year>1986</year>
+   <category>Shooter</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+</misterarcadedescription>
