@@ -2,9 +2,13 @@
 <misterarcadedescription>
    <setname>gngblita</setname>
    <alternative>yes</alternative>
-   <name>Ghosts'n Goblins (Italian bootleg, harder)</name>
+   <name>Ghosts'n Goblins (Italian Bootleg, Harder)</name>
+   <region>World</region>
    <year>1985</year>
-   <category>Adventure / Knights</category>
-   <manufacturer>bootleg</manufacturer>
+   <category>Platformer</category>
+   <manufacturer>Capcom</manufacturer>
    <bootleg>yes</bootleg>
+   <platform>Capcom Z80</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

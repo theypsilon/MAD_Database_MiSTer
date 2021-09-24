@@ -1,12 +1,13 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gngt</setname>
+   <setname>gngbl</setname>
    <alternative>yes</alternative>
-   <name>Ghosts'n Goblins (US)</name>
+   <name>Ghosts'n Goblins (Bootleg with Cross)</name>
    <region>World</region>
    <year>1985</year>
    <category>Platformer</category>
-   <manufacturer>Capcom (Taito America License)</manufacturer>
+   <manufacturer>Capcom</manufacturer>
+   <bootleg>yes</bootleg>
    <platform>Capcom Z80</platform>
    <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
