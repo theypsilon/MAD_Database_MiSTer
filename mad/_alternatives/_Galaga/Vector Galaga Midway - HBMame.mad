@@ -3,7 +3,7 @@
    <setname>vgalagam</setname>
    <alternative>yes</alternative>
    <name>Vector Galaga</name>
-   <flip>no</flip>
+   <flip>yes</flip>
    <resolution>15kHz</resolution>
    <year>1981</year>
    <category>Shooter - Gallery</category>

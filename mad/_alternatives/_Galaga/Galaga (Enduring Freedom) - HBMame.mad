@@ -2,8 +2,8 @@
 <misterarcadedescription>
    <setname>galagaef</setname>
    <alternative>yes</alternative>
-   <name>Galaga- Enduring Freedom</name>
-   <flip>no</flip>
+   <name>Galaga - Enduring Freedom</name>
+   <flip>yes</flip>
    <resolution>15kHz</resolution>
    <year>2000</year>
    <category>Shooter - Gallery</category>

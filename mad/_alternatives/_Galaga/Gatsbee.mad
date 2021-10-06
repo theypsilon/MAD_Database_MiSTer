@@ -1,17 +1,16 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>vgalagaf</setname>
+   <setname>gatsbee</setname>
    <alternative>yes</alternative>
-   <name>Vector Galaga</name>
+   <name>Gatsbee</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
-   <year>1981</year>
+   <year>1984</year>
    <category>Shooter - Gallery</category>
-   <manufacturer>Namco</manufacturer>
-   <homebrew>yes</homebrew>
-   <bootleg>no</bootleg>
+   <manufacturer>hack (Uchida)</manufacturer>
+   <bootleg>yes</bootleg>
    <series>Galaxian</series>
    <num_buttons>1</num_buttons>
    <players>2 (alternating)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+   <move_inputs>joystick 4-way horizontal</move_inputs>
 </misterarcadedescription>

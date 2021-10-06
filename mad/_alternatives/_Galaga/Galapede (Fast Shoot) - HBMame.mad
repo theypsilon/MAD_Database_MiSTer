@@ -3,7 +3,7 @@
    <setname>galaped</setname>
    <alternative>yes</alternative>
    <name>Galapede</name>
-   <flip>no</flip>
+   <flip>yes</flip>
    <resolution>15kHz</resolution>
    <year>1998</year>
    <category>Shooter - Gallery</category>
