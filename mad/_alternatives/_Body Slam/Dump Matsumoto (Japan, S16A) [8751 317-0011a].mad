@@ -5,9 +5,8 @@
    <name>Dump Matsumoto (Japan, S16A) [8751 317-0011a]</name>
    <region>World</region>
    <year>1986</year>
-   <category>Sports</category>
    <manufacturer>Sega</manufacturer>
-   <platform>Sega S16A</platform>
+   <platform>SEGA S16A</platform>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

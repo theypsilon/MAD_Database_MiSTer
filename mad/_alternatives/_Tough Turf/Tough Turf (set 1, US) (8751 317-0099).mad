@@ -6,6 +6,7 @@
    <region>World</region>
    <year>1989</year>
    <manufacturer>Sega / Sunsoft</manufacturer>
+   <platform>SEGA S16B</platform>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

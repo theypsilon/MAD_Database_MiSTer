@@ -6,6 +6,7 @@
    <region>Japan</region>
    <year>1990</year>
    <manufacturer>Success / Sega</manufacturer>
+   <platform>SEGA S16B</platform>
    <players>1</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

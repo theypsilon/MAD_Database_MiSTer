@@ -6,6 +6,7 @@
    <region>World</region>
    <year>1987</year>
    <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16B</platform>
    <players>2</players>
    <move_inputs>joystick 5 (half8)</move_inputs>
 </misterarcadedescription>
