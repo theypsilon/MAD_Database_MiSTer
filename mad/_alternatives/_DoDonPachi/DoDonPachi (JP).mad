@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ddonpach</setname>
+   <setname>ddonpachj</setname>
    <alternative>yes</alternative>
-   <name>DoDonPachi</name>
+   <name>DoDonPachi (Japan)</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
    <region>Japan</region>

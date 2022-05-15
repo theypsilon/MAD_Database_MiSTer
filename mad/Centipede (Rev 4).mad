@@ -3,7 +3,7 @@
    <setname>centiped</setname>
    <alternative>no</alternative>
    <name>Centipede</name>
-   <flip>no</flip>
+   <flip>yes</flip>
    <resolution>15kHz</resolution>
    <year>1980</year>
    <category>Shooter - Gallery</category>
