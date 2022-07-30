@@ -3,10 +3,10 @@
    <setname>kingdmgp</setname>
    <alternative>no</alternative>
    <name>Kingdom Grandprix</name>
-   <region>Europe</region>
-   <year>1996</year>
+   <region>World</region>
+   <year>1994</year>
    <category>Shoot'em up</category>
-   <manufacturer>Eighting / Raizing</manufacturer>
+   <manufacturer>Raizing / Eighting</manufacturer>
    <platform>Toaplan 2</platform>
    <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
