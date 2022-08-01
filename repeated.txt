@@ -1,0 +1,48 @@
+: mad/Computer Space.mad, mad/Cosmic Alien.mad, mad/Devil Zone.mad, mad/_alternatives/_Double Dragon II - The Revenge/Double Dragon II - The Revenge (Japan).mad, mad/_alternatives/_Double Dragon II - The Revenge/Double Dragon II - The Revenge (US).mad, mad/Double Dragon II - The Revenge.mad, mad/Magical Spot.mad, mad/No Mans Land.mad, mad/Pac-Manic Miner.mad, mad/Space Panic.mad
+arkanoid: mad/Arkanoid (Unl. lives) [hb].mad, mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/_alternatives/_Arkanoid/Arkanoid (Unl. Lives, slower) HBMame.mad, mad/Arkanoid (US).mad, mad/Arkanoid (W).mad
+arkanoidj: mad/Arkanoid (JP).mad, mad/_alternatives/_Arkanoid/Arkanoid (JP).mad
+atetrisc: mad/_alternatives/_Tetris/Tetris (cocktail set 1).mad, mad/Tetris (Cocktail, Set 1).mad
+blktiger: mad/_alternatives/_Black Tiger/Black Dragon (bootleg).mad, mad/_alternatives/_Black Tiger/Black Dragon (Japan).mad, mad/_alternatives/_Black Tiger/Black Tiger (bootleg set 1).mad, mad/_alternatives/_Black Tiger/Black Tiger (bootleg set 2).mad, mad/_alternatives/_Black Tiger/_NotWorking/Black Tiger (Modular System).mad, mad/_alternatives/_Black Tiger/Black Tiger (older).mad, mad/_alternatives/_Black Tiger/Black Tiger - Black Dragon (mixed bootleg).mad, mad/Black Tiger.mad
+centiped3: mad/Centipede (Rev 3).mad, mad/_alternatives/_Centipede/Centipede (revision 3).mad
+ckongdks: mad/Donkey Kong (Spanish Crazy Kong bootleg).mad, mad/_alternatives/_Donkey Kong/Donkey Kong (Spanish, Crazy Kong) [bl].mad
+ckongo: mad/_alternatives/_Crazy Kong/Crazy Kong (Orca Bootleg) [bl].mad, mad/Crazy Kong (Orca bootleg).mad
+darkplnt: mad/Dark Planet (no bkg).mad, mad/Dark Planet.mad
+ddonpach: mad/DoDonPachi (Arrange).mad, mad/_alternatives/_DoDonPachi/DoDonPachi (Arrange).mad, mad/DoDonPachi (Japan).mad, mad/DoDonPachi Trainer (Japan).mad, mad/_alternatives/_DoDonPachi/DoDonPachi Trainer (Japan).mad, mad/DoDonPachi.mad
+dfeveron: mad/Dangun Feveron.mad, mad/_alternatives/_Dangun Feveron/Fever SOS.mad, mad/Fever SOS.mad
+dinohunt: mad/_alternatives/_Cadillacs and Dinosaurs/Dinosaur Hunter (Chinese bootleg of Cadillacs and Dinosaurs).mad, mad/_alternatives/_Cadillacs and Dinosaurs/Dinosaur Hunter -Chinese bootleg of Cadillacs and Dinosaurs-.mad
+donpachi: mad/DonPachi (Japan).mad, mad/DonPachi.mad
+dotrikun: mad/Dottori-Kun (new).mad, mad/Dottori-Kun (old).mad, mad/Dottori-Man Jr.mad
+esprade: mad/_alternatives/_ESP Ra.De/ESP Ra.De. (Free Play).mad, mad/ESP Ra.De..mad
+espradej: mad/_alternatives/_ESP Ra.De/ESP Ra.De. (Japan Free Play).mad, mad/ESP Ra.De. (Japan).mad
+frogger: mad/Frogger (Konami Bugfixed).mad, mad/Frogger (Sega, Set 2).mad
+gaia: mad/Gaia Crusaders.mad, mad/Thunder Heroes.mad
+galaga: mad/_alternatives/_Galaga/Galaga (Namco rev. B).mad, mad/_alternatives/_Galaga/Galaga (Namco).mad
+galaga3: mad/Galaga 3 (GP3 Rev D).mad, mad/_alternatives/_Gaplus/Galaga 3 (GP3 rev. D).mad
+ghouls: mad/_alternatives/_Ghouls'n Ghosts/Ghouls'n Ghosts (cheat).mad, mad/Ghouls'n Ghosts -patched-.mad, mad/Ghouls'n Ghosts -World-.mad
+gorf: mad/Gorf (Program 1).mad, mad/Gorf (Speech).mad, mad/Gorf.mad
+guwange: mad/Guwange (Special).mad, mad/_alternatives/_Guwange/Guwange (Special).mad, mad/Guwange.mad
+gyrussb: mad/Gyruss (bootleg).mad, mad/_alternatives/_Gyruss/Gyruss [bl].mad
+gyrussce: mad/_alternatives/_Gyruss/Gyruss (Centuri).mad, mad/Gyruss (Centuri).mad
+invaders: mad/Space Invaders (Samples).mad, mad/Space Invaders.mad
+kickman: mad/Kick-Man.mad, mad/_alternatives/_Kick/Kick-Man.mad
+megaman: mad/Mega Man  The Power Battle -CPS1, USA 951006-.mad, mad/_alternatives/_Mega Man  The Power Battle -CPS1/Mega Man - CPS1.5.mad
+mysticm: mad/_alternatives/_Mystic Marathon/Mystic Marathon (prototype).mad, mad/Mystic Marathon.mad
+pacman: mad/Pac-Man (Midway).mad, mad/_alternatives/_Pacman/Pac-Man (Midway).mad
+pacplus: mad/Pac-Man Plus.mad, mad/_alternatives/_Pacman Plus/Pacman Plus - HBMame.mad
+pleiadce: mad/Pleiads (Centuri).mad, mad/_alternatives/_Pleiads/Pleiads (Centuri).mad
+pleiads: mad/Pleiads (Tehkan).mad, mad/Pleiads.mad
+polyplay2: mad/Poly Play 2.mad, mad/Poly Play 2c.mad
+punisherbz: mad/_alternatives/_The Punisher/Biaofeng Zhanjing (Chinese bootleg of The Punisher).mad, mad/_alternatives/_The Punisher/Biaofeng Zhanjing -Chinese bootleg of The Punisher-.mad
+rushatck: mad/Rush'n Attack (US).mad, mad/_alternatives/_Green Beret/Rush'n Attack (US).mad
+sfzch: mad/_alternatives/_Street Fighter Alpha Warriors' Dreams/Street Fighter Zero (CPS Changer, Japan 201218).mad, mad/_alternatives/_Street Fighter Alpha Warriors' Dreams/Street Fighter Zero (CPS Changer, Japan 951020).mad
+solomonj: mad/_alternatives/_Solomons Key/Solomon no Kagi (Japan).mad, mad/Solomon no Kagi (JP).mad
+starjacks: mad/Star Jacker (alt).mad, mad/_alternatives/_Star Jacker/Star Jacker (Alt).mad
+strider: mad/Strider -USA, B-Board 89624B-2-.mad, mad/_alternatives/_Strider/Strider -USA, patched-.mad
+theend: mad/The End (bkg).mad, mad/The End.mad
+tp84a: mad/Time Pilot '84 (Set 2).mad, mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 2).mad
+tp84b: mad/Time Pilot '84 (Set 3).mad, mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 3).mad
+uopoko: mad/Puzzle Uo Poko (Japan).mad, mad/Puzzle Uo Poko.mad
+venus: mad/Venus (bootleg of Gyruss).mad, mad/_alternatives/_Gyruss/Venus (Gyruss) [bl].mad
+wb33: mad/Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089).mad, mad/_alternatives/_Wonder Boy III/Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089).mad
+wow: mad/Wizard of Wor (Speech).mad, mad/Wizard of Wor.mad
+xevious: mad/Super Xevious.mad, mad/Xevious.mad
