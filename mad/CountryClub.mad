@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>countryc</setname>
+   <alternative>no</alternative>
+   <name>Country Club</name>
+   <resolution>16.1785kHz</resolution>
+   <year>1988</year>
+   <category>Sport Golf</category>
+   <manufacturer>SNK</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <special_controls>trackball</special_controls>
+</misterarcadedescription>
