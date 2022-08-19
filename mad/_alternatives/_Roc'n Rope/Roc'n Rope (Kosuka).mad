@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rocnropek</setname>
+   <alternative>yes</alternative>
+   <name>Roc'n Rope (Kosuka)</name>
+   <region>World</region>
+   <year>1983</year>
+   <manufacturer>Konami (Kosuka license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>
