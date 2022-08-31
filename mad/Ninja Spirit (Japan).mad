@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>nspiritj</setname>
+   <alternative>no</alternative>
+   <name>Ninja Spirit (Japan)</name>
+   <year>1989</year>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>3</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

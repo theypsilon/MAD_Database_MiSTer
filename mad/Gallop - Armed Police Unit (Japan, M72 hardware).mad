@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gallop</setname>
+   <alternative>no</alternative>
+   <name>Gallop - Armed Police Unit (Japan, M72 hardware)</name>
+   <year>1991</year>
+   <category>Shooter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
