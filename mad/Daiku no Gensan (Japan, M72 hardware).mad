@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dkgensanm72</setname>
+   <alternative>no</alternative>
+   <name>Daiku no Gensan (Japan, M72 hardware)</name>
+   <year>1990</year>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
