@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kchamp</setname>
+   <alternative>no</alternative>
+   <name>Karate Champ (US)</name>
+   <region>World</region>
+   <year>1984</year>
+   <manufacturer>Data East USA</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>
