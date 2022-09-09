@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rtype2</setname>
+   <alternative>no</alternative>
+   <name>R-Type II (World)</name>
+   <year>1989</year>
+   <category>Shooter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
