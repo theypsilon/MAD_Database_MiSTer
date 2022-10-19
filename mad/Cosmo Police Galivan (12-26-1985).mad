@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>sxevious</setname>
+   <setname>galivan</setname>
    <alternative>no</alternative>
-   <name>Super Xevious</name>
-   <flip>yes</flip>
+   <name>Cosmo Police Galivan (12/26/1985)</name>
    <resolution>15kHz</resolution>
-   <year>1982</year>
-   <category>Shooter - Vertical</category>
-   <manufacturer>Namco</manufacturer>
+   <year>1985</year>
+   <category>Platform</category>
+   <manufacturer>Nichibutsu</manufacturer>
    <homebrew>no</homebrew>
    <bootleg>no</bootleg>
-   <players>2 (alternating)</players>
+   <num_buttons>3</num_buttons>
+   <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

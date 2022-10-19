@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>hharryu</setname>
+   <alternative>no</alternative>
+   <name>Hammerin' Harry (US, M84 hardware)</name>
+   <year>1990</year>
+   <category>Platformer</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

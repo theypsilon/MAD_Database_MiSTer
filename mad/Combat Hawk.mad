@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>combh</setname>
+   <alternative>no</alternative>
+   <name>Combat Hawk</name>
+   <resolution>15kHz</resolution>
+   <year>1987</year>
+   <category>Shooter/1stPerson</category>
+   <manufacturer>Sanritsu/Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>3</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 2-way</move_inputs>
+</misterarcadedescription>

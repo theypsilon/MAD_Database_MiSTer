@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>galaga</setname>
+   <setname>galagao</setname>
    <alternative>yes</alternative>
    <name>Galaga (Namco)</name>
    <flip>yes</flip>

@@ -11,7 +11,7 @@
    <homebrew>no</homebrew>
    <bootleg>no</bootleg>
    <platform>Williams 2nd Generation</platform>
-   <series>Joust 2</series>
+   <series>Joust</series>
    <num_buttons>2</num_buttons>
    <players>2</players>
    <move_inputs>joystick 8-way</move_inputs>
