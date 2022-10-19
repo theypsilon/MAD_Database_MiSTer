@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>snowbro2</setname>
+   <alternative>no</alternative>
+   <name>Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram)</name>
+   <region>World</region>
+   <year>1994</year>
+   <category>Platform</category>
+   <manufacturer>Hanafram</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>4</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

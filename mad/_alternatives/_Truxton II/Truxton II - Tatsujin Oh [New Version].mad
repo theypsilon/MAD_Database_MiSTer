@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>truxton2n</setname>
+   <alternative>yes</alternative>
+   <name>Truxton II / Tatsujin Oh</name>
+   <region>Japan</region>
+   <year>1992</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Toaplan</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>nemesis</setname>
+   <alternative>no</alternative>
+   <name>Nemesis (ROM version)</name>
+   <region>World</region>
+   <year>1985</year>
+   <category>Shooter</category>
+   <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

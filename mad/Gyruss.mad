@@ -3,7 +3,14 @@
    <setname>gyruss</setname>
    <alternative>no</alternative>
    <name>Gyruss</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1983</year>
-   <category>Space</category>
+   <category>Shooter - Tube</category>
    <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>
