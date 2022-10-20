@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ikari3</setname>
+   <alternative>no</alternative>
+   <name>Ikari III - The Rescue (World Version 1, 8-Way Joystick)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>SNK</manufacturer>
+   <move_inputs>joystick 8-Way</move_inputs>
+</misterarcadedescription>
