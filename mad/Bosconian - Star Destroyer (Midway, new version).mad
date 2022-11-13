@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>boscomd</setname>
+   <alternative>no</alternative>
+   <name>Bosconian - Star Destroyer</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+</misterarcadedescription>
