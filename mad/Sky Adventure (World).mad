@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>skyadvnt</setname>
+   <alternative>no</alternative>
+   <name>Sky Adventure (World)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick 8-Way</move_inputs>
+</misterarcadedescription>

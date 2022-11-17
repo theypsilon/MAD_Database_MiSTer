@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gangwarsu</setname>
+   <alternative>yes</alternative>
+   <name>Gang Wars (US)</name>
+   <region>US</region>
+   <year>1989</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick 8-Way</move_inputs>
+</misterarcadedescription>

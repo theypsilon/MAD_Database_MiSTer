@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sbasebalj</setname>
+   <alternative>yes</alternative>
+   <name>Super Champion Baseball (Japan)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick 8-Way</move_inputs>
+</misterarcadedescription>
