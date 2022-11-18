@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>exeriont</setname>
+   <alternative>no</alternative>
+   <name>Exerion (Taito)</name>
+   <year>1983</year>
+   <category>Shooter</category>
+   <manufacturer>Jaleco</manufacturer>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
