@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>renegadeb</setname>
+   <setname>insectx</setname>
    <alternative>no</alternative>
-   <name>Renegade (US bootleg)</name>
+   <name>Insector X (World)</name>
    <region>World</region>
-   <year>1986</year>
-   <manufacturer>bootleg</manufacturer>
-   <bootleg>yes</bootleg>
+   <year>1989</year>
+   <manufacturer>Taito Corporation Japan</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

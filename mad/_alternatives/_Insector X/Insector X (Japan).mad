@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>rastsagaa</setname>
+   <setname>insectxj</setname>
    <alternative>yes</alternative>
-   <name>Rastan Saga (Japan Rev 1, earlier code base)</name>
+   <name>Insector X (Japan)</name>
    <region>World</region>
-   <year>1987</year>
+   <year>1989</year>
    <manufacturer>Taito Corporation</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>

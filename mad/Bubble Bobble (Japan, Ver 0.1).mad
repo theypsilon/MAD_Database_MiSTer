@@ -3,10 +3,9 @@
    <setname>bublbobl</setname>
    <alternative>no</alternative>
    <name>Bubble Bobble (Japan, Ver 0.1)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>1986</year>
-   <category>Platform / Run Jump</category>
-   <manufacturer>Taito</manufacturer>
+   <manufacturer>Taito Corporation</manufacturer>
    <players>2</players>
-   <move_inputs>joystick 2-way</move_inputs>
+   <move_inputs>joystick 2</move_inputs>
 </misterarcadedescription>

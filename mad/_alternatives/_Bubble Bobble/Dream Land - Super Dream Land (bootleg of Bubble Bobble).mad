@@ -3,8 +3,10 @@
    <setname>dland</setname>
    <alternative>yes</alternative>
    <name>Dream Land / Super Dream Land (bootleg of Bubble Bobble)</name>
-   <year>1986</year>
-   <category>Platform</category>
+   <region>World</region>
+   <year>1987</year>
    <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 2</move_inputs>
 </misterarcadedescription>
