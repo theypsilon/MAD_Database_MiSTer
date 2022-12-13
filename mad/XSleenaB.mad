@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>xsleenab</setname>
+   <alternative>no</alternative>
+   <name>Xaind Sleena (Bootleg B)</name>
+   <resolution>15.62kHz</resolution>
+   <year>1986</year>
+   <category>Platform / Shooter Scrolling</category>
+   <manufacturer>Technos</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
