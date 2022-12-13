@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
+   <setname>magspot</setname>
    <alternative>no</alternative>
    <name>Magical Spot</name>
    <year>1981</year>

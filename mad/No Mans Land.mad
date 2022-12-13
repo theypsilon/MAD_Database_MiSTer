@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
+   <setname>nomnlnd</setname>
    <alternative>no</alternative>
    <name>No Mans Land</name>
    <year>1981</year>
