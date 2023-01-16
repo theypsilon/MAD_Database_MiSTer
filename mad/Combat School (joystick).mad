@@ -3,7 +3,9 @@
    <setname>combatsc</setname>
    <alternative>no</alternative>
    <name>Combat School (joystick)</name>
+   <region>World</region>
    <year>1988</year>
-   <category>Army / Fighter</category>
    <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

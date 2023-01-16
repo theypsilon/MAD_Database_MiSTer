@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pipibibsa</setname>
+   <alternative>yes</alternative>
+   <name>Pipi and Bibis / Whoopee!! (Z80 sound cpu, set 2)</name>
+   <region>World</region>
+   <year>1991</year>
+   <category>Platform</category>
+   <manufacturer>Toaplan</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

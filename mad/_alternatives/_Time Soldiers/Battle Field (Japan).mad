@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>btlfield</setname>
+   <alternative>yes</alternative>
+   <name>Battle Field (Japan)</name>
+   <region>Japan</region>
+   <year>1987</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick Rotary</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>timesold1</setname>
+   <alternative>yes</alternative>
+   <name>Time Soldiers (US Rev 1)</name>
+   <region>US</region>
+   <year>1987</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick Rotary</move_inputs>
+</misterarcadedescription>

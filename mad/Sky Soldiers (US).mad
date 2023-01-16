@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>skysoldr</setname>
+   <alternative>no</alternative>
+   <name>Sky Soldiers (US)</name>
+   <region>US</region>
+   <year>1988</year>
+   <manufacturer>Alpha Denshi Co.</manufacturer>
+   <move_inputs>joystick 8-Way</move_inputs>
+</misterarcadedescription>

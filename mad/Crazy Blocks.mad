@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>crazyblk</setname>
+   <alternative>no</alternative>
+   <name>Crazy Blocks</name>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Puzzle</category>
+   <manufacturer>Kiwako (ECI license)</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

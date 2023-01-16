@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gng</setname>
+   <setname>karnov</setname>
    <alternative>no</alternative>
-   <name>Ghosts'n Goblins (World? set 1)</name>
+   <name>Karnov (US, rev 6)</name>
    <region>World</region>
-   <year>1985</year>
-   <manufacturer>Capcom</manufacturer>
+   <year>1987</year>
+   <manufacturer>Data East USA</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

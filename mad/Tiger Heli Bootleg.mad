@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tigerhb1</setname>
+   <alternative>no</alternative>
+   <name>Tiger Heli (Bootleg)</name>
+   <year>1985</year>
+   <category>Shooter</category>
+   <manufacturer>Toaplan</manufacturer>
+   <bootleg>yes</bootleg>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

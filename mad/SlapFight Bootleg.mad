@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>slapfighb1</setname>
+   <alternative>no</alternative>
+   <name>SlapFight (Bootleg)</name>
+   <year>1986</year>
+   <category>Shooter</category>
+   <manufacturer>Toaplan</manufacturer>
+   <bootleg>yes</bootleg>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
