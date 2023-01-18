@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>perfrmanu</setname>
+   <alternative>yes</alternative>
+   <name>Performan</name>
+   <year>1986</year>
+   <category>Puzzle</category>
+   <manufacturer>Toaplan</manufacturer>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
