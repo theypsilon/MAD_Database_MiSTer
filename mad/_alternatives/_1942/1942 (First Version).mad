@@ -3,7 +3,9 @@
    <setname>1942b</setname>
    <alternative>yes</alternative>
    <name>1942 (First Version)</name>
+   <region>World</region>
    <year>1984</year>
-   <category>Army / Airforce</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

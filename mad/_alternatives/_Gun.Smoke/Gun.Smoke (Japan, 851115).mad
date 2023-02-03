@@ -3,7 +3,9 @@
    <setname>gunsmokej</setname>
    <alternative>yes</alternative>
    <name>Gun.Smoke (Japan, 851115)</name>
+   <region>World</region>
    <year>1985</year>
-   <category>Adventure / Western</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
