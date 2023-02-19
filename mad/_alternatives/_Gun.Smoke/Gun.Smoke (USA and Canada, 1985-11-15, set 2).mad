@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gunsmokeuc</setname>
+   <alternative>yes</alternative>
+   <name>Gun.Smoke (USA and Canada, 1985-11-15, set 2)</name>
+   <region>World</region>
+   <year>1985</year>
+   <manufacturer>Capcom (Romstar license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

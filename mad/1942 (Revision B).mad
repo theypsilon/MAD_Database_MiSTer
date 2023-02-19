@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>1942</setname>
+   <alternative>no</alternative>
+   <name>1942 (Revision B)</name>
+   <region>World</region>
+   <year>1984</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
