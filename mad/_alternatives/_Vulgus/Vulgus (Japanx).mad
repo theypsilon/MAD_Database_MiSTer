@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>mach9</setname>
+   <setname>vulgusj</setname>
    <alternative>yes</alternative>
-   <name>Mach-9 (bootleg of Vulgus)</name>
+   <name>Vulgus (Japan?)</name>
    <region>World</region>
    <year>1984</year>
-   <manufacturer>bootleg (ITISA)</manufacturer>
-   <bootleg>yes</bootleg>
+   <manufacturer>Capcom</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
