@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tnzsuo</setname>
+   <alternative>yes</alternative>
+   <name>The NewZealand Story (US, old version) (P0-041A PCB)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Taito America Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

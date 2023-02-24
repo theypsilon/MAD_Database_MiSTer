@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>drtoppel</setname>
+   <alternative>no</alternative>
+   <name>Dr. Toppel's Adventure (World)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Kaneko / Taito Corporation Japan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

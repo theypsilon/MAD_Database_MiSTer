@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>drtoppelj</setname>
+   <alternative>yes</alternative>
+   <name>Dr. Toppel's Tankentai (Japan)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Kaneko / Taito Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
