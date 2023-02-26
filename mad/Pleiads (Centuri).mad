@@ -2,8 +2,15 @@
 <misterarcadedescription>
    <setname>pleiadce</setname>
    <alternative>no</alternative>
-   <name>Pleiads (Centuri)</name>
+   <name>Pleiades</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
    <year>1981</year>
-   <category>Space / Shooter</category>
-   <manufacturer>Centuri</manufacturer>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Tehkan</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
 </misterarcadedescription>
