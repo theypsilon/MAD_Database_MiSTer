@@ -3,11 +3,9 @@
    <setname>mpang</setname>
    <alternative>no</alternative>
    <name>Mighty! Pang (Euro 001010)</name>
-   <region>Europe</region>
+   <region>World</region>
    <year>2000</year>
-   <category>Platformer</category>
-   <manufacturer>Mitchell</manufacturer>
-   <platform>CPS-2</platform>
+   <manufacturer>Mitchell (Capcom license)</manufacturer>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

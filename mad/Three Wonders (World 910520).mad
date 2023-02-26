@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>3wonders</setname>
+   <alternative>no</alternative>
+   <name>Three Wonders (World 910520)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

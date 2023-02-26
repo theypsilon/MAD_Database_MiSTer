@@ -3,11 +3,9 @@
    <setname>gigawingj</setname>
    <alternative>yes</alternative>
    <name>Giga Wing (Japan 990223)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>1999</year>
-   <category>Shoot'em up</category>
-   <manufacturer>Takumi</manufacturer>
-   <platform>CPS-2</platform>
+   <manufacturer>Takumi (Capcom license)</manufacturer>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -3,11 +3,9 @@
    <setname>csclubh</setname>
    <alternative>yes</alternative>
    <name>Capcom Sports Club (Hispanic 970722)</name>
-   <region>Hispanic</region>
+   <region>World</region>
    <year>1997</year>
-   <category>MultiGame</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

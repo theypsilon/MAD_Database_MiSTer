@@ -3,11 +3,9 @@
    <setname>gmahou</setname>
    <alternative>yes</alternative>
    <name>Great Mahou Daisakusen (Japan 000121)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>2000</year>
-   <category>Shoot'em up</category>
-   <manufacturer>Eighting / Raizing</manufacturer>
-   <platform>CPS-2</platform>
+   <manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

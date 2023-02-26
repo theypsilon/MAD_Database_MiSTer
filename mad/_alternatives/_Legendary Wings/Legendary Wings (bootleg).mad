@@ -3,8 +3,10 @@
    <setname>lwingsb</setname>
    <alternative>yes</alternative>
    <name>Legendary Wings (bootleg)</name>
+   <region>World</region>
    <year>1986</year>
-   <category>Shooter</category>
-   <manufacturer>Capcom</manufacturer>
+   <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

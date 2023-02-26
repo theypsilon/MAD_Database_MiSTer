@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rockmanj</setname>
+   <alternative>yes</alternative>
+   <name>Rockman: The Power Battle (CPS1, Japan 950922)</name>
+   <region>Japan</region>
+   <year>1995</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

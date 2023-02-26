@@ -3,11 +3,9 @@
    <setname>mpangj</setname>
    <alternative>yes</alternative>
    <name>Mighty! Pang (Japan 001011)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>2000</year>
-   <category>Platformer</category>
-   <manufacturer>Mitchell</manufacturer>
-   <platform>CPS-2</platform>
+   <manufacturer>Mitchell (Capcom license)</manufacturer>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

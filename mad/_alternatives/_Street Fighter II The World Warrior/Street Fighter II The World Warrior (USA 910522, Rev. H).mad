@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sf2uh</setname>
+   <alternative>yes</alternative>
+   <name>Street Fighter II: The World Warrior (USA 910522, Rev. H)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

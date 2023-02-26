@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>1944</setname>
+   <setname>1944u</setname>
    <alternative>yes</alternative>
    <name>1944: The Loop Master (USA 000620)</name>
-   <region>USA</region>
+   <region>World</region>
    <year>2000</year>
    <manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

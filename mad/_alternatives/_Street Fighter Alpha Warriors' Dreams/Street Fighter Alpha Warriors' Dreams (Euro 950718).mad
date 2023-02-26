@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sfar1</setname>
+   <alternative>yes</alternative>
+   <name>Street Fighter Alpha: Warriors' Dreams (Euro 950718)</name>
+   <region>World</region>
+   <year>1995</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

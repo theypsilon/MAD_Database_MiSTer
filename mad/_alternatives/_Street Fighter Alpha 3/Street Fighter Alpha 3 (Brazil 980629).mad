@@ -5,9 +5,7 @@
    <name>Street Fighter Alpha 3 (Brazil 980629)</name>
    <region>World</region>
    <year>1998</year>
-   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>3wondersh</setname>
+   <alternative>yes</alternative>
+   <name>Three Wonders (hack)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>bootleg</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

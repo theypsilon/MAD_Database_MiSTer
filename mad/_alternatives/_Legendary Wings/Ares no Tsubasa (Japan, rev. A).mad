@@ -2,8 +2,10 @@
 <misterarcadedescription>
    <setname>lwingsja</setname>
    <alternative>yes</alternative>
-   <name>Ares no Tsubasa (Japan, Rev A)</name>
+   <name>Ares no Tsubasa (Japan, rev. A)</name>
+   <region>World</region>
    <year>1986</year>
-   <category>Shooter</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>area88r</setname>
+   <alternative>yes</alternative>
+   <name>Area 88 (Japan Resale Ver.)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

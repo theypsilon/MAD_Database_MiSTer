@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>megamana</setname>
+   <alternative>yes</alternative>
+   <name>Mega Man: The Power Battle (CPS1, Asia 951006)</name>
+   <region>Asia</region>
+   <year>1995</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

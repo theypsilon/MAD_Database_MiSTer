@@ -5,9 +5,7 @@
    <name>Super Street Fighter II: The Tournament Battle (World 931119)</name>
    <region>World</region>
    <year>1993</year>
-   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

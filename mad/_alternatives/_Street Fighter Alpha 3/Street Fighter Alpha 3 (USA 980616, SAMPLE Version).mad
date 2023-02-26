@@ -2,12 +2,10 @@
 <misterarcadedescription>
    <setname>sfa3us</setname>
    <alternative>yes</alternative>
-   <name>Street Fighter Alpha 3 (USA 980616, Sample Version)</name>
-   <region>USA</region>
+   <name>Street Fighter Alpha 3 (USA 980616, SAMPLE Version)</name>
+   <region>World</region>
    <year>1998</year>
-   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

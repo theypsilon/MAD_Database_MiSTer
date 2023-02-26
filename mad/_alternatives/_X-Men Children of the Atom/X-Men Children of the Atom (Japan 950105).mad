@@ -3,11 +3,9 @@
    <setname>xmcotaj</setname>
    <alternative>yes</alternative>
    <name>X-Men: Children of the Atom (Japan 950105)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>1994</year>
-   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

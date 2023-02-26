@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kodr1</setname>
+   <alternative>yes</alternative>
+   <name>The King of Dragons (World 910711)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>3</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vampja</setname>
+   <alternative>yes</alternative>
+   <name>Vampire: The Night Warriors (Japan 940705 alt)</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

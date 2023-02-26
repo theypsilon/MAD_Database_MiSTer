@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>cawingr1</setname>
+   <alternative>yes</alternative>
+   <name>Carrier Air Wing (World 901009)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sfzbch</setname>
+   <alternative>yes</alternative>
+   <name>Street Fighter Zero (CPS Changer, Brazil 950727)</name>
+   <region>Brazil</region>
+   <year>1995</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

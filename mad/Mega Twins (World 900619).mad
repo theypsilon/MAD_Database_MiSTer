@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mtwins</setname>
+   <alternative>no</alternative>
+   <name>Mega Twins (World 900619)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

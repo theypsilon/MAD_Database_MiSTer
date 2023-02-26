@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ringdesth</setname>
+   <alternative>yes</alternative>
+   <name>Ring of Destruction: Slammasters II (Hispanic 940902)</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>1941u</setname>
+   <alternative>yes</alternative>
+   <name>1941: Counter Attack (USA 900227)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

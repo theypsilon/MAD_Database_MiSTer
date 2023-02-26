@@ -3,11 +3,9 @@
    <setname>sfz2alh</setname>
    <alternative>yes</alternative>
    <name>Street Fighter Zero 2 Alpha (Hispanic 960813)</name>
-   <region>Hispanic</region>
+   <region>World</region>
    <year>1996</year>
-   <category>Fighting</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

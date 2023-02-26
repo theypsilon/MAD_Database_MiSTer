@@ -3,11 +3,8 @@
    <setname>qndream</setname>
    <alternative>no</alternative>
    <name>Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 96086)</name>
-   <region>Japan</region>
+   <region>World</region>
    <year>1996</year>
-   <category>Quiz</category>
    <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
    <players>2</players>
-   <move_inputs>joystick 4-way</move_inputs>
 </misterarcadedescription>
