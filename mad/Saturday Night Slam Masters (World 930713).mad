@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>slammast</setname>
+   <alternative>no</alternative>
+   <name>Saturday Night Slam Masters (World 930713)</name>
+   <region>World</region>
+   <year>1993</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
