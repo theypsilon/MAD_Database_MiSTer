@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mvscud</setname>
+   <alternative>yes</alternative>
+   <name>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1998</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

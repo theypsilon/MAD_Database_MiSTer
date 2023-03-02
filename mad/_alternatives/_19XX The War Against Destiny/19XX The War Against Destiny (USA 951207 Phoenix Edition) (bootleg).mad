@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>19xxd</setname>
+   <alternative>yes</alternative>
+   <name>19XX: The War Against Destiny (USA 951207 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1996</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

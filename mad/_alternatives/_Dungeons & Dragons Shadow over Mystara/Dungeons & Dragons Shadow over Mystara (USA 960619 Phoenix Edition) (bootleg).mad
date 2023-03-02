@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ddsomud</setname>
+   <alternative>yes</alternative>
+   <name>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1996</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

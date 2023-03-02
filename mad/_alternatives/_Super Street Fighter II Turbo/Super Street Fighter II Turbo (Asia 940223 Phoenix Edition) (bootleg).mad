@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ssf2tad</setname>
+   <alternative>yes</alternative>
+   <name>Super Street Fighter II Turbo (Asia 940223 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

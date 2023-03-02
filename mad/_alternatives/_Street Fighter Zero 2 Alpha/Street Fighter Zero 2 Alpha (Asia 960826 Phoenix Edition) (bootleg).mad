@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sfz2ald</setname>
+   <alternative>yes</alternative>
+   <name>Street Fighter Zero 2 Alpha (Asia 960826 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1996</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

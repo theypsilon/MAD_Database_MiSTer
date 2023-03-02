@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>csclub1d</setname>
+   <alternative>yes</alternative>
+   <name>Capcom Sports Club (Euro 970722 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1997</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

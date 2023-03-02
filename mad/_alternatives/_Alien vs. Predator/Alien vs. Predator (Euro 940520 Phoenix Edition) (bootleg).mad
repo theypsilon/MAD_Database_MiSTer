@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>avspd</setname>
+   <alternative>yes</alternative>
+   <name>Alien vs. Predator (Euro 940520 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>3</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
