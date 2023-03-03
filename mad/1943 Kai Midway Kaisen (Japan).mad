@@ -1,9 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>bionicc</setname>
+   <setname>1943kai</setname>
    <alternative>no</alternative>
-   <name>Bionic Commando (Euro)</name>
+   <name>1943 Kai: Midway Kaisen (Japan)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Army / Fighter</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

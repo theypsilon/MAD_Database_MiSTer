@@ -1,11 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>1943h</setname>
+   <setname>bioniccbl</setname>
    <alternative>yes</alternative>
-   <name>1943 The Battle of Midway (bootleg set 2, hack of Japan set) - HBMame</name>
+   <name>Bionic Commandos (bootleg, set 1)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Army / Airforce</category>
    <manufacturer>bootleg</manufacturer>
-   <homebrew>yes</homebrew>
    <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

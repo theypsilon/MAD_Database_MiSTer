@@ -1,9 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>1943ua</setname>
+   <setname>toramich</setname>
    <alternative>yes</alternative>
-   <name>1943 The Battle of Midway (US)</name>
+   <name>Tora e no Michi (Japan)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Army / Airforce</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

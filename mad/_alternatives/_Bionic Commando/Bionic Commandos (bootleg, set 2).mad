@@ -1,11 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>commandoj</setname>
+   <setname>bioniccbl2</setname>
    <alternative>yes</alternative>
-   <name>Senjou no Ookami</name>
+   <name>Bionic Commandos (bootleg, set 2)</name>
    <region>World</region>
-   <year>1985</year>
-   <manufacturer>Capcom</manufacturer>
+   <year>1987</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -2,8 +2,10 @@
 <misterarcadedescription>
    <setname>1943jah</setname>
    <alternative>yes</alternative>
-   <name>1943 Midway Kaisen (Japan, no protection hack)</name>
+   <name>1943: Midway Kaisen (Japan, no protection hack)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Army / Airforce</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -5,10 +5,8 @@
    <name>Commando (bootleg set 2)</name>
    <region>World</region>
    <year>1985</year>
-   <category>Run 'n Gun</category>
-   <manufacturer>Capcom (Bootleg)</manufacturer>
+   <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
-   <platform>Capcom Z80</platform>
    <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

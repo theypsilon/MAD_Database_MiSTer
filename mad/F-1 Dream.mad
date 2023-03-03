@@ -3,7 +3,9 @@
    <setname>f1dream</setname>
    <alternative>no</alternative>
    <name>F-1 Dream</name>
+   <region>World</region>
    <year>1988</year>
-   <category>Racing / F1</category>
    <manufacturer>Capcom (Romstar license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
