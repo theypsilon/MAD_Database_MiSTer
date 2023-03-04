@@ -3,7 +3,9 @@
    <setname>higemaru</setname>
    <alternative>no</alternative>
    <name>Pirate Ship Higemaru</name>
+   <region>World</region>
    <year>1984</year>
-   <category>Maze</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
 </misterarcadedescription>
