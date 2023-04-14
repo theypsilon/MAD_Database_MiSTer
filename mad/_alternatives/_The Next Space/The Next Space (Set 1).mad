@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tnextspc</setname>
+   <alternative>yes</alternative>
+   <name>The Next Space (Set 1)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>SNK</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tnextspcj</setname>
+   <alternative>no</alternative>
+   <name>The Next Space (Japan)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>SNK (Pasadena International Corp. license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
