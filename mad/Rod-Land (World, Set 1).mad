@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rodland</setname>
+   <alternative>no</alternative>
+   <name>Rod-Land (World, Set 1)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

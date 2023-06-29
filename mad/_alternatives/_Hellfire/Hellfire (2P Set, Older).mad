@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>hellfire2a</setname>
+   <alternative>yes</alternative>
+   <name>Hellfire (2P Set, Older)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>Toaplan (Taito License)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

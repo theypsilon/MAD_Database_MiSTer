@@ -2,8 +2,10 @@
 <misterarcadedescription>
    <setname>outzoneb</setname>
    <alternative>yes</alternative>
-   <name>Out Zone (older set)</name>
+   <name>Out Zone (Older Set)</name>
+   <region>World</region>
    <year>1990</year>
-   <category>Run 'n Gun</category>
    <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

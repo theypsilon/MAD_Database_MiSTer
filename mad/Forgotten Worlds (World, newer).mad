@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>forgottn</setname>
+   <alternative>no</alternative>
+   <name>Forgotten Worlds (World, newer)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>zerowing1</setname>
+   <alternative>yes</alternative>
+   <name>Zero Wing (1P Set)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

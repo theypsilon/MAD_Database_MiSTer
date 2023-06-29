@@ -3,7 +3,9 @@
    <setname>outzone</setname>
    <alternative>no</alternative>
    <name>Out Zone</name>
+   <region>Japan</region>
    <year>1990</year>
-   <category>Run 'n Gun</category>
    <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

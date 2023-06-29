@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>samesamecn</setname>
+   <alternative>yes</alternative>
+   <name>Jiao! Jiao! Jiao! (Hong Kong, 2P Set)</name>
+   <region>Hong Kong</region>
+   <year>1990</year>
+   <manufacturer>Toaplan (Hong Kong Honest Trading License)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

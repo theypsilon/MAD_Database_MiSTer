@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>inthuntu</setname>
+   <alternative>yes</alternative>
+   <name>In The Hunt (US)</name>
+   <year>1993</year>
+   <category>Shooter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

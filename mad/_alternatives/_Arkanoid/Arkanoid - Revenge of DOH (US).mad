@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>arknoid2u</setname>
+   <alternative>yes</alternative>
+   <name>Arkanoid - Revenge of DOH (US)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+   <players>2</players>
+</misterarcadedescription>

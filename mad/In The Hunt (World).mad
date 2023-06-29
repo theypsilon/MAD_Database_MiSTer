@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>inthunt</setname>
+   <alternative>no</alternative>
+   <name>In The Hunt (World)</name>
+   <year>1993</year>
+   <category>Shooter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>piratpet</setname>
+   <alternative>no</alternative>
+   <name>Pirate Pete</name>
+   <year>1982</year>
+   <category>Action</category>
+   <manufacturer>Taito</manufacturer>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

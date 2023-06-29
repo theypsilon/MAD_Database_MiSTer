@@ -6,7 +6,6 @@
    <region>World</region>
    <year>1991</year>
    <manufacturer>Sega / Westone</manufacturer>
-   <platform>SEGA S16B</platform>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

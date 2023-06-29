@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ssoldier</setname>
+   <alternative>no</alternative>
+   <name>Superior Soldiers (US)</name>
+   <year>1993</year>
+   <category>Fighter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>6</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

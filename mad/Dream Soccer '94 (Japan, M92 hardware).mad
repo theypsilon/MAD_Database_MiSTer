@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dsoccr94j</setname>
+   <alternative>no</alternative>
+   <name>Dream Soccer '94 (Japan, M92 hardware)</name>
+   <year>1994</year>
+   <category>Sport</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

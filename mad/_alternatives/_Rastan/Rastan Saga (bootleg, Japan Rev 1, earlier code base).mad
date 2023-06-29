@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rastsagaabl</setname>
+   <alternative>yes</alternative>
+   <name>Rastan Saga (bootleg, Japan Rev 1, earlier code base)</name>
+   <region>Japan</region>
+   <year>1987</year>
+   <manufacturer>Taito Corporation</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

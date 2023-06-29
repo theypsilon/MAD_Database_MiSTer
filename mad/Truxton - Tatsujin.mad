@@ -3,7 +3,9 @@
    <setname>truxton</setname>
    <alternative>no</alternative>
    <name>Truxton / Tatsujin</name>
-   <year>1989</year>
-   <category>Shoot 'em up</category>
-   <manufacturer>Toaplan</manufacturer>
+   <region>Japan</region>
+   <year>1988</year>
+   <manufacturer>Toaplan / Taito Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>

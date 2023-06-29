@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pang3r1</setname>
+   <alternative>yes</alternative>
+   <name>Pang! 3 (Euro 950511)</name>
+   <region>World</region>
+   <year>1995</year>
+   <manufacturer>Mitchell</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

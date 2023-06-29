@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>soldam</setname>
+   <alternative>no</alternative>
+   <name>Soldam</name>
+   <region>World</region>
+   <year>1992</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

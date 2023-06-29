@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>nbbatmanu</setname>
+   <alternative>yes</alternative>
+   <name>Ninja Baseball Bat Man (World)</name>
+   <year>1993</year>
+   <category>Fighter</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>4</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

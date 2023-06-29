@@ -3,7 +3,9 @@
    <setname>sidearmsu</setname>
    <alternative>yes</alternative>
    <name>Side Arms - Hyper Dyne (US, 861202)</name>
+   <region>World</region>
    <year>1986</year>
-   <category>Shoot em up</category>
-   <manufacturer>Capcom</manufacturer>
+   <manufacturer>Capcom (Romstar license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

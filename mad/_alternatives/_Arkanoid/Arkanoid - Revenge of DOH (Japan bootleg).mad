@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>arknoid2b</setname>
+   <alternative>yes</alternative>
+   <name>Arkanoid - Revenge of DOH (Japan bootleg)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+   <players>2</players>
+</misterarcadedescription>

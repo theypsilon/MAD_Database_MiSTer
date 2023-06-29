@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>outzoneh</setname>
+   <alternative>yes</alternative>
+   <name>Out Zone (Harder)</name>
+   <region>Japan</region>
+   <year>1990</year>
+   <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

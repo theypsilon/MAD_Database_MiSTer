@@ -3,7 +3,9 @@
    <setname>sidearms</setname>
    <alternative>no</alternative>
    <name>Side Arms - Hyper Dyne (World, 861129)</name>
+   <region>World</region>
    <year>1986</year>
-   <category>Shoot 'em up</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bmaster</setname>
+   <alternative>no</alternative>
+   <name>Blade Master (World)</name>
+   <year>1991</year>
+   <category>Brawler</category>
+   <manufacturer>Irem</manufacturer>
+   <num_buttons>2</num_buttons>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

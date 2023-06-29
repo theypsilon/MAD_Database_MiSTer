@@ -3,8 +3,10 @@
    <setname>tokiob</setname>
    <alternative>no</alternative>
    <name>Tokio / Scramble Formation (bootleg)</name>
+   <region>World</region>
    <year>1986</year>
-   <category>Platform</category>
-   <manufacturer>Taito</manufacturer>
+   <manufacturer>bootleg</manufacturer>
    <bootleg>yes</bootleg>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

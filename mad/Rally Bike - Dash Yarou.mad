@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rallybik</setname>
+   <alternative>no</alternative>
+   <name>Rally Bike / Dash Yarou</name>
+   <region>Japan</region>
+   <year>1988</year>
+   <manufacturer>Toaplan / Taito Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

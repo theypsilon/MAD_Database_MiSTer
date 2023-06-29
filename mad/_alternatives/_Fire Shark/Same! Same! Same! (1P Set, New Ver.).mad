@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>samesamenh</setname>
+   <alternative>yes</alternative>
+   <name>Same! Same! Same! (1P set, New Ver.)</name>
+   <region>Japan</region>
+   <year>2015</year>
+   <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

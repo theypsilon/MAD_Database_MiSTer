@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>elevatorb</setname>
+   <alternative>no</alternative>
+   <name>Elevator Action (bootleg)</name>
+   <year>1983</year>
+   <category>Platform</category>
+   <manufacturer>Taito</manufacturer>
+   <bootleg>yes</bootleg>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>waterski</setname>
+   <alternative>no</alternative>
+   <name>Water Ski</name>
+   <year>1983</year>
+   <category>Sports</category>
+   <manufacturer>Taito</manufacturer>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

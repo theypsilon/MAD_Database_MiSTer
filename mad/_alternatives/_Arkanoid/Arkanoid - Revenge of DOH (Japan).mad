@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>arknoid2j</setname>
+   <alternative>yes</alternative>
+   <name>Arkanoid - Revenge of DOH (Japan)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Taito Corporation</manufacturer>
+   <players>2</players>
+</misterarcadedescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vimanan</setname>
+   <alternative>yes</alternative>
+   <name>Vimana (World, Set 2)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>Toaplan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>wwestern</setname>
+   <alternative>no</alternative>
+   <name>Wild Western</name>
+   <year>1983</year>
+   <category>Platform</category>
+   <manufacturer>Taito</manufacturer>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

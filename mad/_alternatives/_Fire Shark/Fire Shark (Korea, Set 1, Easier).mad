@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>fireshrkd</setname>
+   <alternative>yes</alternative>
+   <name>Fire Shark (Korea, Set 1, Easier)</name>
+   <region>Korea</region>
+   <year>1990</year>
+   <manufacturer>Toaplan (Dooyong license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
