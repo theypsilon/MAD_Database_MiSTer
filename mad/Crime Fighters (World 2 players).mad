@@ -1,12 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>tokiob</setname>
+   <setname>crimfght</setname>
    <alternative>no</alternative>
-   <name>Tokio - Scramble Formation (bootleg)</name>
+   <name>Crime Fighters (World 2 players)</name>
    <region>World</region>
-   <year>1986</year>
-   <manufacturer>bootleg</manufacturer>
-   <bootleg>yes</bootleg>
+   <year>1989</year>
+   <manufacturer>Konami</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
