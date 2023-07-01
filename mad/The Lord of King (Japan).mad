@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>lordofk</setname>
+   <alternative>no</alternative>
+   <name>The Lord of King (Japan)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

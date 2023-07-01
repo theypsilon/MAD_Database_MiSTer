@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>p47j</setname>
+   <alternative>no</alternative>
+   <name>P-47 - The Freedom Fighter (Japan)</name>
+   <region>Japan</region>
+   <year>1988</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

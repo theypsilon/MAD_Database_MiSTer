@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>p47</setname>
+   <alternative>yes</alternative>
+   <name>P-47 - The Phantom Fighter (World)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
