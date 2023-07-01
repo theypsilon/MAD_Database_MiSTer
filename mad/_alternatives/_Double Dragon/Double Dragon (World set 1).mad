@@ -3,7 +3,9 @@
    <setname>ddragonw</setname>
    <alternative>yes</alternative>
    <name>Double Dragon (World set 1)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Fighter / Hero</category>
    <manufacturer>Technos Japan (Taito license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

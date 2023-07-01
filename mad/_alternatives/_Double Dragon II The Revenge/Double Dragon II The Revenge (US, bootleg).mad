@@ -1,11 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ddragonua</setname>
+   <setname>ddragon2b</setname>
    <alternative>yes</alternative>
-   <name>Double Dragon (US set 2)</name>
+   <name>Double Dragon II: The Revenge (US, bootleg)</name>
    <region>World</region>
-   <year>1987</year>
-   <manufacturer>Technos Japan (Taito America license)</manufacturer>
+   <year>1988</year>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

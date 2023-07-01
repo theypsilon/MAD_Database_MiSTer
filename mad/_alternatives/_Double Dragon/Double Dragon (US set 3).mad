@@ -3,7 +3,9 @@
    <setname>ddragonub</setname>
    <alternative>yes</alternative>
    <name>Double Dragon (US set 3)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Fighter / Hero</category>
    <manufacturer>Technos Japan (Taito America license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

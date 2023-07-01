@@ -2,8 +2,10 @@
 <misterarcadedescription>
    <setname>ddragon2j</setname>
    <alternative>yes</alternative>
-   <name>Double Dragon II - The Revenge (Japan)</name>
+   <name>Double Dragon II: The Revenge (Japan)</name>
+   <region>World</region>
    <year>1988</year>
-   <category>Fighter / Hero</category>
    <manufacturer>Technos Japan</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
