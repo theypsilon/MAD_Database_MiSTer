@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>quartet2a</setname>
+   <alternative>no</alternative>
+   <name>Quartet 2 (World, S16A) [No Protection]</name>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Sega</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

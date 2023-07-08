@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sdia</setname>
+   <alternative>yes</alternative>
+   <name>SDI: Strategic Defense Initiative (Japan, Old Ver., S16A) [FD1089B 317-0027]</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Sega</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
