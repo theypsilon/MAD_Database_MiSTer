@@ -6,4 +6,6 @@
    <region>Japan</region>
    <year>1989</year>
    <manufacturer>SNK</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
 </misterarcadedescription>
