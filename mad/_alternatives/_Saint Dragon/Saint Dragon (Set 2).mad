@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>stdragona</setname>
+   <alternative>yes</alternative>
+   <name>Saint Dragon (Set 2)</name>
+   <region>Japan</region>
+   <year>1990</year>
+   <manufacturer>Jaleco</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
