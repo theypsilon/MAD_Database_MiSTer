@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>simpsons4pa</setname>
+   <alternative>yes</alternative>
+   <name>The Simpsons (4 Players Asia)</name>
+   <region>Asia</region>
+   <year>1991</year>
+   <manufacturer>Konami</manufacturer>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

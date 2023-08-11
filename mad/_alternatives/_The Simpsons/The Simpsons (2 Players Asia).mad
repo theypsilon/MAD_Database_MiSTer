@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>blkdrgon</setname>
+   <setname>simpsons2pa</setname>
    <alternative>yes</alternative>
-   <name>Black Dragon (Japan)</name>
-   <region>World</region>
-   <year>1987</year>
-   <manufacturer>Capcom</manufacturer>
+   <name>The Simpsons (2 Players Asia)</name>
+   <region>Asia</region>
+   <year>1991</year>
+   <manufacturer>Konami</manufacturer>
    <players>2</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

@@ -3,7 +3,9 @@
    <setname>blktigera</setname>
    <alternative>yes</alternative>
    <name>Black Tiger (older)</name>
+   <region>World</region>
    <year>1987</year>
-   <category>Fighter / Warriors</category>
    <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>

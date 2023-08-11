@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>blktiger</setname>
+   <setname>simpsons</setname>
    <alternative>no</alternative>
-   <name>Black Tiger</name>
+   <name>The Simpsons (4 Players World, set 1)</name>
    <region>World</region>
-   <year>1987</year>
-   <manufacturer>Capcom</manufacturer>
-   <players>2</players>
+   <year>1991</year>
+   <manufacturer>Konami</manufacturer>
+   <players>4</players>
    <move_inputs>joystick 8</move_inputs>
 </misterarcadedescription>
