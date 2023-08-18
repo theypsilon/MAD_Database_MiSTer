@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tmnta</setname>
+   <alternative>yes</alternative>
+   <name>Teenage Mutant Ninja Turtles (Asia 4 Players, version ?)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Konami</manufacturer>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
