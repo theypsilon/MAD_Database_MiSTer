@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mia2</setname>
+   <alternative>yes</alternative>
+   <name>M.I.A. - Missing in Action (version S)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>
