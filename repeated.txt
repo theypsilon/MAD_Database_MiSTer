@@ -1,0 +1,34 @@
+: mad/Computer Space.mad, mad/Pac-Manic Miner.mad, mad/_alternatives/_Rod-Land/R&T (Rod-Land Prototype).mad
+arkanoid: mad/Arkanoid (Unl. lives) [hb].mad, mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/_alternatives/_Arkanoid/Arkanoid (Unl. Lives, slower) HBMame.mad, mad/Arkanoid (US).mad, mad/Arkanoid (W).mad
+arkanoidj: mad/Arkanoid (JP).mad, mad/_alternatives/_Arkanoid/Arkanoid (JP).mad
+atetrisc: mad/_alternatives/_Tetris/Tetris (cocktail set 1).mad, mad/Tetris (Cocktail, Set 1).mad
+batrideru: mad/Armed Police Batrider (USA) (Fri Feb 13 1998).mad, mad/Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mad
+bbakraid: mad/Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999).mad, mad/Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mad
+centiped3: mad/Centipede (Rev 3).mad, mad/_alternatives/_Centipede/Centipede (revision 3).mad
+ckongdks: mad/Donkey Kong (Spanish Crazy Kong bootleg).mad, mad/_alternatives/_Donkey Kong/Donkey Kong (Spanish, Crazy Kong) [bl].mad
+ckongo: mad/_alternatives/_Crazy Kong/Crazy Kong (Orca Bootleg) [bl].mad, mad/Crazy Kong (Orca bootleg).mad
+darkplnt: mad/Dark Planet (no bkg).mad, mad/Dark Planet.mad
+feversos: mad/_alternatives/_Dangun Feveron/Fever SOS.mad, mad/Fever SOS.mad
+galaga3: mad/Galaga 3 (GP3 Rev D).mad, mad/_alternatives/_Gaplus/Galaga 3 (GP3 rev. D).mad
+gorf: mad/Gorf (Program 1).mad, mad/Gorf (Speech).mad, mad/Gorf.mad
+guwanges: mad/_alternatives/_Guwange/Guwange (Special).mad, mad/Guwange (Special).mad
+invaders: mad/Space Invaders (Samples).mad, mad/Space Invaders.mad
+kickman: mad/_alternatives/_Kick/Kick-Man.mad, mad/Kick-Man.mad
+mia2: mad/_alternatives/_M.I.A. - Missing in Action/M.I.A. - Missing in Action (version S).mad, mad/_alternatives/_M.I.A./M.I.A. - Missing in Action (version S).mad
+mysticm: mad/_alternatives/_Mystic Marathon/Mystic Marathon (prototype).mad, mad/Mystic Marathon.mad
+pacman: mad/Pac-Man (Midway).mad, mad/_alternatives/_Pacman/Pac-Man (Midway).mad
+pacplus: mad/Pac-Man Plus.mad, mad/_alternatives/_Pacman Plus/Pacman Plus - HBMame.mad
+pleiadce: mad/_alternatives/_Pleiads/Pleiads (Centuri).mad, mad/Pleiads (Centuri).mad
+pleiads: mad/Pleiads (Tehkan).mad, mad/Pleiads.mad
+polyplay2: mad/Poly Play 2.mad, mad/Poly Play 2c.mad
+rushatck: mad/Rush'n Attack (US).mad, mad/_alternatives/_Green Beret/Rush'n Attack (US).mad
+solomonj: mad/_alternatives/_Solomons Key/Solomon no Kagi (Japan).mad, mad/Solomon no Kagi (JP).mad
+starjacks: mad/Star Jacker (alt).mad, mad/_alternatives/_Star Jacker/Star Jacker (Alt).mad
+theend: mad/The End (bkg).mad, mad/The End.mad
+tmht2pa: mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Hero Turtles (UK 2 Players, version x).mad, mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Hero Turtles (UK 2 Players, version ).mad
+tmhtb: mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Hero Turtles (UK 4 Players, version x).mad, mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Hero Turtles (UK 4 Players, version ).mad
+tmnt2po: mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Oceania 2 Players, version x).mad, mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Oceania 2 Players, version ).mad
+tmnta: mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Asia 4 Players, version x).mad, mad/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Asia 4 Players, version ).mad
+tp84a: mad/Time Pilot '84 (Set 2).mad, mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 2).mad
+tp84b: mad/Time Pilot '84 (Set 3).mad, mad/_alternatives/_Time Pilot '84/Time Pilot '84 (Set 3).mad
+wow: mad/Wizard of Wor (Speech).mad, mad/Wizard of Wor.mad
