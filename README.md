@@ -33,7 +33,6 @@ An example of a valid MAD file would be the following:
 	<year>1997</year>
 	<manufacturer>CAVE</manufacturer>
 	<category>Shooter - Vertical</category>
-	<best_of>theypsilon Top Shmups|1</best_of>
 
 	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
